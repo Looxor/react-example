@@ -1,0 +1,153 @@
+  {
+    "data": {
+      "contest_id": "5de64dee66eb953c6419e625",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$g(f(x)) = \\frac{1}{1 + x}$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$f(g(y)) = \\frac{1}{1 + y}$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$g(f(x)) = x + 1$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f(g(y)) = y + 1$"
+            },
+            {
+              "answer_number": 4,
+              "text": "Nessuna alternativa è corretta"
+            }
+          ],
+          "question": "Siano $f(x) = \\frac 1 x$ e $g(y) = \\frac 1 y$, si ha che",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 25
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Diventa il quadruplo"
+            },
+            {
+              "answer_number": 1,
+              "text": "Diventa il doppio"
+            },
+            {
+              "answer_number": 2,
+              "text": "Diventa otto volte  l'originale"
+            },
+            {
+              "answer_number": 3,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 4,
+              "text": "Diventa il triplo"
+            }
+          ],
+          "question": "Gianluca ha un piatto di forma circolare che vuole sostituire con un altro avente il raggio pari al doppio dell'originale. Come varia la superficie del piatto?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$k=2$ e $f\\left(x\\right)=2x$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$k=-4$ e $f\\left(x\\right)=-\\frac{x}{2}$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$k=4$ e $f\\left(x\\right)=\\frac{x}{2}$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$k=\\frac{1}{2}$ e $f\\left(x\\right)=x$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$k=\\frac{1}{4}$ e $f\\left(x\\right)=\\frac{x}{2}$"
+            }
+          ],
+          "question": "Data $f\\left(x\\right)=\\frac{k}{x^2+4}$ con $k\\in \\mathbb{R}$ e $g\\left(x\\right)=2{arctan f\\left(x\\right)}+k$, l'uguaglianza $\\int{f\\left(x\\right)dx}=g\\left(x\\right)$ è vera per",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "è$ x^2$"
+            },
+            {
+              "answer_number": 1,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 2,
+              "text": "non esiste"
+            },
+            {
+              "answer_number": 3,
+              "text": "è $1-\\frac{x^2}{2}$"
+            },
+            {
+              "answer_number": 4,
+              "text": "è $1+\\frac{x^2}{2}$"
+            }
+          ],
+          "question": "Il polinomio di Taylor di secondo grado di $\\cos(x)$",
+          "question_number": 3,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$f^{'}$ si annulla almeno due volte"
+            },
+            {
+              "answer_number": 1,
+              "text": "$f$ cambia segno esattamente"
+            },
+            {
+              "answer_number": 2,
+              "text": "$f$ è un polinomio di terzo grado"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f^{'}$ si annulla almeno tre volte"
+            },
+            {
+              "answer_number": 4,
+              "text": "$f^{'}$ può essere monotona crescente"
+            }
+          ],
+          "question": "Se una funzione $f:\\mathbb{R}\\to \\mathbb{R}$ è derivabile e si annulla solo in $x=0$, $x=2$ e $x=4$, allora",
+          "question_number": 4,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  }

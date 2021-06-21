@@ -1,0 +1,89 @@
+[
+  {
+    "avg_score": 25.8,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "federico",
+    "position": 1,
+    "university_id": "5b4c6d1d29957d53aa863c93",
+    "university_name": "Politecnico di Milano",
+    "user_id": "5f7662ef55d62082dca2fb6d"
+  },
+  {
+    "avg_score": 24.275,
+    "faculty_id": "5b53441c3cb6d44f9d87a685",
+    "faculty_image_url": null,
+    "faculty_name": "Medicina e chirurgia",
+    "is_friend": false,
+    "nickname": "itsChri3",
+    "position": 2,
+    "profile_image_url": "https://lh4.googleusercontent.com/-k8xpWMwm258/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckIs2iUEUN0hBXeuf3Zjtncs26m0A/s120/photo.jpg",
+    "university_id": "5b4c6d1e29957d53aa863c95",
+    "university_name": "Università degli Studi di Milano-Bicocca",
+    "user_id": "5f92eb949135706ab289f0c6"
+  },
+  {
+    "avg_score": 22.125,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "itsChri",
+    "position": 3,
+    "profile_image_url": "https://storage.it.thefacultyapp.com/users/5c096cd53b7750001854c46a/profile_image/5f268c1c439bfa9baff443ff.jpg",
+    "university_id": "5b4c6d1e29957d53aa863c95",
+    "university_name": "Università degli Studi di Milano-Bicocca",
+    "user_id": "5f5130241f8a5b1a8967d44b"
+  },
+  {
+    "avg_score": 22.1,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "jinnahrae",
+    "position": 4,
+    "profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+    "user_id": "5fcf1d0a7e9bdb33a0d219df"
+  },
+  {
+    "avg_score": 19.85,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "jeannahrae",
+    "position": 5,
+    "profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+    "university_id": "5b4c6d1d29957d53aa863c93",
+    "university_name": "Politecnico di Milano",
+    "user_id": "5f526ea4dda24f825fbefbc9"
+  },
+  {
+    "avg_score": 19.425,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "Chris",
+    "position": 6,
+    "university_id": "5bb8f32f1c9d44000022b211",
+    "university_name": "SmartCreative Srl",
+    "user_id": "5f7ae3ec5f49c6ca3eaf935c"
+  },
+  {
+    "avg_score": 19.15,
+    "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+    "faculty_image_url": null,
+    "faculty_name": "Informatica",
+    "is_friend": false,
+    "nickname": "itsChriGoogle",
+    "position": 7,
+    "profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+    "university_id": "5bb8f32f1c9d44000022b211",
+    "university_name": "SmartCreative Srl",
+    "user_id": "5f58f24e39adc40624ca15ca"
+  }
+]

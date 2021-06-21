@@ -1,0 +1,17 @@
+There is still the lag in the Shop screens (Shop, BestOf, Contest etc.)
+
+This is because we have some heavy loading of data
+I am going to fix problem by 
+- applying caches
+- by removing unnecessary codes
+
+1. Shop
+In ScontiHome, I didn't build it from the first so I need to discuss something before removing all codes there
+
+
+2. BestOf
+It takes a little bit long time to show the home screen. 0.5s
+FIXED
+
+3. Contest
+FIXED

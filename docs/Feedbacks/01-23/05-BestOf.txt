@@ -1,0 +1,5 @@
+The bottom popup in BestOf Shop must be shown only the first time that opens this screen (not always) (image 3)
+The box “Coupons” (“Sconti”) in the BestOf Shop it must be shown this way (image 4)
+Ongoing BestOfs there are some problems:
+- you have to diverge ongoing bestofs from terminated bestofs (like image 5)
+- the terminated BestOfs can be clicked (and will open BestOf page with obtained)

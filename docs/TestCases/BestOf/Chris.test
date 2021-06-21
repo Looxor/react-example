@@ -1,0 +1,35 @@
+\1. Login
+email: christian.locatelli.dev@gmail.com
+password: ********
+
+\2. When go to BestOf(Challenges)  
+- There should be Points
+- There should be Sconti
+- There should be 2 buttons(Ongoing battles, New battle)
+- There should be a span "5 vite di 5"
+
+\3. When go to "New battle"
+- There should be a list including "Friend", "Random"
+
+3.1. When go to "Friend BestOf"
+- There should be a list of friends
+3.1.1. When select a friend (hereby "Jin"), 
+          - it should go "Battle" Screen 
+          - "Jin" should get a push notification from server
+
+3.1.2. When select a menu icon at the right top in the screen,
+- An ActionSheet dialog appear that says "Reject", "Cancel"
+
+3.1.2.1. When select "Reject",
+- It should go to the ScontiHome
+- "Jin" gets a push notification from the server.
+- an item should be added in ongoing list, which says "You played with jin / You lost 0 to 0"
+
+3.1.3. When select "Play",
+- It will show a new question screen
+- If timer ends, it will show a new question screen (2nd)
+- If user selects an answer, it whill show a new question screen
+- At the second screen, if user selects an answer, 
+  it will show the result screen
+- At the result screen, if user selects "Move to History",
+  it should go to the ScontiHome

@@ -1,0 +1,348 @@
+{
+	"info": {
+		"_postman_id": "Jin-8e3635d6-4164-4072-a3d0-21baf7ccc0de",
+		"name": "TheFaculty-Jin",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "bestof/start_bestof",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"friend_id\": \"5dd2b65500107e15753acc37\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/start_bestof",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"start_bestof"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/reject_bestof",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"5e1260eac3a1f7d53c2041f9\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/reject_bestof",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"reject_bestof"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/get_bestof_data",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"bestof_id\": \"5e126453c3a1f7d53c2041fa\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/get_bestof_data",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"get_bestof_data"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/get_available_bestofs_data",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/get_available_bestofs_data",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"get_available_bestofs_data"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/get_last_bestofs_played",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/get_last_bestofs_played",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"get_last_bestofs_played"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/bestof_scoreboard_cleaner",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"bestof_id\": \"5e1260eac3a1f7d53c2041f9\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/bestof_scoreboard_cleaner",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"bestof_scoreboard_cleaner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/get_ongoing_bestofs_count",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"firebase_idToken\": \"eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODIzMjk3NCwidXNlcl9pZCI6IlJXYUk4WlZwbHZjcW16c3lGRkM1cWVPRHdhNTMiLCJzdWIiOiJSV2FJOFpWcGx2Y3FtenN5RkZDNXFlT0R3YTUzIiwiaWF0IjoxNTc4MjU4MjAwLCJleHAiOjE1NzgyNjE4MDAsImVtYWlsIjoiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.ghz3JSbz0sWM1l7lndzHDHTLAKhIbLd0-r9DAX9prYI7n04k1GKD5ODHw3KiTblPSfbkWjbGZ5JUoxyOCCAwkTNpHO5P9fx4msPKdwyx2jo_S-MeDxU9S25aAZ79Js5F3AOO0FmYCtNDZjqYkYfe-sCddNuHnIDfFL_FyGbtI-I01f0hWtLoewFvzSJG2sy3KiMbDrSSCBHLTj-pivVyyHYbuUaRWwdAtugMdMlI6m0VVCxzP0PWsrMAWMev57w6IqbYMDmQadkL0csYk3BSzcF04TlkjJVUtWzt7R_PBgy6CEQDNop_looRnF6Ub2oilCw54C5UH_Dd_RmBb5eWKA\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/get_ongoing_bestofs_count",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"get_ongoing_bestofs_count"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bestof/get_ongoing_bestofs",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"firebase_idToken\": \"eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODIzMjk3NCwidXNlcl9pZCI6IlJXYUk4WlZwbHZjcW16c3lGRkM1cWVPRHdhNTMiLCJzdWIiOiJSV2FJOFpWcGx2Y3FtenN5RkZDNXFlT0R3YTUzIiwiaWF0IjoxNTc4MjU4MjAwLCJleHAiOjE1NzgyNjE4MDAsImVtYWlsIjoiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.ghz3JSbz0sWM1l7lndzHDHTLAKhIbLd0-r9DAX9prYI7n04k1GKD5ODHw3KiTblPSfbkWjbGZ5JUoxyOCCAwkTNpHO5P9fx4msPKdwyx2jo_S-MeDxU9S25aAZ79Js5F3AOO0FmYCtNDZjqYkYfe-sCddNuHnIDfFL_FyGbtI-I01f0hWtLoewFvzSJG2sy3KiMbDrSSCBHLTj-pivVyyHYbuUaRWwdAtugMdMlI6m0VVCxzP0PWsrMAWMev57w6IqbYMDmQadkL0csYk3BSzcF04TlkjJVUtWzt7R_PBgy6CEQDNop_looRnF6Ub2oilCw54C5UH_Dd_RmBb5eWKA\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testing-it-thefaculty-backend.appspot.com/bestof/get_ongoing_bestofs",
+					"protocol": "https",
+					"host": [
+						"testing-it-thefaculty-backend",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"bestof",
+						"get_ongoing_bestofs"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "3118579d-ee41-4718-b94e-ce1f6fd4c72e",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "6f6d3b78-4b98-48af-88c1-b94f916e77dd",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "988b288c-0480-4d1f-9e37-a7ba5ad2a6b1",
+			"key": "firebase_idToken",
+			"value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODI1OTYzMCwidXNlcl9pZCI6IlFqWUJvQVp4VFlObEc4Z0VZMUxBenJ5S2ZyVTIiLCJzdWIiOiJRallCb0FaeFRZTmxHOGdFWTFMQXpyeUtmclUyIiwiaWF0IjoxNTc4MjYzODQ3LCJleHAiOjE1NzgyNjc0NDcsImVtYWlsIjoiamlubmFocmFlQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImppbm5haHJhZUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.DW1aC7HXBVH218f8WCNm0rBNzK029cimtfySsziy-udHgQtYlrCNFpOfcLlNI-rNR8cSTMJQ1GGK0lIM-gvmIEGT7MTOXwRCMeyUv4sqV_bqS_SSzoNWF7NellxMLXMqanpwsSL7juEy5fzVn-vtGWz58m6MMM2PpaEKPbmuWlZqotLy4NBldkFWwr4s_CYWvunqMScVdiWf8U67xm2gjxBPEoByYi9BsLPCrTl07UCkJefKUWYK4DebyWZn0dzjICt8QmLs9YR6SeTH96sN68V3VMZ3y1MENHKqyig_vLsDFqn2w62HEZLg-6m_VbXNwimta1JqqEynA9Kds0BHQQ",
+			"type": "string"
+		},
+		{
+			"id": "ae8258db-5065-4377-8d7d-b16cf6c608ac",
+			"key": "bestof_id",
+			"value": "a",
+			"type": "string"
+		},
+		{
+			"id": "0f3707de-c9bb-47fb-9da6-b2e39792b08f",
+			"key": "friend_id",
+			"value": "5dd2b65500107e15753acc37",
+			"type": "string"
+		}
+	],
+	"protocolProfileBehavior": {}
+}

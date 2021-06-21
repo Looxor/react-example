@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "coins_requirement": 10,
+      "conditions": [
+        {
+          "message": "Nessuno sconto disponibile",
+          "name": "any_left",
+          "satisfied": false,
+          "transient": true
+        },
+        {
+          "message": "10 gettoni",
+          "name": "coins_requirement",
+          "satisfied": true
+        }
+      ],
+      "coupon_id": "5e5fda04612afd8910599b3b",
+      "description": "Fino a €40 di sconto*\n*Coupon utilizzabile per l’acquisto da 1 a massimo 4 biglietti.\nGenera il tuo sconto e mostra il Qr code alle biglietterie del Parco: potrai acquistare fino a un massimo di 4 biglietti Gardaland Park, a tariffa intera diurna, ottenendo subito €10 di sconto su ogni biglietto che acquisterai.\n\nValido fino al 1 novembre 2020.\nBiglietti di ingresso utilizzabili solo il giorno dell'emissione. Non cumulabile.\nCodice: 2058",
+      "finish_date": "2020-09-29T00:00:00.000Z",
+      "image_url": "https://storage.it.thefacultyapp.com/coupons/5c8582228ef235fe6a79e0c5_default.png",
+      "is_valid": false,
+      "partner_id": "5c8582228ef235fe6a79e0c5",
+      "partner_image_url": "https://storage.it.thefacultyapp.com/partners/5c8582228ef235fe6a79e0c5.png",
+      "partner_name": "Gardaland",
+      "priority": 0,
+      "start_date": "2020-02-29T00:00:00.000Z",
+      "text": "Fino a €40 di sconto*\n*Coupon utilizzabile per l’acquisto da 1 a massimo 4 biglietti.\nGenera il tuo sconto e mostra il Qr code alle biglietterie del Parco: potrai acquistare fino a un massimo di 4 biglietti Gardaland Park, a tariffa intera diurna, ottenendo subito €10 di sconto su ogni biglietto che acquisterai.\n\nValido fino al 1 novembre 2020.\nBiglietti di ingresso utilizzabili solo il giorno dell'emissione. Non cumulabile.\nCodice: 2058",
+      "title": "Sconto di €10 a biglietto",
+      "usage_finish_date": "2020-09-29T00:00:00.000Z",
+      "usage_start_date": "2020-02-29T00:00:00.000Z",
+      "view": "qrcode"
+    },
+    {
+      "activation_barcode": "3810001909038",
+      "coins_requirement": 50,
+      "conditions": [
+        {
+          "message": "Generabile fino al 14/10/2020 01:59",
+          "name": "any_left",
+          "satisfied": true
+        },
+        {
+          "action": "APP#REFFERAL_CODE#SCAN",
+          "action_title": "Completa ora",
+          "description": "Inserisci tutte le informazioni per certificare il tuo status universitario",
+          "message": "Studente universitario",
+          "name": "is_student",
+          "satisfied": false,
+          "title": "Completa il profilo",
+          "transient": true
+        }
+      ],
+      "coupon_id": "5da48b4daa52211396d2bd4f",
+      "description": "Invito all'acquisto Camicissima - 1 camicia 20% di sconto!\nL'offerta è valida fino al 24 dicembre 2019 in tutti i punti vendita aderenti e non è cumulabile con altre offerte in corso.\nPer usufruire di entrambe le offerte è necessario generare due diversi scontrini.\nPer usufruire degli sconti è necessario presentare in cassa codice univoco e codice a barre, mentre per gli acquisiti su https://www.camicissima.it è sufficiente inserire il codice univoco nel carrello al check-out.",
+      "finish_date": "2020-10-14T01:59:59.000Z",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FCamicissima+Logo+Produzione-1569337844.png?alt=media&token=59b5640c-164a-44fb-80c3-c8ab41969f10",
+      "is_valid": false,
+      "partner_id": "5d8a31259c8a3eea5cac46da",
+      "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FCamicissima+Logo+Produzione-1569337844.png?alt=media&token=59b5640c-164a-44fb-80c3-c8ab41969f10",
+      "partner_name": "Camicissima",
+      "priority": 1,
+      "start_date": "2019-10-07T02:00:00.000Z",
+      "text": "Invito all'acquisto Camicissima - 1 camicia 20% di sconto!\nL'offerta è valida fino al 24 dicembre 2019 in tutti i punti vendita aderenti e non è cumulabile con altre offerte in corso.\nPer usufruire di entrambe le offerte è necessario generare due diversi scontrini.\nPer usufruire degli sconti è necessario presentare in cassa codice univoco e codice a barre, mentre per gli acquisiti su https://www.camicissima.it è sufficiente inserire il codice univoco nel carrello al check-out.",
+      "title": "20% di sconto su una camicia",
+      "usage_finish_date": "2020-12-24T00:59:59.000Z",
+      "usage_start_date": "2019-10-07T02:00:00.000Z",
+      "view": "barcode+text"
+    },
+    {
+      "allow_non_students": false,
+      "category": "Wellness",
+      "coins_requirement": 0,
+      "conditions": [
+        {
+          "message": "Generabile fino al 31/08/2021 23:59",
+          "name": "is_active",
+          "satisfied": true
+        },
+        {
+          "message": "Studente universitario",
+          "name": "is_student",
+          "satisfied": true
+        },
+        {
+          "action": "APP#REFERRAL_CODE#GENERAL",
+          "action_title": "Scannerizza il codice",
+          "description": "Per sbloccare questo sconto vai in una palestra McFIT, fai la giornata di prova e scannerizza dalla sezione codice promozionale il codice QR di the[bold]faculty[/bold] che troverai in palestra!",
+          "message": "Hai fatto la giornata di prova McFIT",
+          "name": "mcfit_trial_day_done",
+          "satisfied": false,
+          "title": "Fai la giornata di prova",
+          "transient": true
+        }
+      ],
+      "coupon_id": "5f4e11481f599801d598670f",
+      "description": "Vai in palestra e fai la giornata di prova. Poi se sei soddisfatto cerca all'interno della palestra un poster di thefaculty con un QR code e scansionalo nella sezione \"Codice Promozionale\" dell’App. Questo ti permetterà di generare lo sconto: mostralo al personale in palestra che ti attiverà l’abbonamento scontato. Nelle condizioni d’uso trovi l’elenco delle palestre in cui lo sconto è utilizzabile. ",
+      "finish_date": "2021-08-31T23:59:59+02:00",
+      "image_url": "https://storage.it.thefacultyapp.com/coupons/5bbba0af4c8cf668154a909a_default.png",
+      "is_cashback": false,
+      "is_multiple_use": false,
+      "is_valid": false,
+      "nothing_message": "Mostra lo sconto al personale McFIT, ti attiveranno la promozione",
+      "partner_id": "5bbba0af4c8cf668154a909a",
+      "partner_image_url": "https://storage.it.thefacultyapp.com/partners/5bbba0af4c8cf668154a909a.png",
+      "partner_name": "McFIT",
+      "priority": 48,
+      "start_date": "2020-09-01T00:00:00+02:00",
+      "text": "Quota di Abbonamento mensile di 23,90€.Durata iniziale contrattuale minima di 12 mesi. Costo di Attivazione Membercard 30,00 €. Ulteriori 3 mesi di Abbonamento omaggio. Rinnovo automatico di sei mesi in sei mesi in assenza di disdetta. Valido in tutte le palestre McFIT in Italia.",
+      "title": "Promo a 23,90€ e 3 mesi gratis",
+      "usage_finish_date": "2021-08-31T23:59:59+02:00",
+      "usage_start_date": "2020-09-01T00:00:00+02:00",
+      "view": "nothing"
+    }
+  ],
+  "success": true
+}

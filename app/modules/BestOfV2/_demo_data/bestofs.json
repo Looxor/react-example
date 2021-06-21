@@ -1,0 +1,1399 @@
+[
+  {
+    "bestof_data": {
+      "bestof_id": "5fd1057472c5945656620e6a",
+      "faculty_id": null,
+      "is_bot": false,
+      "last_update_date": "2020-12-09T18:12:29.209Z",
+      "ongoing": true,
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-09T18:12:35.208Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false,
+          "user1_score": 26,
+          "user2_score": 22
+        },
+        {
+          "question_number": 1,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_has_answered": true,
+          "user2_has_answered": false,
+          "user1_score": 26
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        }
+      ],
+      "start_date": "2020-12-09T18:12:20.683Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f526ea4dda24f825fbefbc9",
+      "user2_nickname": "jeannahrae",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user2_university_id": "5b4c6d1d29957d53aa863c93",
+      "user2_university_name": "Politecnico di Milano",
+      "winner_name": "user1",
+      "version": 1
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "si possono inserire righe senza compilare tutti i campi, a patto che le colonne abbiano dei default"
+        },
+        {
+          "answer_number": 1,
+          "text": "il comando INSERT INTO consente di aggiungere una sola nuova riga alla tabella"
+        },
+        {
+          "answer_number": 2,
+          "text": "è possibile ignorare i vincoli UNIQUE usando il comando FORCE"
+        },
+        {
+          "answer_number": 3,
+          "text": "è necessario specificare i valori contatore"
+        },
+        {
+          "answer_number": 4,
+          "text": "non è possibile inserire una riga con valori NULL"
+        }
+      ],
+      "question": "Nell’inserire una riga in un database relazionale:",
+      "question_number": 0,
+      "start_date": "2020-12-18T22:47:20.208+08:00",
+      "subject_id": "5dbe08ce2a5640a180dfe493",
+      "subject_image_url": null,
+      "subject_name": "Basi di dati",
+      "timeout": 35
+    }
+  },
+  {
+    "bestof_data": {
+      "bestof_id": "5fd10bfec71e941705dea86d",
+      "faculty_id": null,
+      "is_bot": true,
+      "last_update_date": "2020-12-09T18:40:24.518Z",
+      "ongoing": true,
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-09T18:40:32.518Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 1,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        }
+      ],
+      "start_date": "2020-12-09T18:40:14.745Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f58f24e39adc40624ca15ca",
+      "user2_nickname": "itsChriGoogle",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+      "user2_university_id": "5bb8f32f1c9d44000022b211",
+      "user2_university_name": "SmartCreative Srl",
+      "version": 1
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "MEDIAN()"
+        },
+        {
+          "answer_number": 1,
+          "text": "MIDDLE()"
+        },
+        {
+          "answer_number": 2,
+          "text": "MEAN()"
+        },
+        {
+          "answer_number": 3,
+          "text": "AVG()"
+        },
+        {
+          "answer_number": 4,
+          "text": "MED()"
+        }
+      ],
+      "question": "In SQL, quale comando si usa per calcolare la media?",
+      "question_number": 0,
+      "start_date": "2020-12-09T18:40:32.518Z",
+      "subject_id": "5dbe08ce2a5640a180dfe493",
+      "subject_image_url": null,
+      "subject_name": "Basi di dati",
+      "timeout": 35
+    }
+  },
+  {
+    "bestof_data": {
+      "bestof_id": "5fd8d39698ef305bf4e74376",
+      "faculty_id": null,
+      "is_bot": false,
+      "last_update_date": "2020-12-15T16:17:47.500Z",
+      "ongoing": true,
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-15T16:17:53.500Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 1,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false
+        }
+      ],
+      "start_date": "2020-12-15T16:17:42.121Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f526ea4dda24f825fbefbc9",
+      "user2_nickname": "jeannahrae",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user2_university_id": "5b4c6d1d29957d53aa863c93",
+      "user2_university_name": "Politecnico di Milano",
+      "version": 1
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "SECONDARY KEY"
+        },
+        {
+          "answer_number": 1,
+          "text": "COMPOSITE KEY"
+        },
+        {
+          "answer_number": 2,
+          "text": "UNIQUE KEY"
+        },
+        {
+          "answer_number": 3,
+          "text": "PRIMARY KEY"
+        },
+        {
+          "answer_number": 4,
+          "text": "FOREIGN KEY"
+        }
+      ],
+      "question": "In SQL, quale delle seguenti NON è un tipo di chiave?",
+      "question_number": 0,
+      "start_date": "2020-12-15T16:17:53.500Z",
+      "subject_id": "5dbe08ce2a5640a180dfe493",
+      "subject_image_url": null,
+      "subject_name": "Basi di dati",
+      "timeout": 35
+    }
+  },
+  {
+    "bestof_data": {
+      "user_id": "5fcf1d0a7e9bdb33a0d219df",
+      "bestof_id": "5fd8eb5718d431f7120ce5f8",
+      "faculty_id": null,
+      "is_bot": true,
+      "last_update_date": "2020-12-15T17:59:26.535Z",
+      "ongoing": true,
+      "start_date": "2020-12-15T17:59:03.001Z",
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-15T17:59:20.801Z",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_score": 17,
+          "user2_score": 17,
+          "all_questions_count": 0,
+          "is_start": true,
+          "is_end": false
+        },
+        {
+          "question_number": 1,
+          "start_date": "2020-12-15T17:59:29.477Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        }
+      ],
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f58f24e39adc40624ca15ca",
+      "user2_nickname": "itsChriGoogle",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+      "user2_university_id": "5bb8f32f1c9d44000022b211",
+      "user2_university_name": "SmartCreative Srl",
+      "version": 2
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "Sì, ma solo per atto motivato dell'autorità giudiziaria"
+        },
+        {
+          "answer_number": 1,
+          "text": "No, in alcun caso, dato che la Repubblica tutela la salute come fondamentale diritto dell'individuo"
+        },
+        {
+          "answer_number": 2,
+          "text": "No, mai"
+        },
+        {
+          "answer_number": 3,
+          "text": "No, se non per disposizione di legge e comunque nel rispetto della persona umana"
+        },
+        {
+          "answer_number": 4,
+          "text": "No, dato che la legge non può in alcun caso violare i limiti imposti dal rispetto della persona umana"
+        }
+      ],
+      "question": "In base alla Costituzione italiana, si può essere obbligati a un determinato trattamento sanitario?",
+      "question_number": 1,
+      "start_date": "2020-12-15T17:59:29.477Z",
+      "subject_id": "5b6c580f808cc3c15981e383",
+      "subject_image_url": null,
+      "subject_name": "Diritto costituzionale",
+      "timeout": 35,
+      "all_questions_count": 4,
+      "is_start": false,
+      "is_end": false
+    },
+    "answered_question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "tutti i destinatari del messaggio, sia diretti, sia in copia conoscenza, ma non quelli in copia conoscenza nascosta"
+        },
+        {
+          "answer_number": 1,
+          "text": "tutti i destinatari del messaggio diretti, ma non quelli in copia conoscenza o in copia conoscenza nascosta"
+        },
+        {
+          "answer_number": 2,
+          "text": "solo i destinatari presenti nel campo \"Ccn:\""
+        },
+        {
+          "answer_number": 3,
+          "text": "tutti i destinatari del messaggio, sia diretti, sia in copia conoscenza, sia in copia conoscenza nascosta"
+        },
+        {
+          "answer_number": 4,
+          "text": "tutti i destinatari del messaggio presenti nel campo \"A:\" ma non quelli nel campo \"Cc:\""
+        }
+      ],
+      "question": "Nel ricevere un messaggio di posta elettronica, possono rispondere al mittente e a tutti i destinatari indicati nel campo \"Cc\":",
+      "question_number": 0,
+      "start_date": "2020-12-15T17:59:20.801Z",
+      "subject_id": "5d72a0979c8a3eea5cb30a78",
+      "subject_image_url": null,
+      "subject_name": "Architettura delle reti - Internet",
+      "timeout": 35,
+      "all_questions_count": 0,
+      "is_start": true,
+      "is_end": false
+    }
+  },
+  {
+    "bestof_data": {
+      "user_id": "5fcf1d0a7e9bdb33a0d219df",
+      "bestof_id": "5fd9016918d431f7120ce5f9",
+      "faculty_id": null,
+      "is_bot": true,
+      "last_update_date": "2020-12-15T19:33:39.186Z",
+      "ongoing": true,
+      "start_date": "2020-12-15T19:33:13.807Z",
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-15T19:33:30.875Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_score": 17,
+          "user2_score": 23,
+          "all_questions_count": 0,
+          "is_start": true,
+          "is_end": false
+        },
+        {
+          "question_number": 1,
+          "start_date": "2020-12-15T19:33:42.146Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        }
+      ],
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f58f24e39adc40624ca15ca",
+      "user2_nickname": "itsChriGoogle",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+      "user2_university_id": "5bb8f32f1c9d44000022b211",
+      "user2_university_name": "SmartCreative Srl",
+      "version": 2
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "Un tipo di database"
+        },
+        {
+          "answer_number": 1,
+          "text": "Un tipo di dati per archiviare dati binari di tipo OD"
+        },
+        {
+          "answer_number": 2,
+          "text": "Un linguaggio per effettuare query"
+        },
+        {
+          "answer_number": 3,
+          "text": "Un'interfaccia per la connessione a un DBMS"
+        },
+        {
+          "answer_number": 4,
+          "text": "Un sistema per la correzione dati, che impiega CRC"
+        }
+      ],
+      "question": "Nei database, cos’è un driver ODBC?",
+      "question_number": 1,
+      "start_date": "2020-12-15T19:33:42.146Z",
+      "subject_id": "5dbe08ce2a5640a180dfe493",
+      "subject_image_url": null,
+      "subject_name": "Basi di dati",
+      "timeout": 35,
+      "all_questions_count": 4,
+      "is_start": false,
+      "is_end": false
+    },
+    "answered_question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "Dal presidente della corte costituzionale"
+        },
+        {
+          "answer_number": 1,
+          "text": "Dagli elettori"
+        },
+        {
+          "answer_number": 2,
+          "text": "Dal Senato stesso"
+        },
+        {
+          "answer_number": 3,
+          "text": "Dal presidente della Repubblica"
+        },
+        {
+          "answer_number": 4,
+          "text": "Dal presidente della corte dei conti"
+        }
+      ],
+      "question": "Da chi è direttamente eletto il Presidente del Senato della Repubblica?",
+      "question_number": 0,
+      "start_date": "2020-12-15T19:33:30.875Z",
+      "subject_id": "5b6c580f808cc3c15981e383",
+      "subject_image_url": null,
+      "subject_name": "Diritto costituzionale",
+      "timeout": 35,
+      "all_questions_count": 0,
+      "is_start": true,
+      "is_end": false
+    }
+  },
+  {
+    "bestof_data": {
+      "user_id": "5fcf1d0a7e9bdb33a0d219df",
+      "bestof_id": "5fd9715e18d431f7120ce5fa",
+      "faculty_id": null,
+      "is_bot": false,
+      "last_update_date": "2020-12-16T03:31:13.588Z",
+      "ongoing": true,
+      "start_date": "2020-12-16T03:30:54.058Z",
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-16T03:31:05.112Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_score": 17,
+          "all_questions_count": 0,
+          "is_start": true,
+          "is_end": false
+        },
+        {
+          "question_number": 1,
+          "start_date": "2020-12-16T03:31:16.492Z",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        }
+      ],
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f526ea4dda24f825fbefbc9",
+      "user2_nickname": "jeannahrae",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user2_university_id": "5b4c6d1d29957d53aa863c93",
+      "user2_university_name": "Politecnico di Milano",
+      "version": 2
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "la compilazione di una pagina web in PHP o HTML"
+        },
+        {
+          "answer_number": 1,
+          "text": "nessuna delle altre alternative è corretta"
+        },
+        {
+          "answer_number": 2,
+          "text": "la visualizzazione dei contenuti delle pagine di siti web e l'interazione con essi"
+        },
+        {
+          "answer_number": 3,
+          "text": "la compilazione di programmi scritti in linguaggio Java e la loro distribuzione via web"
+        },
+        {
+          "answer_number": 4,
+          "text": "la connessione a una stampante anche senza possederne i driver"
+        }
+      ],
+      "question": "Un browser consente:",
+      "question_number": 1,
+      "start_date": "2020-12-16T03:31:16.492Z",
+      "subject_id": "5d72a0979c8a3eea5cb30a78",
+      "subject_image_url": null,
+      "subject_name": "Architettura delle reti - Internet",
+      "timeout": 35,
+      "all_questions_count": 4,
+      "is_start": false,
+      "is_end": false
+    },
+    "answered_question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "Il Presidente del Consiglio dei Ministri"
+        },
+        {
+          "answer_number": 1,
+          "text": "Il Presidente della Camera"
+        },
+        {
+          "answer_number": 2,
+          "text": "Il Presidente del Senato"
+        },
+        {
+          "answer_number": 3,
+          "text": "Il Presidente della Repubblica"
+        },
+        {
+          "answer_number": 4,
+          "text": "Il Presidente della Corte Costituzionale"
+        }
+      ],
+      "question": "Chi ratifica i trattati internazionali?",
+      "question_number": 0,
+      "start_date": "2020-12-16T03:31:05.112Z",
+      "subject_id": "5b6c580f808cc3c15981e383",
+      "subject_image_url": null,
+      "subject_name": "Diritto costituzionale",
+      "timeout": 35,
+      "all_questions_count": 0,
+      "is_start": true,
+      "is_end": false
+    }
+  },
+  {
+    "bestof_data": {
+      "user_id": "5f526ea4dda24f825fbefbc9",
+      "bestof_id": "5fd9715e18d431f7120ce5fa",
+      "faculty_id": null,
+      "is_bot": false,
+      "last_update_date": "2020-12-16T03:31:24.680Z",
+      "ongoing": true,
+      "start_date": "2020-12-16T03:30:54.058Z",
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-16T03:31:05.112Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_score": 17,
+          "all_questions_count": 0,
+          "is_start": true,
+          "is_end": false
+        },
+        {
+          "question_number": 1,
+          "start_date": "2020-12-16T03:31:16.492Z",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user2_score": 17,
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 2,
+          "start_date": "2020-12-16T03:31:27.619Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        }
+      ],
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f526ea4dda24f825fbefbc9",
+      "user2_nickname": "jeannahrae",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user2_university_id": "5b4c6d1d29957d53aa863c93",
+      "user2_university_name": "Politecnico di Milano",
+      "version": 3
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "la compilazione di una pagina web in PHP o HTML"
+        },
+        {
+          "answer_number": 1,
+          "text": "nessuna delle altre alternative è corretta"
+        },
+        {
+          "answer_number": 2,
+          "text": "la visualizzazione dei contenuti delle pagine di siti web e l'interazione con essi"
+        },
+        {
+          "answer_number": 3,
+          "text": "la compilazione di programmi scritti in linguaggio Java e la loro distribuzione via web"
+        },
+        {
+          "answer_number": 4,
+          "text": "la connessione a una stampante anche senza possederne i driver"
+        }
+      ],
+      "question": "Un browser consente:",
+      "question_number": 1,
+      "start_date": "2020-12-16T03:31:16.492Z",
+      "subject_id": "5d72a0979c8a3eea5cb30a78",
+      "subject_image_url": null,
+      "subject_name": "Architettura delle reti - Internet",
+      "timeout": 35,
+      "all_questions_count": 4,
+      "is_start": false,
+      "is_end": false
+    },
+    "answered_question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "la compilazione di una pagina web in PHP o HTML"
+        },
+        {
+          "answer_number": 1,
+          "text": "nessuna delle altre alternative è corretta"
+        },
+        {
+          "answer_number": 2,
+          "text": "la visualizzazione dei contenuti delle pagine di siti web e l'interazione con essi"
+        },
+        {
+          "answer_number": 3,
+          "text": "la compilazione di programmi scritti in linguaggio Java e la loro distribuzione via web"
+        },
+        {
+          "answer_number": 4,
+          "text": "la connessione a una stampante anche senza possederne i driver"
+        }
+      ],
+      "question": "Un browser consente:",
+      "question_number": 1,
+      "start_date": "2020-12-16T03:31:16.492Z",
+      "subject_id": "5d72a0979c8a3eea5cb30a78",
+      "subject_image_url": null,
+      "subject_name": "Architettura delle reti - Internet",
+      "timeout": 35,
+      "all_questions_count": 0,
+      "is_start": false,
+      "is_end": false
+    }
+  },
+  {
+    "bestof_data": {
+      "user_id": "5fcf1d0a7e9bdb33a0d219df",
+      "bestof_id": "5fd9725dc511b8ef1de75467",
+      "faculty_id": null,
+      "is_bot": true,
+      "last_update_date": "2020-12-16T03:35:29.830Z",
+      "ongoing": true,
+      "start_date": "2020-12-16T03:35:09.680Z",
+      "questions": [
+        {
+          "question_number": 0,
+          "start_date": "2020-12-16T03:35:27.529Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_score": 17,
+          "user2_score": 28,
+          "user1_has_answered": true,
+          "user2_has_answered": true,
+          "all_questions_count": 0,
+          "is_start": true,
+          "is_end": false
+        },
+        {
+          "question_number": 1,
+          "start_date": "2020-12-16T03:35:32.788Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "user1_has_answered": false,
+          "user2_has_answered": false,
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 2,
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "user1_has_answered": false,
+          "user2_has_answered": false,
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        },
+        {
+          "question_number": 3,
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "user1_has_answered": false,
+          "user2_has_answered": false,
+          "all_questions_count": 0,
+          "is_start": false,
+          "is_end": false
+        }
+      ],
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f58f24e39adc40624ca15ca",
+      "user2_nickname": "itsChriGoogle",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+      "user2_university_id": "5bb8f32f1c9d44000022b211",
+      "user2_university_name": "SmartCreative Srl",
+      "version": 2
+    },
+    "question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "Sì, ma si compromette l’efficienza delle operazioni di ricerca"
+        },
+        {
+          "answer_number": 1,
+          "text": "No, non è possibile"
+        },
+        {
+          "answer_number": 2,
+          "text": "Solo per tabelle con dati numerici"
+        },
+        {
+          "answer_number": 3,
+          "text": "Sì, ma solo quando la tabella non ha una chiave primaria"
+        },
+        {
+          "answer_number": 4,
+          "text": "Solo in ORACLE"
+        }
+      ],
+      "question": "In Microsoft Office Access è possibile avere una tabella che NON sia indicizzata?",
+      "question_number": 1,
+      "start_date": "2020-12-16T03:35:32.788Z",
+      "subject_id": "5dbe08ce2a5640a180dfe493",
+      "subject_image_url": null,
+      "subject_name": "Basi di dati",
+      "timeout": 35,
+      "all_questions_count": 4,
+      "is_start": false,
+      "is_end": false
+    },
+    "answered_question": {
+      "answers": [
+        {
+          "answer_number": 0,
+          "text": "75 anni"
+        },
+        {
+          "answer_number": 1,
+          "text": "18 anni"
+        },
+        {
+          "answer_number": 2,
+          "text": "Nessuna"
+        },
+        {
+          "answer_number": 3,
+          "text": "L'età espressamente stabilita dalla Costituzione"
+        },
+        {
+          "answer_number": 4,
+          "text": "65 anni"
+        }
+      ],
+      "question": "Qual è l'età massima per essere elettore della camera dei deputati?",
+      "question_number": 0,
+      "start_date": "2020-12-16T03:35:27.529Z",
+      "subject_id": "5b6c580f808cc3c15981e383",
+      "subject_image_url": null,
+      "subject_name": "Diritto costituzionale",
+      "timeout": 35,
+      "all_questions_count": 0,
+      "is_start": true,
+      "is_end": false
+    }
+  }
+]

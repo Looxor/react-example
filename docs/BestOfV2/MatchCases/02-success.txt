@@ -1,0 +1,1183 @@
+[Thu Dec 24 2020 13:17:46.440]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-24T05:17:44.525Z {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526e
+a4dda24f825fbefbc9","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:38.625000+01:00","ongoing":true,"s
+tart_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_s
+tart":true,"is_end":false},{"question_number":1,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet",
+"user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a18
+0dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_en
+d":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answer
+ed":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47
+7000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-1
+1-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T1
+6:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1
+a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_
+image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"use
+r2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3e
+ea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180df
+e493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15
+981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526e
+a4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120
+","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"P
+remere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_numb
+er":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":
+"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","sub
+ject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":true,"is_end":false},"current_question_numbe
+r":0}
+[Thu Dec 24 2020 13:17:47.227]  LOG      jeannahrae this.startQuestionPolling() 2020-12-24T05:17:45.712Z
+[Thu Dec 24 2020 13:17:47.230]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-24T05:17:45.714Z
+[Thu Dec 24 2020 13:17:48.710]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-24T05:17:47.344Z {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a
+7e9bdb33a0d219df","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:38.625000+01:00","ongoing":true,"sta
+rt_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_sta
+rt":true,"is_end":false},{"question_number":1,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","u
+ser1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180d
+fe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end"
+:false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered
+":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.4770
+00+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-
+15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:
+43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a2
+7d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_im
+age_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2
+_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea
+5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe4
+93","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c1598
+1e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4
+dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+"user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"Pre
+mere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number
+":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"P
+er attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subje
+ct_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":true,"is_end":false},"current_question_number"
+:0}
+[Thu Dec 24 2020 13:17:48.277]  LOG      jinnahrae this.startQuestionPolling() 2020-12-24T05:17:47.552Z
+[Thu Dec 24 2020 13:17:48.284]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-24T05:17:47.556Z
+[Thu Dec 24 2020 13:17:50.627]  LOG      jinnahrae onSelectAnswer 2020-12-24T05:17:49.900Z
+[Thu Dec 24 2020 13:17:53.461]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-24T06:17:51.642000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a09
+79c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_a
+nswered":true,"user1_score":17,"user2_has_answered":false},{"question_number":1,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Ar
+chitettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_imag
+e_url":null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subj
+ect_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-24T06:17:34.1
+74000+01:00","user1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti -
+Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di da
+ti","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzi
+onale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_facult
+y_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkV
+OGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:
+56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2
+019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11
+-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52
+a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_
+profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2
+_university_name":"Politecnico di Milano","version":2},"correct_answer":3,"question":null}
+[Thu Dec 24 2020 13:17:53.644]  LOG      jinnahrae this.onAnswerSuccess {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5
+fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:51.642000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.17
+4000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"is_end
+":false},{"question_number":1,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answere
+d":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_
+image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"questi
+on_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_h
+as_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legac
+y_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.4770
+00+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:
+00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","
+user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profi
+le_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"
+user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8
+a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a18
+0dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3
+c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f5
+26ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s
+120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text"
+:"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_n
+umber":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"questio
+n":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","
+subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":true,"is_end":false},"current_question_nu
+mber":0,"answered_question":{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare
+ clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":
+"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24
+T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questi
+ons_count":0,"is_start":true,"is_end":false}}
+[Thu Dec 24 2020 13:17:53.647]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:17:54.661]  LOG      jinnahrae BestOf.saveRemainingTime 42
+[Thu Dec 24 2020 13:17:54.733]  LOG      jinnahrae ResultScreen {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe4246e3
+d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:51.642000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+01:
+00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"is_end":false}
+,{"question_number":1,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false
+,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_ur
+l":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_numbe
+r":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answe
+red":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85
+,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00
+","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","leg
+acy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_fa
+culty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image
+_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_be
+stof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb
+30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e3
+83","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda
+24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","us
+er2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text":"Premer
+e il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3
+,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per
+attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_
+image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":true,"is_end":false},"current_question_number":0,
+"answered_question":{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic su
+l pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare cl
+ic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:4
+5.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_coun
+t":0,"is_start":true,"is_end":false},"remaining_time":42}
+[Thu Dec 24 2020 13:17:54.736]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Thu Dec 24 2020 13:17:54.737]  LOG      jinnahrae startQuestionPolling
+[Thu Dec 24 2020 13:17:54.803]  LOG
+[Thu Dec 24 2020 13:17:56.380]  LOG      jeannahrae onSelectAnswer 2020-12-24T05:17:54.867Z
+[Thu Dec 24 2020 13:17:58.875]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0
+979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_
+answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date
+":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_ha
+s_answered":false,"user2_has_answered":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","
+user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Archite
+ttura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-24T06:17:34.174000+01:00","user1_avg_score":17,"user1_be
+stof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb
+30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e3
+83","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7
+e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c"
+,"user1_university_id":null,"user1_university_name":null,"user2_avg_score":30,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","lega
+cy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477
+000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01
+:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed",
+"user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"ht
+tps://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Pol
+itecnico di Milano","version":3},"correct_answer":3,"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"
+text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start
+_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","tim
+eout":50}}
+[Thu Dec 24 2020 13:17:59.240]  LOG      jeannahrae this.onAnswerSuccess {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":
+"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.
+174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"qu
+estion_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false
+,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Archi
+tettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjec
+ts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","top
+ics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{
+},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics
+":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219
+df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvoueb
+A=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"na
+me":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","l
+egacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_
+id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_facult
+y_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_ur
+l":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name
+":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},
+{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-
+12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_q
+uestions_count":4,"is_start":false,"is_end":false},"current_question_number":0,"answered_question":{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{
+"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic
+sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida i
+n linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subj
+ect_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":true,"is_end":false}}
+[Thu Dec 24 2020 13:17:59.280]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:17:59.751]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Thu Dec 24 2020 13:18:00.460]  LOG      jeannahrae BestOf.saveRemainingTime 55
+[Thu Dec 24 2020 13:18:00.160]  LOG      jeannahrae ResultScreen {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fe4246
+e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+0
+1:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":tr
+ue,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_n
+umber":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_qu
+estions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura
+delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"l
+ast_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},
+"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"versi
+on":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"ve
+rsion":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","use
+r1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c"
+,"user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Arc
+hitettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id
+":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"n
+ame":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_
+url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"http
+s://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Polit
+ecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer
+_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06
+:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions
+_count":4,"is_start":false,"is_end":false},"current_question_number":0,"answered_question":{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_
+number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul puls
+ante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea
+di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name
+":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":true,"is_end":false},"remaining_time":55}
+[Thu Dec 24 2020 13:18:00.163]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:00.164]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:00.165]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 0
+[Thu Dec 24 2020 13:18:00.213]  LOG      17
+[Thu Dec 24 2020 13:18:00.508]  LOG      jinnahrae get_bestof_data_v2 {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe
+4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.1740
+00+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start
+":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"questi
+on_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"al
+l_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architett
+ura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":
+[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics"
+:{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"v
+ersion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{}
+,"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df",
+"user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s9
+6-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":
+"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legac
+y_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":
+5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_im
+age_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"
+https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"P
+olitecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"an
+swer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-2
+4T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_quest
+ions_count":4,"is_start":false,"is_end":false},"current_question_number":0,"answered_question":{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"ans
+wer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul
+pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in li
+nea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_
+name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":true,"is_end":false},"remaining_time":42}
+[Thu Dec 24 2020 13:18:00.511]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Thu Dec 24 2020 13:18:00.511]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:00.549]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-24T05:17:59.821Z {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a
+7e9bdb33a0d219df","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"sta
+rt_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true
+,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_sta
+rt":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":fa
+lse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image
+_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end
+":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"
+5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08
+ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6
+c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","use
+r1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq
+8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47
+7000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-1
+1-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T1
+6:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1
+a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeann
+ahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa
+863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"a
+nswer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question
+_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti -
+ Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"te
+xt":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answe
+r_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"ques
+tion":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78
+","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":true,"is_end":false},"remaining_time":
+42}
+[Thu Dec 24 2020 13:18:03.929]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-24T05:18:02.396Z {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526e
+a4dda24f825fbefbc9","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:17:55.935000+01:00","ongoing":true,"s
+tart_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":tr
+ue,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_s
+tart":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":
+false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_ima
+ge_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_e
+nd":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id"
+:"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe
+08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5
+b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","u
+ser1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGn
+Bq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.
+477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15
+T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89
+c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jea
+nnahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53
+aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{
+"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","questi
+on_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti
+ - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"
+text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"ans
+wer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"qu
+estion":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a
+78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":true,"is_end":false},"remaining_time
+":55}
+[Thu Dec 24 2020 13:18:04.615]  LOG      jinnahrae this.startQuestionPolling() 2020-12-24T05:18:03.890Z
+[Thu Dec 24 2020 13:18:04.616]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-24T05:18:03.891Z
+[Thu Dec 24 2020 13:18:05.377]  LOG      jeannahrae this.startQuestionPolling() 2020-12-24T05:18:03.861Z
+[Thu Dec 24 2020 13:18:05.384]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-24T05:18:03.862Z
+[Thu Dec 24 2020 13:18:08.262]  LOG      jinnahrae onSelectAnswer 2020-12-24T05:18:07.531Z
+[Thu Dec 24 2020 13:18:09.930]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-24T06:18:07.735000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a09
+79c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_a
+nswered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date"
+:"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_ans
+wer_date":"2020-12-24T06:18:07.670000+01:00","user1_has_answered":true,"user1_score":17,"user2_has_answered":false},{"question_number":2,"subject_id":"5dbe08ce2a56
+40a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5d72
+a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false}],"start_d
+ate":"2020-12-24T06:17:34.174000+01:00","user1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":
+"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legac
+y_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":
+5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_im
+age_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleus
+ercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":30,"user2_bestof_s
+ubjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topi
+cs":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","t
+opics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f8
+25fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_
+university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":4},"correct_answer":0,"question":null}
+[Thu Dec 24 2020 13:18:09.256]  LOG      jinnahrae this.onAnswerSuccess {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5
+fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:07.735000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.17
+4000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_sta
+rt":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_en
+d":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_a
+nswered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subjec
+t_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1
+_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea
+5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe4
+93","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c1598
+1e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a
+7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MD
+sSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","leg
+acy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.47
+7000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+0
+1:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed"
+,"user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_pr
+ofile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_u
+niversity_name":"Politecnico di Milano","version":4},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,
+"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"star
+t_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","time
+out":50,"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6"},{"an
+swer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:
+7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":42}
+[Thu Dec 24 2020 13:18:09.260]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:10.272]  LOG      jinnahrae BestOf.saveRemainingTime 44
+[Thu Dec 24 2020 13:18:10.376]  LOG
+[Thu Dec 24 2020 13:18:10.427]  LOG      jinnahrae ResultScreen {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe4246e3
+d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:07.735000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+01:
+00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true
+,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false
+},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered"
+:false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":
+"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_
+subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","top
+ics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","
+topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33
+a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9J
+XvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":
+85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:
+00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","l
+egacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_
+faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_im
+age_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_universit
+y_name":"Politecnico di Milano","version":4},"question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"
+UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":
+"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,
+"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_num
+ber":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡
+ un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"
+Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:10.430]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:10.430]  LOG      jinnahrae startQuestionPolling
+[Thu Dec 24 2020 13:18:10.514]  LOG      30
+[Thu Dec 24 2020 13:18:11.462]  LOG      jeannahrae onSelectAnswer 2020-12-24T05:18:09.941Z
+[Thu Dec 24 2020 13:18:13.470]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0
+979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_
+answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date
+":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_an
+swer_date":"2020-12-24T06:18:07.670000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:10.819000+01:00","user2_has_answered
+":true,"user2_score":30},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"sub
+ject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":n
+ull,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-24T06:17:34.174000+01:00","us
+er1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subje
+ct_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id"
+:"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_
+id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informa
+tica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK
+2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":30,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T1
+6:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_dat
+e":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"20
+19-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":
+"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","u
+ser2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","
+user2_university_name":"Politecnico di Milano","version":5},"correct_answer":0,"question":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":
+"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valo
+ri abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00
+","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","timeout":50}}
+[Thu Dec 24 2020 13:18:13.245]  LOG      jeannahrae this.onAnswerSuccess {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":
+"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.
+174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","su
+bject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"sub
+ject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":fals
+e,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"
+Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy
+_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5
+,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_ima
+ge_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"ht
+tps://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subj
+ects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","t
+opics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics"
+:{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topi
+cs":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbe
+fbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90
+X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"t
+ext":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}]
+,"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start
+_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_
+count":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"
+IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:"
+,"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura de
+lle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":55}
+[Thu Dec 24 2020 13:18:13.248]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:14.286]  LOG      jeannahrae BestOf.saveRemainingTime 54
+[Thu Dec 24 2020 13:18:14.418]  LOG      17
+[Thu Dec 24 2020 13:18:14.442]  LOG      jeannahrae ResultScreen {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fe4246
+e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+0
+1:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":tr
+ue,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":fa
+lse,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_na
+me":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id"
+:"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_q
+uestions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architet
+tura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,
+"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":
+"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":
+"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh
+3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{
+"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{
+},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"ver
+sion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"
+version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","u
+ser2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120"
+,"user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"FL
+OAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"questi
+on":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"
+2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4
+,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{
+"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","questi
+on_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti
+ - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:14.442]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:14.443]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:14.444]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Thu Dec 24 2020 13:18:14.489]  LOG      17
+[Thu Dec 24 2020 13:18:15.438]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Thu Dec 24 2020 13:18:16.231]  LOG      jinnahrae get_bestof_data_v2 {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe
+4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.1740
+00+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start
+":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start
+":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subjec
+t_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject
+_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"a
+ll_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Arch
+itettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id"
+:95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"na
+me":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_u
+rl":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https:
+//lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects
+":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},
+"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":
+{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9
+","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s
+120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text"
+:"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"qu
+estion":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_dat
+e":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_coun
+t":4,"is_start":false,"is_end":false},"current_question_number":1,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4
+"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","qu
+estion_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle
+reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:16.235]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Thu Dec 24 2020 13:18:16.243]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:16.280]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-24T05:18:15.554Z {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a
+7e9bdb33a0d219df","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"sta
+rt_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true
+,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true
+,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe4
+93","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":fa
+lse},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":f
+alse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+
+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:
+56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1
+c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae"
+,"user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university
+_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id"
+:"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe
+08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5
+b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","u
+ser2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZ
+M1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"a
+nswers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer
+_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzar
+e?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati
+","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":2,"answered_question":{"answers":[{"answer_number":0,"text":"IPv6
+"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8a
+2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","
+subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:17.671]  LOG      jinnahrae this.startQuestionPolling() 2020-12-24T05:18:16.945Z
+[Thu Dec 24 2020 13:18:17.673]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-24T05:18:16.946Z
+[Thu Dec 24 2020 13:18:18.107]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-24T05:18:16.578Z {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526e
+a4dda24f825fbefbc9","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:10.922000+01:00","ongoing":true,"s
+tart_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":tr
+ue,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":tr
+ue,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180df
+e493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":
+false},{"question_number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered"
+:false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47700
+0+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-1
+5T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:4
+3:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27
+d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahra
+e","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_universi
+ty_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_i
+d":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5d
+be08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":
+"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica",
+"user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BE
+oZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{
+"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answ
+er_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizz
+are?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di da
+ti","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":2,"answered_question":{"answers":[{"answer_number":0,"text":"IP
+v6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::
+8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":""
+,"subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:18.398]  LOG      jeannahrae this.startQuestionPolling() 2020-12-24T05:18:16.879Z
+[Thu Dec 24 2020 13:18:18.403]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-24T05:18:16.880Z
+[Thu Dec 24 2020 13:18:21.158]  LOG      jinnahrae onSelectAnswer 2020-12-24T05:18:20.410Z
+[Thu Dec 24 2020 13:18:21.999]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-24T06:18:20.600000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a09
+79c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_a
+nswered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date"
+:"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_ans
+wer_date":"2020-12-24T06:18:07.670000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:10.819000+01:00","user2_has_answered"
+:true,"user2_score":30},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subj
+ect_name":"Basi di dati","user1_answer_date":"2020-12-24T06:18:20.538000+01:00","user1_has_answered":true,"user1_score":17,"user2_has_answered":false},{"question_n
+umber":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has
+_answered":false}],"start_date":"2020-12-24T06:17:34.174000+01:00","user1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01
+:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16
+:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56
+.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3
+ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image
+_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_av
+g_score":30,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id"
+:"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe
+08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5
+b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica",
+"user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPU
+ZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":6},"correct_answer":1,"question":nul
+l}
+[Thu Dec 24 2020 13:18:22.150]  LOG      jinnahrae this.onAnswerSuccess {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5
+fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:20.600000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.17
+4000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_sta
+rt":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_sta
+rt":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subj
+ect_name":"Basi di dati","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_
+number":3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_
+answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_i
+d":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+
+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00"
+,"legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","use
+r1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_
+image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"use
+r2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3e
+ea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180df
+e493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15
+981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526e
+a4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZY
+bPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":6},"question":{"answers":[{"answe
+r_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text
+":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_nu
+mber":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"
+all_questions_count":4,"is_start":false,"is_end":false},"current_question_number":2,"answered_question":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_num
+ber":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per a
+rchiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:1
+6.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,
+"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:22.153]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:23.192]  LOG      jinnahrae BestOf.saveRemainingTime 44
+[Thu Dec 24 2020 13:18:23.258]  LOG      30
+[Thu Dec 24 2020 13:18:23.302]  LOG      jinnahrae ResultScreen {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe4246e3
+d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:20.600000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+01:
+00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true
+,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":fals
+e,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name
+":"Basi di dati","user1_score":17,"user1_has_answered":true,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":
+3,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered
+":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"n
+ame":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","
+legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy
+_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_facul
+ty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_ur
+l":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_besto
+f_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a
+78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","t
+opics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383"
+,"topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f
+825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3
+sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":6},"question":{"answers":[{"answer_number
+":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALL
+INT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,
+"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_ques
+tions_count":4,"is_start":false,"is_end":false},"current_question_number":2,"answered_question":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"
+text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviar
+e valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000
++01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end"
+:false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:23.306]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:23.306]  LOG      jinnahrae startQuestionPolling
+[Thu Dec 24 2020 13:18:23.355]  LOG      30
+[Thu Dec 24 2020 13:18:25.233]  LOG      jeannahrae onSelectAnswer 2020-12-24T05:18:23.713Z
+[Thu Dec 24 2020 13:18:26.757]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0
+979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_
+answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date
+":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_an
+swer_date":"2020-12-24T06:18:07.670000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:10.819000+01:00","user2_has_answered
+":true,"user2_score":30},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"sub
+ject_name":"Basi di dati","user1_answer_date":"2020-12-24T06:18:20.538000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:2
+4.621000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb3
+0a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-24
+T06:17:34.174000+01:00","user1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura de
+lle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":
+"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritt
+o costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"u
+ser1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-
+/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":30,"user2_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"ve
+rsion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version"
+:0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"versi
+on":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user
+2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"
+5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"correct_answer":1,"question":{"answers":[{"answer_number":0,"text":"Post Of
+fice Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over
+ Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.62100
+0+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50}}
+[Thu Dec 24 2020 13:18:26.906]  LOG      jeannahrae this.onAnswerSuccess {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":
+"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.
+174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","su
+bject_name":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":
+false},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architet
+tura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects"
+:[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics
+":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"
+version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{
+},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df"
+,"user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s
+96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name"
+:"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","lega
+cy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id"
+:5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_i
+mage_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":
+"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"
+Politecnico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},
+{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"qu
+estion":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"
+","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":2,"answered_qu
+estion":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT
+"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibil
+e utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"B
+asi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:26.909]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:27.932]  LOG      jeannahrae BestOf.saveRemainingTime 54
+[Thu Dec 24 2020 13:18:28.660]  LOG      17
+[Thu Dec 24 2020 13:18:28.109]  LOG      jeannahrae ResultScreen {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fe4246
+e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+0
+1:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":tr
+ue,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":fa
+lse,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_na
+me":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":false},{
+"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura del
+le reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"ve
+rsion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version"
+:0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"versi
+on":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_
+avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","u
+ser1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Archit
+ettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":9
+5,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name
+":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url
+":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"https:/
+/lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecn
+ico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer
+_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":
+"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subje
+ct_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":2,"answered_question":
+{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{"ans
+wer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utiliz
+zare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di d
+ati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:28.112]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:28.113]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:28.114]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Thu Dec 24 2020 13:18:28.154]  LOG      17
+[Thu Dec 24 2020 13:18:28.320]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Thu Dec 24 2020 13:18:31.698]  LOG      jinnahrae get_bestof_data_v2 {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe
+4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.1740
+00+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start
+":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start
+":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subjec
+t_name":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":fals
+e},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura
+ delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"
+last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{}
+,"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"v
+ersion":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","us
+er1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c
+","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Ar
+chitettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_i
+d":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"
+name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image
+_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahrae","user2_profile_image_url":"htt
+ps://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Poli
+tecnico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"an
+swer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"questi
+on":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","s
+ubject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":2,"answered_questi
+on":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_number":3,"text":"UNSIGNED INT"},{
+"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile ut
+ilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi
+di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:31.703]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Thu Dec 24 2020 13:18:31.703]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:31.743]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-24T05:18:31.013Z {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a
+7e9bdb33a0d219df","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"sta
+rt_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true
+,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a7
+8","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true
+,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe4
+93","subject_image_url":"","subject_name":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count
+":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_ur
+l":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":f
+alse}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d7
+2a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2
+a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c58
+0f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_
+id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yT
+X7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47700
+0+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-1
+5T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:4
+3:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27
+d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeannahr
+ae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863
+c93","user2_university_name":"Politecnico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text
+":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"P
+ower Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5
+cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_q
+uestion_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_
+number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000,
+ che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_i
+mage_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:31.752]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-24T05:18:30.236Z {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526e
+a4dda24f825fbefbc9","bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:24.703000+01:00","ongoing":true,"s
+tart_date":"2020-12-24T06:17:34.174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":tr
+ue,"all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30
+a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":tr
+ue,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180df
+e493","subject_image_url":"","subject_name":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_cou
+nt":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_
+url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end"
+:false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5
+d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08c
+e2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c
+580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user
+1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8
+yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477
+000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11
+-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16
+:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a
+27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":30,"user2_nickname":"jeanna
+hrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa8
+63c93","user2_university_name":"Politecnico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"te
+xt":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":
+"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3ee
+a5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current
+_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answe
+r_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒00
+0, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject
+_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:31.991]  LOG      jinnahrae this.startQuestionPolling() 2020-12-24T05:18:31.264Z
+[Thu Dec 24 2020 13:18:31.997]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-24T05:18:31.271Z
+[Thu Dec 24 2020 13:18:32.227]  LOG      jeannahrae this.startQuestionPolling() 2020-12-24T05:18:30.709Z
+[Thu Dec 24 2020 13:18:32.228]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-24T05:18:30.710Z
+[Thu Dec 24 2020 13:18:37.374]  LOG      jeannahrae onSelectAnswer 2020-12-24T05:18:35.857Z
+[Thu Dec 24 2020 13:18:39.777]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-24T06:18:38.318000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0
+979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_has_
+answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":1,"start_date
+":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_an
+swer_date":"2020-12-24T06:18:07.670000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:10.819000+01:00","user2_has_answered
+":true,"user2_score":30},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"sub
+ject_name":"Basi di dati","user1_answer_date":"2020-12-24T06:18:20.538000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:2
+4.621000+01:00","user2_has_answered":true,"user2_score":30},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb3
+0a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_answer_date":"2020-12-24T06:18:38.254000+01:00
+","user2_has_answered":true,"user2_score":17}],"start_date":"2020-12-24T06:17:34.174000+01:00","user1_avg_score":17,"user1_bestof_subjects":[{"last_update_date":"2
+019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_updat
+e_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_f
+aculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jin
+nahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_uni
+versity_name":null,"user2_avg_score":26.75,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura dell
+e reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"B
+asi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"use
+r2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/
+AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":8},"c
+orrect_answer":0,"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,
+"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla P
+OP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":
+"Architettura delle reti - Internet","timeout":50}}
+[Thu Dec 24 2020 13:18:39.985]  LOG      jeannahrae this.onAnswerSuccess {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":
+"5fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:38.318000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.
+174000+01:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":true,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","sub
+ject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_s
+tart":false,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","su
+bject_name":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":
+false},{"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architet
+tura delle reti - Internet","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_
+bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5
+cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe49
+3","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981
+e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7
+e9bdb33a0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDs
+SfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","lega
+cy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477
+000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01
+:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed",
+"user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":26.75,"user2_nickname":"jeannahrae","user2_
+profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2
+_university_name":"Politecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Or
+iented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operat
+ed Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","s
+ubject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_num
+ber":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"
+text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla PO
+P significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Ar
+chitettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":54}
+[Thu Dec 24 2020 13:18:39.988]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:41.900]  LOG      jeannahrae BestOf.saveRemainingTime 41
+[Thu Dec 24 2020 13:18:41.146]  LOG      17
+[Thu Dec 24 2020 13:18:41.171]  LOG      jeannahrae ResultScreen {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fe4246
+e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:38.318000+01:00","ongoing":true,"start_date":"2020-12-24T06:17:34.174000+0
+1:00","questions":[{"question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":tr
+ue,"is_end":false},{"question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_nam
+e":"Architettura delle reti - Internet","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":fa
+lse,"is_end":false},{"question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_na
+me":"Basi di dati","user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":false},{
+"question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura del
+le reti - Internet","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_s
+ubjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topi
+cs":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","t
+opics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a
+0d219df","user1_avg_score":17,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JX
+vouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":8
+5,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:0
+0","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","le
+gacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_f
+aculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_
+image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_univers
+ity_name":"Politecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented P
+rocessor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Proce
+ssor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_i
+mage_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"
+answered_question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"P
+rimary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP signif
+ica:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettu
+ra delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"remaining_time":41}
+[Thu Dec 24 2020 13:18:41.171]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:41.172]  LOG      jeannahrae startQuestionPolling
+[Thu Dec 24 2020 13:18:41.233]  LOG      17
+[Thu Dec 24 2020 13:18:41.777]  LOG      jinnahrae onSelectAnswer 2020-12-24T05:18:41.031Z
+[Thu Dec 24 2020 13:18:43.706]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fe4246e3d95b3655ddebb8f","faculty_id":null,"finish_date":"2020-12-2
+4T06:18:41.284000+01:00","is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"questions":[{"answers":[{"answer_number":0,"text":"P
+remere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_numb
+er":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":
+"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","sub
+ject_image_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_answer_date":"2020-12-24T06:17:51.561000+01:00","user1_answer_number":
+1,"user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:17:55.803000+01:00","user2_answer_number":3,"user2_has_answered":true,"user2_score"
+:30},{"answers":[{"answer_number":0,"text":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_num
+ber":4,"text":"MAC"}],"question":"\"2001:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d
+72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_answer_date":"2020-12-24T06:18:07.670000+0
+1:00","user1_answer_number":2,"user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-24T06:18:10.819000+01:00","user2_answer_number":0,"user2_has_
+answered":true,"user2_score":30},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"answer_numbe
+r":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒000▒▒000, che
+tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_
+url":null,"subject_name":"Basi di dati","timeout":50,"user1_answer_date":"2020-12-24T06:18:20.538000+01:00","user1_answer_number":0,"user1_has_answered":true,"user
+1_score":17,"user2_answer_date":"2020-12-24T06:18:24.621000+01:00","user2_answer_number":1,"user2_has_answered":true,"user2_score":30},{"answers":[{"answer_number"
+:0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3
+,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12
+-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50,"user1
+_answer_date":"2020-12-24T06:18:41.284000+01:00","user1_answer_number":0,"user1_has_answered":true,"user1_score":30,"user2_answer_date":"2020-12-24T06:18:38.254000
++01:00","user2_answer_number":1,"user2_has_answered":true,"user2_score":17}],"start_date":"2020-12-24T06:17:34.174000+01:00","user1_avg_score":20.25,"user1_bestof_
+subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","top
+ics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","
+topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb
+33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","use
+r1_university_id":null,"user1_university_name":null,"user2_avg_score":26.75,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy
+_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.47700
+0+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:0
+0","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","u
+ser2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"http
+s://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Polit
+ecnico di Milano","version":9,"winner_name":"user2"},"correct_answer":0,"question":null}
+[Thu Dec 24 2020 13:18:43.886]  LOG      jinnahrae this.onAnswerSuccess {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5
+fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"start_date":"2020-12-24T06:17:34.1
+74000+01:00","questions":[{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare c
+lic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"F
+are clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T0
+6:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score"
+:17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"te
+xt":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"200
+1:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_
+url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all
+_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIG
+INT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒0
+00 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe
+493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_q
+uestions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processo
+r"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}]
+,"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_ur
+l":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"all_q
+uestions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architet
+tura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,
+"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":
+"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":
+"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":20.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https:/
+/lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects"
+:[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics
+":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"
+version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{
+},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9"
+,"user2_avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-
+=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user2","version":9},"question":{"answers":[{
+"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"a
+nswer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start
+_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeo
+ut":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office P
+rotocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Proto
+col"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:0
+0","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_star
+t":false,"is_end":false},"remaining_time":44}
+[Thu Dec 24 2020 13:18:43.888]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Thu Dec 24 2020 13:18:44.907]  LOG      jinnahrae BestOf.saveRemainingTime 36
+[Thu Dec 24 2020 13:18:44.990]  LOG      30
+[Thu Dec 24 2020 13:18:45.460]  LOG      jinnahrae ResultScreen {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe4246e3
+d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"start_date":"2020-12-24T06:17:34.174000+01
+:00","questions":[{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul
+pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic
+ sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.
+625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"use
+r2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"IPv
+6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8
+a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"",
+"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questio
+ns_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"
+answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒0
+00▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","su
+bject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions
+_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"an
+swer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"questi
+on":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","s
+ubject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"all_questions
+_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura del
+le reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"
+Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+ costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user
+1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":20.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.goo
+gleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"ve
+rsion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version"
+:0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"versi
+on":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_
+avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","
+user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user2","version":9},"question":{"answers":[{"answer_
+number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_nu
+mber":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"
+2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"
+all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"
+},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"
+answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subj
+ect_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false
+,"is_end":false},"remaining_time":36}
+[Thu Dec 24 2020 13:18:45.490]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:45.540]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:45.550]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 44
+[Thu Dec 24 2020 13:18:45.142]  LOG      26.75
+[Thu Dec 24 2020 13:18:46.208]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Thu Dec 24 2020 13:18:47.710]  LOG      jeannahrae get_bestof_data_v2 {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5
+fe4246e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"start_date":"2020-12-24T06:17:34.1
+74000+01:00","questions":[{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare c
+lic sul pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"F
+are clic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T0
+6:17:45.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score"
+:17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"te
+xt":"IPv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"200
+1:db8::8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_
+url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all
+_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIG
+INT"},{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒0
+00 e 1▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe
+493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_q
+uestions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processo
+r"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}]
+,"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_ur
+l":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"all_q
+uestions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architet
+tura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,
+"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":
+"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":
+"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":20.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https:/
+/lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects"
+:[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics
+":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"
+version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{
+},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9"
+,"user2_avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-
+=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user2","version":9},"question":{"answers":[{
+"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"a
+nswer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start
+_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeo
+ut":50,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office P
+rotocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Proto
+col"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:0
+0","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_star
+t":false,"is_end":false},"remaining_time":41}
+[Thu Dec 24 2020 13:18:47.740]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Thu Dec 24 2020 13:18:47.760]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:47.179]  LOG      17
+[Thu Dec 24 2020 13:18:47.224]  LOG      jeannahrae ResultScreen {"user_name":"jeannahrae","bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fe4246
+e3d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"start_date":"2020-12-24T06:17:34.174000+
+01:00","questions":[{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic su
+l pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare cl
+ic sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:4
+5.625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"u
+ser2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"I
+Pv6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8:
+:8a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"
+","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_quest
+ions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},
+{"answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1
+▒▒000▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","
+subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questio
+ns_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"
+answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"ques
+tion":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"",
+"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"all_questio
+ns_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura d
+elle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name"
+:"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Dirit
+to costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","us
+er1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":20.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.g
+oogleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"la
+st_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"
+version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"versio
+n":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"ver
+sion":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user
+2_avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120"
+,"user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user2","version":9},"question":{"answers":[{"answe
+r_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_
+number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date"
+:"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50
+,"all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office Protoco
+l"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},
+{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","su
+bject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":fal
+se,"is_end":false},"remaining_time":41}
+[Thu Dec 24 2020 13:18:47.227]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:47.229]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:47.230]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 41
+[Thu Dec 24 2020 13:18:47.265]  LOG      20.25
+[Thu Dec 24 2020 13:18:48.771]  LOG      26.75
+[Thu Dec 24 2020 13:18:48.805]  LOG      jinnahrae ResultScreen {"user_name":"jinnahrae","bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fe4246e3
+d95b3655ddebb8f","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-24T06:18:41.416000+01:00","ongoing":false,"start_date":"2020-12-24T06:17:34.174000+01
+:00","questions":[{"answers":[{"answer_number":0,"text":"Premere il tasto [F1]"},{"answer_number":1,"text":"Premere Alt"},{"answer_number":2,"text":"Fare clic sul
+pulsante ▒ltro▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":3,"text":"Fare clic sul pulsante ▒▒?▒▒ e poi selezionare ▒uida▒▒"},{"answer_number":4,"text":"Fare clic
+ sul pulsante ▒▒+▒▒ e poi selezionare ▒uida▒▒"}],"question":"Per attivare la guida in linea di Gmail si deve:","question_number":0,"start_date":"2020-12-24T06:17:45.
+625000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"use
+r2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"IPv
+6"},{"answer_number":1,"text":"IPv4"},{"answer_number":2,"text":"UDP"},{"answer_number":3,"text":"TCP"},{"answer_number":4,"text":"MAC"}],"question":"\"2001:db8::8
+a2e:370:7334\" 癡 un indirizzo:","question_number":1,"start_date":"2020-12-24T06:18:03.803000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"",
+"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questio
+ns_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"FLOAT"},{"answer_number":1,"text":"INT"},{"answer_number":2,"text":"BIGINT"},{"
+answer_number":3,"text":"UNSIGNED INT"},{"answer_number":4,"text":"SMALLINT"}],"question":"In SQL, per archiviare valori abitualmente compresi tra -1▒▒000▒▒000 e 1▒▒0
+00▒▒000, che tipo di dati 癡 preferibile utilizzare?","question_number":2,"start_date":"2020-12-24T06:18:16.819000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","su
+bject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":30,"user1_has_answered":true,"user2_has_answered":true,"all_questions
+_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"an
+swer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"questi
+on":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","s
+ubject_name":"Architettura delle reti - Internet","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"all_questions
+_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura del
+le reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"
+Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+ costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user
+1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":20.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.goo
+gleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"ve
+rsion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version"
+:0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"versi
+on":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_
+avg_score":26.75,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","
+user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user2","version":9},"question":{"answers":[{"answer_
+number":0,"text":"Post Office Protocol"},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_nu
+mber":3,"text":"Pass Over Protocol"},{"answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"
+2020-12-24T06:18:30.621000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"
+all_questions_count":4,"is_start":false,"is_end":true},"current_question_number":3,"answered_question":{"answers":[{"answer_number":0,"text":"Post Office Protocol"
+},{"answer_number":1,"text":"Pixel Oriented Processor"},{"answer_number":2,"text":"Primary Organization Portal"},{"answer_number":3,"text":"Pass Over Protocol"},{"
+answer_number":4,"text":"Power Operated Processor"}],"question":"La sigla POP significa:","question_number":3,"start_date":"2020-12-24T06:18:30.621000+01:00","subj
+ect_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false
+,"is_end":false},"remaining_time":36}
+[Thu Dec 24 2020 13:18:48.808]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Thu Dec 24 2020 13:18:48.809]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered false
+[Thu Dec 24 2020 13:18:48.809]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Thu Dec 24 2020 13:18:48.838]  LOG      26.75

@@ -1,0 +1,1 @@
+Status bar will be trasparent and white label in the FirstScreen (LOGIN/REGISTER page) (image 1)

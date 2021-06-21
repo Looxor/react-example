@@ -1,0 +1,30 @@
+{"firebase_idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODA0NjIwNywidXNlcl9pZCI6IlJXYUk4WlZwbHZjcW16c3lGRkM1cWVPRHdhNTMiLCJzdWIiOiJSV2FJOFpWcGx2Y3FtenN5RkZDNXFlT0R3YTUzIiwiaWF0IjoxNTc4MTExMTYwLCJleHAiOjE1NzgxMTQ3NjAsImVtYWlsIjoiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.I_ewWDIyMPDZ8fDeF-1rtMKJWaldTAD4WZYcs-aO_Mx7QhtOB3jWJJmnjf6BxJ-elJmuJl73hgJnsBMaA42L_VsrZcXdvocE-6f_G49IsakQbxt3FAg7PNZOx5Z5yu2JRddyw0xtlw2X7GCOx3LtNl7RmbADWQ1A9K_0hyhvw6h5Ed9nA5p4z6WnSy8DB4LHTEVKp3gZQx5f3QPmN-vnnZbiXM6xjeC4qE_A8BJ9_b-axWXsO_YkCHz4Bft3nipFu5enfZwc6ltJ8AMgz6hnc-W0-CcLw7uvSrwMITmwv8Zce8_zi4_-8rQBGShrhe-z0uEOanmh_mdKJm32P2NBBw","friend_id": "5c898a123b7750001a74863d"
+}
+
+5e100114982145125aed861c
+5e1012e80bab43a4639db848
+
+
+
+{
+    "data": {
+        "bestof_id": "5e1006640bab43a4639db845"
+    },
+    "success": true
+}
+
+
+{
+    "data": {
+        "bestof_id": "5e1007260bab43a4639db846"
+    },
+    "success": true
+}
+
+
+{
+    "data": {
+        "bestof_id": "5e1012e80bab43a4639db848"
+    },
+    "success": true
+}

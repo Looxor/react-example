@@ -1,0 +1,289 @@
+{
+    "data": [
+        {
+            "coins_requirement": 0,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    0,
+                    0
+                ],
+                "exclude_used": false,
+                "is_active": true,
+                "mcfit_trial_day_done": true
+            },
+            "count": null,
+            "coupon_id": "5db983c206f54b6a74787926",
+            "finish_date": "2020-05-01T00:00:00.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/partners%2F5bbba0af4c8cf668154a909a%2F5bbba0af4c8cf668154a909a-bannerC-0.jpg?alt=media&token=9429eada-3210-4a79-bebe-ae71eb2b55f8",
+            "is_valid": true,
+            "limit": "unlimited",
+            "partner_id": "5bbba0af4c8cf668154a909a",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/partners%2F5bbba0af4c8cf668154a909a%2F5bbba0af4c8cf668154a909a-bannerB2-0.jpg?alt=media&token=2975e630-7822-40e7-a42b-94b00f5af4fb",
+            "partner_name": "McFIT",
+            "start_date": "2019-10-04T00:00:00.000Z",
+            "text": "Condizioni da modificare",
+            "title": "Promo 23,90€ con 3 mesi gratuiti",
+            "usage_finish_date": "2020-05-01T00:00:00.000Z",
+            "usage_start_date": "2019-10-04T00:00:00.000Z",
+            "view": "nothing"
+        },
+        {
+            "coins_requirement": 0,
+            "conditions": {
+                "already_used": true,
+                "any_left": true,
+                "coins_requirement": [
+                    0,
+                    0
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5ddbefccd0fe0d41533834f7",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBooking+Coupon+image.png?alt=media&token=dfc4dd37-63a7-4966-9f48-00d55ca152ea",
+            "is_valid": false,
+            "limit": "unlimited",
+            "link_text": "Ecco il link per lo Sconto. Clicca su APRI per aprire lo Sconto.",
+            "partner_id": "5ddfeff2d7a3ad2aa82d33ea",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBooking%20Logo%20White.png?alt=media&token=6669b9fa-42f3-46ad-b12a-7222115c87d5",
+            "partner_name": "Booking.com",
+            "start_date": "2019-11-01T00:00:00.000Z",
+            "text": "È arrivato il momento!\n\nOttieni il 40% di sconto su una selezione di strutture in tutto il mondo fino al 2 dicembre.",
+            "title": "Sconti Black Friday ora disponibili",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-11-01T00:00:00.000Z",
+            "view": "text"
+        },
+        {
+            "coins_requirement": 100,
+            "conditions": {
+                "already_used": true,
+                "any_left": true,
+                "coins_requirement": [
+                    100,
+                    100
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5de52d53e6aa28d16e784205",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Fcoupon_image_lapiadineria.png?alt=media&token=cc60a5ad-0314-4df2-89c8-2556c6d11ee6",
+            "is_valid": false,
+            "limit": "unlimited",
+            "partner_id": "5de52b2cb5a2fce4824c87d0",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Flogo_image_lapiadineria_white.png?alt=media&token=be5b3d93-2c7f-4bc3-a287-ff45aa17789a",
+            "partner_name": "La Piadineria",
+            "start_date": "2019-12-01T00:00:00.000Z",
+            "text": "Acquista due piadine salate: la seconda la paghi la metà! /n Sconto non cumulabile con le altre promozioni.",
+            "title": "DDD Sconto del 50% sulla seconda piadina salata.",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-12-03T00:00:00.000Z",
+            "view": "text"
+        },
+        {
+            "coins_requirement": 100,
+            "conditions": {
+                "already_used": true,
+                "any_left": true,
+                "coins_requirement": [
+                    100,
+                    100
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5de52e3a99a64d250c252119",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Fcoupon_image_lapiadineria.png?alt=media&token=cc60a5ad-0314-4df2-89c8-2556c6d11ee6",
+            "is_valid": false,
+            "limit": "unlimited",
+            "link_text": "Link Text:",
+            "partner_id": "5de52b2cb5a2fce4824c87d0",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Flogo_image_lapiadineria_white.png?alt=media&token=be5b3d93-2c7f-4bc3-a287-ff45aa17789a",
+            "partner_name": "La Piadineria",
+            "start_date": "2019-12-01T00:00:00.000Z",
+            "text": "Sconto non cumulabile con le altre promozioni.",
+            "title": "link - CCC Sconto del 10%",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-12-03T00:00:00.000Z",
+            "view": "link"
+        },
+        {
+            "coins_requirement": 100,
+            "conditions": {
+                "already_used": true,
+                "any_left": true,
+                "coins_requirement": [
+                    100,
+                    100
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5de52e6299a64d250c25211a",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Fcoupon_image_lapiadineria.png?alt=media&token=cc60a5ad-0314-4df2-89c8-2556c6d11ee6",
+            "is_valid": false,
+            "limit": "unlimited",
+            "partner_id": "5de52b2cb5a2fce4824c87d0",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Flogo_image_lapiadineria_white.png?alt=media&token=be5b3d93-2c7f-4bc3-a287-ff45aa17789a",
+            "partner_name": "La Piadineria",
+            "start_date": "2019-12-01T00:00:00.000Z",
+            "text": "Sconto non cumulabile con le altre promozioni.",
+            "title": "CCC Baby Nutella in omaggio",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-12-03T00:00:00.000Z",
+            "view": "barcode_code128"
+        },
+        {
+            "coins_requirement": 0,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    0,
+                    0
+                ],
+                "exclude_used": false,
+                "is_active": true,
+                "previous_coupon_used": true
+            },
+            "count": null,
+            "coupon_id": "5e3aeba8b60c889c6ce82ac0",
+            "finish_date": "2020-02-29T20:00:00.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FN26Coupon.png?alt=media&token=15ea6d4b-1137-41a2-91a9-b85be481762f",
+            "is_valid": true,
+            "limit": "unlimited",
+            "partner_id": "5c8582408ef235fe6a79e30e",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/partners%2F5c6565da2c0f1304b43a433b%2FPittarosso+Logo.jpg?alt=media&token=85ff439c-6237-400e-9bb9-de515888e5e3",
+            "partner_name": "Pittarosso",
+            "start_date": "2019-12-08T20:00:00.000Z",
+            "text": "Sconto pittarosso #2",
+            "title": "Pittarosso 20%",
+            "usage_finish_date": "2020-02-29T20:00:00.000Z",
+            "usage_start_date": "2019-12-08T20:00:00.000Z",
+            "view": "barcode"
+        },
+        {
+            "coins_requirement": 4,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    4,
+                    4
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5e3aed68b60c889c6ce82ac1",
+            "finish_date": "2020-02-29T20:00:00.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FN26Coupon.png?alt=media&token=15ea6d4b-1137-41a2-91a9-b85be481762f",
+            "is_valid": true,
+            "limit": "unlimited",
+            "partner_id": "5de76a00d7a3ad2aa8494ebd",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FN26Logo_white_new.png?alt=media&token=9e5d054f-c53c-44b7-aae5-07c7d8362c45",
+            "partner_name": "N26",
+            "start_date": "2019-12-08T20:00:00.000Z",
+            "text": "Entra nella banca pensata per i giovani!\nPer te un buono carburante da €5!\n\nEntra nel link, inserisci la tua mail universitaria con cui ti sei iscritto a thefaculty e continua l’iscrizione sul sito N26. Quando avremo verificato che la procedura è completata invieremo il buono carburante.\n\nAffrettati! I buoni sono disponibili solo per i primi 50 iscritti.\n",
+            "title": "qrcode - AAA Apri un conto con N26: per i primi 50 un buono carburante da €5!",
+            "usage_finish_date": "2020-02-29T20:00:00.000Z",
+            "usage_start_date": "2019-12-08T20:00:00.000Z",
+            "view": "qrcode"
+        },
+        {
+            "coins_requirement": 100,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    100,
+                    100
+                ],
+                "exclude_used": false,
+                "is_active": false
+            },
+            "count": null,
+            "coupon_id": "5e3aede8b60c889c6ce82ac2",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Fcoupon_image_lapiadineria.png?alt=media&token=cc60a5ad-0314-4df2-89c8-2556c6d11ee6",
+            "is_valid": false,
+            "limit": "unlimited",
+            "partner_id": "5de52b2cb5a2fce4824c87d0",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Flogo_image_lapiadineria_white.png?alt=media&token=be5b3d93-2c7f-4bc3-a287-ff45aa17789a",
+            "partner_name": "La Piadineria",
+            "start_date": "2020-02-29T00:00:00.000Z",
+            "text": "Sconto non cumulabile con le altre promozioni.",
+            "title": "barcode - BBB Bibita in omaggio",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2020-02-29T00:00:00.000Z",
+            "view": "barcode"
+        },
+        {
+            "coins_requirement": 100,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    100,
+                    100
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5e3aeeddb60c889c6ce82ac3",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Fcoupon_image_lapiadineria.png?alt=media&token=cc60a5ad-0314-4df2-89c8-2556c6d11ee6",
+            "is_valid": true,
+            "limit": "unlimited",
+            "partner_id": "5de52b2cb5a2fce4824c87d0",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2Flogo_image_lapiadineria_white.png?alt=media&token=be5b3d93-2c7f-4bc3-a287-ff45aa17789a",
+            "partner_name": "La Piadineria",
+            "start_date": "2019-12-01T00:00:00.000Z",
+            "text": "Sconto non cumulabile con le altre promozioni.",
+            "title": "Sconto del 10%",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-12-03T00:00:00.000Z",
+            "view": "link"
+        },
+        {
+            "coins_requirement": 0,
+            "conditions": {
+                "already_used": false,
+                "any_left": true,
+                "coins_requirement": [
+                    0,
+                    0
+                ],
+                "exclude_used": false,
+                "is_active": true
+            },
+            "count": null,
+            "coupon_id": "5e3af00ab60c889c6ce82ac4",
+            "finish_date": "2020-02-29T23:59:59.000Z",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBooking+Coupon+image.png?alt=media&token=dfc4dd37-63a7-4966-9f48-00d55ca152ea",
+            "is_valid": true,
+            "limit": "unlimited",
+            "partner_id": "5ddfeff2d7a3ad2aa82d33ea",
+            "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBooking%20Logo%20White.png?alt=media&token=6669b9fa-42f3-46ad-b12a-7222115c87d5",
+            "partner_name": "Booking.com",
+            "start_date": "2019-11-01T00:00:00.000Z",
+            "text": "È arrivato il momento!\n\nOttieni il 40% di sconto su una selezione di strutture in tutto il mondo fino al 2 dicembre.",
+            "title": "EEE Sconti Black Friday ora disponibili",
+            "usage_finish_date": "2020-02-29T23:59:59.000Z",
+            "usage_start_date": "2019-11-01T00:00:00.000Z",
+            "view": "link"
+        }
+    ],
+    "success": true
+}

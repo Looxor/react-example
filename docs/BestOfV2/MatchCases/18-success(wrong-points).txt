@@ -1,0 +1,1255 @@
+[Tue Dec 29 2020 21:16:47.985]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-29T13:16:46.310Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","best
+of_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:41.223000+01:00","ongoing":true,"start_date":"2020-12-29T14
+:16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":
+"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"is_end":false},{"question
+_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":f
+alse,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"B
+asi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe
+08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start"
+:false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet",
+"subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subje
+ct_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","su
+bject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Inf
+ormatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7Ty
+evnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01
+:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16
+:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56
+.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3
+ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_
+url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_na
+me":"Politecnico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"an
+swer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"
+answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giul
+ia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808c
+c3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions_count":4,"is_start":true,"is_end":false},"answered_questio
+n":null,"current_question_number":0,"remaining_time":0,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:16:49.989]  LOG      jeannahrae this.startQuestionPolling() 2020-12-29T13:16:48.318Z
+[Tue Dec 29 2020 21:16:49.993]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-29T13:16:48.321Z
+[Tue Dec 29 2020 21:16:50.410]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-29T13:16:49.567Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","besto
+f_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:41.223000+01:00","ongoing":true,"start_date":"2020-12-29T14:
+16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"
+","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"is_end":false},{"question_
+number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":fa
+lse,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Ba
+si di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe0
+8ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":
+false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","
+subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subjec
+t_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","sub
+ject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Info
+rmatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7Tye
+vnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:
+00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:
+43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.
+475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3a
+d3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_u
+rl":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_nam
+e":"Politecnico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"ans
+wer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"a
+nswer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giuli
+a, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc
+3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions_count":4,"is_start":true,"is_end":false},"answered_question
+":null,"current_question_number":0,"remaining_time":0,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:16:50.593]  LOG      jinnahrae this.startQuestionPolling() 2020-12-29T13:16:49.753Z
+[Tue Dec 29 2020 21:16:50.595]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-29T13:16:49.754Z
+[Tue Dec 29 2020 21:16:54.350]  LOG      jinnahrae onSelectAnswer 2020-12-29T13:16:53.506Z
+[Tue Dec 29 2020 21:16:55.110]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-29T14:16:54.088000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tru
+e,"user1_score":18,"user2_has_answered":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costit
+uzionale","user1_has_answered":false,"user2_has_answered":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_nam
+e":"Basi di dati","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"sub
+ject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":18,"user1_besto
+f_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a
+78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","t
+opics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383"
+,"topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9b
+db33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","u
+ser1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Archit
+ettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":9
+5,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name
+":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url
+":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercont
+ent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","ver
+sion":2},"correct_answer":0,"question":null}
+[Tue Dec 29 2020 21:16:55.302]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a"
+,"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:54.088000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":
+[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costit
+uzionale","user1_score":18,"user1_has_answered":true,"user2_has_answered":false,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","all_questions_count":0,"is_
+start":true,"is_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_
+answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","s
+ubject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{
+"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":fa
+lse,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name"
+:"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","lega
+cy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id"
+:5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_i
+mage_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"
+https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_su
+bjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78",
+"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","to
+pics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825f
+befbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_uni
+versity_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta
+, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'A
+osta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"t
+ext":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2
+020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions
+_count":4,"is_start":true,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sarde
+gna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, M
+arche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Ve
+nezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b
+6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions_count":0,"is_start":true,"is_end":false},"curren
+t_question_number":0,"remaining_time":0,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:16:55.306]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:16:56.320]  LOG      jinnahrae BestOf.saveRemainingTime 28
+[Tue Dec 29 2020 21:16:56.369]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","facult
+y_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:54.088000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"quest
+ion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale
+","user1_score":18,"user1_has_answered":true,"user2_has_answered":false,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","all_questions_count":0,"is_start":t
+rue,"is_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered
+":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_i
+mage_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"questio
+n_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all
+_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Archit
+ettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":9
+5,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name
+":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url
+":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://
+lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":
+[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics"
+:{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"v
+ersion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{}
+,"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9",
+"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_
+id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trenti
+no, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Tr
+entino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Va
+lle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-2
+9T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions_count":
+4,"is_start":true,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"
+answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},
+{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Gi
+ulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f80
+8cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35,"all_questions_count":0,"is_start":true,"is_end":false},"current_questi
+on_number":0,"remaining_time":28,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:16:56.372]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 21:16:56.372]  LOG      jinnahrae startQuestionPolling
+[Tue Dec 29 2020 21:16:56.490]  LOG
+[Tue Dec 29 2020 21:16:56.575]  LOG      jeannahrae onSelectAnswer 2020-12-29T13:16:54.900Z
+[Tue Dec 29 2020 21:16:59.850]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c58
+0f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tr
+ue,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-2
+9T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2
+_has_answered":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","user1_has_answered":fals
+e,"user2_has_answered":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","user1_has_answer
+ed":false,"user2_has_answered":false}],"start_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":18,"user1_bestof_subjects":[{"last_update_date":"2019-11-1
+5T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_
+date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":
+"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_i
+d":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae",
+"user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_
+name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - In
+ternet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati
+","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzion
+ale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_
+name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEo
+ZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"correct_answ
+er":0,"question":{"answers":[{"answer_number":0,"is_correct_answer":false,"text":"55"},{"answer_number":1,"is_correct_answer":false,"text":"2"},{"answer_number":2,
+"is_correct_answer":false,"text":"138"},{"answer_number":3,"is_correct_answer":false,"text":"1"},{"answer_number":4,"is_correct_answer":true,"text":"139"}],"questi
+on":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","s
+ubject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":20}}
+[Tue Dec 29 2020 21:17:00.300]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a
+","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions"
+:[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costi
+tuzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answ
+er_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+0
+1:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,
+"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi d
+i dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2
+a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":fals
+e,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subj
+ect_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id
+":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject
+_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informat
+ica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14G
+iDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16
+:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date
+":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"201
+9-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"
+5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nicknam
+e":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d2
+9957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"}
+,{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espre
+sso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url"
+:"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":
+0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_numb
+er":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"
+},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_nu
+mber":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","tim
+eout":35,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":0,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:00.330]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:01.580]  LOG      jeannahrae BestOf.saveRemainingTime 24
+[Tue Dec 29 2020 21:17:01.166]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a","facul
+ty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"ques
+tion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzional
+e","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date"
+:"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","s
+ubject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_que
+stions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati",
+"user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a18
+0dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_en
+d":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":
+"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe0
+8ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b
+6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","us
+er1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnB
+q8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.4
+77000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-
+11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c
+1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jean
+nahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53a
+a863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answe
+r_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla
+ revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","sub
+ject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text"
+:"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number":2,"t
+ext":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answ
+er_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,
+"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":35
+,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":24,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:01.173]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:01.174]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 1.653
+[Tue Dec 29 2020 21:17:01.245]  LOG      18
+[Tue Dec 29 2020 21:17:01.377]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 21:17:02.804]  LOG      jinnahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{
+"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituz
+ionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_
+date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:0
+0","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"al
+l_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di d
+ati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a56
+40a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"
+is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject
+_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"
+5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id
+":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica
+","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDk
+VOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43
+:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"
+2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-1
+1-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d5
+2a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":
+"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d2995
+7d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"
+answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso
+ alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":""
+,"subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"
+text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, Sardegna"},{"answer_number"
+:2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{
+"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_numbe
+r":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeou
+t":35,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":28,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:02.808]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 21:17:02.808]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 4.122
+[Tue Dec 29 2020 21:17:02.847]  LOG      17
+[Tue Dec 29 2020 21:17:03.943]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-29T13:17:02.264Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","best
+of_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"start_date":"2020-12-29T14
+:16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":
+"","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14
+:16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_dat
+e":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":f
+alse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_imag
+e_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_n
+umber":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_qu
+estions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architett
+ura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"
+name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"
+Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"
+","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3
+.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"
+last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{}
+,"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"v
+ersion":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","us
+er2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+"user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"55"
+},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo tr
+ova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc
+3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_questio
+n":null,"current_question_number":1,"remaining_time":24,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:04.110]  LOG      jeannahrae this.startQuestionPolling() 2020-12-29T13:17:02.441Z
+[Tue Dec 29 2020 21:17:04.111]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-29T13:17:02.442Z
+[Tue Dec 29 2020 21:17:08.513]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-29T13:17:07.670Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","besto
+f_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:16:58.101000+01:00","ongoing":true,"start_date":"2020-12-29T14:
+16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"
+","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:
+16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date
+":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":fa
+lse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image
+_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_nu
+mber":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_que
+stions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettu
+ra delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"n
+ame":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"D
+iritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":""
+,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.
+googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"l
+ast_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},
+"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"versi
+on":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"ve
+rsion":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","use
+r2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","
+user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"55"}
+,{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo tro
+va formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3
+c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question
+":null,"current_question_number":1,"remaining_time":28,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:08.750]  LOG      jinnahrae this.startQuestionPolling() 2020-12-29T13:17:07.910Z
+[Tue Dec 29 2020 21:17:08.753]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-29T13:17:07.913Z
+[Tue Dec 29 2020 21:17:11.725]  LOG      jeannahrae onSelectAnswer 2020-12-29T13:17:10.054Z
+[Tue Dec 29 2020 21:17:12.708]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-29T14:17:11.615000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c58
+0f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tr
+ue,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-2
+9T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2
+_answer_date":"2020-12-29T14:17:11.542000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":2,"subject_id":"5dbe08ce2a5640a180dfe493","subject_
+image_url":null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","
+subject_image_url":null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-29T14:16:37.167000+01:00","user
+1_avg_score":18,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject
+_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"
+5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id
+":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informati
+ca","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q
+4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:
+43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date"
+:"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5
+d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","use
+r2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","us
+er2_university_name":"Politecnico di Milano","version":4},"correct_answer":4,"question":{"answers":[{"answer_number":0,"is_correct_answer":false,"text":"55"},{"ans
+wer_number":1,"is_correct_answer":false,"text":"2"},{"answer_number":2,"is_correct_answer":false,"text":"138"},{"answer_number":3,"is_correct_answer":false,"text":
+"1"},{"answer_number":4,"is_correct_answer":true,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?"
+,"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costi
+tuzionale","timeout":20}}
+[Tue Dec 29 2020 21:17:12.861]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a
+","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:11.615000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions"
+:[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costi
+tuzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answ
+er_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+0
+1:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user2_score":17,"user1_has_answered":false,"user2_has
+_answered":true,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"
+5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_st
+art":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":f
+alse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+
+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:
+56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1
+c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae"
+,"user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university
+_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id"
+:"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe
+08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5
+b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","u
+ser2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZ
+M1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":4},"question":{"a
+nswers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"
+139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.85
+0000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":
+false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_numb
+er":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_n
+umber":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","ti
+meout":20,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":24,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:12.867]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:13.897]  LOG      jeannahrae BestOf.saveRemainingTime 10
+[Tue Dec 29 2020 21:17:14.140]  LOG      18
+[Tue Dec 29 2020 21:17:14.620]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a","facul
+ty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:11.615000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"ques
+tion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzional
+e","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date"
+:"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","s
+ubject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user2_score":17,"user1_has_answered":false,"user2_has_answere
+d":true,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5dbe08ce
+2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":fal
+se,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"us
+er2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","
+legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56
+.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.47500
+0+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840
+ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_
+profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":n
+ull,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0
+979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a56
+40a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f8
+08cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id"
+:"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0H
+Axd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":4},"question":{"answers":
+[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"
+question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:
+00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"i
+s_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"t
+ext":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1
+,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":2
+0,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":10,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:14.660]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 21:17:14.690]  LOG      jeannahrae startQuestionPolling
+[Tue Dec 29 2020 21:17:14.109]  LOG      18
+[Tue Dec 29 2020 21:17:14.855]  LOG      jinnahrae onSelectAnswer 2020-12-29T13:17:14.012Z
+[Tue Dec 29 2020 21:17:16.606]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tru
+e,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-29
+T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14
+:17:14.506000+01:00","user1_has_answered":true,"user1_score":28,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","user2_has_answered":true,"user2_score":17},
+{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati"
+,"user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi
+di dati","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":23,"user1_bestof_subjects":[{"la
+st_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"
+version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"versio
+n":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"ver
+sion":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","us
+er1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_i
+d":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Ar
+chitettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_i
+d":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"
+name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image
+_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleuser
+content.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano",
+"version":5},"correct_answer":4,"question":{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"Un sistema grafico di costruzione delle query"},{"answer
+_number":1,"is_correct_answer":false,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"is_correct_answer":
+false,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"is_correct_answer":false,"text":"Una libreria di esempi di query in SQL"},{"answer_numb
+er":4,"is_correct_answer":false,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","qu
+estion_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","ti
+meout":50}}
+[Tue Dec 29 2020 21:17:16.747]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a"
+,"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":
+[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costit
+uzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answe
+r_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01
+:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":
+true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":
+0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url"
+:"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number"
+:3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_question
+s_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura de
+lle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":
+"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritt
+o costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","use
+r1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googl
+eusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_u
+pdate_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0
+},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version
+":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_av
+g_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2
+_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"Un sistem
+a grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2
+,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di vis
+ualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000
++01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end"
+:false},"answered_question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"
+1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"star
+t_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all
+_questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":28,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:16.749]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:17.798]  LOG      jinnahrae BestOf.saveRemainingTime 5
+[Tue Dec 29 2020 21:17:17.865]  LOG      17
+[Tue Dec 29 2020 21:17:17.916]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","facult
+y_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"quest
+ion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale
+","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date":
+"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","su
+bject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":true,"us
+er2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_st
+art":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","sub
+ject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subj
+ect_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count"
+:0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti
+ - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di
+ dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costit
+uzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_facul
+ty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercon
+tent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_da
+te":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},
+{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last
+_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"u
+ser2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score"
+:17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_univers
+ity_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"Un sistema grafic
+o di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":
+"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzaz
+ione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00",
+"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},
+"answered_question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"an
+swer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":
+"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questio
+ns_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":5,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:17.919]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:17.919]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 2.568
+[Tue Dec 29 2020 21:17:17.956]  LOG      17
+[Tue Dec 29 2020 21:17:19.840]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 21:17:20.227]  LOG      jeannahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[
+{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costitu
+zionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer
+_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:
+00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":t
+rue,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0
+,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":
+"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":
+3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions
+_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura del
+le reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"
+Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+ costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user
+1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.google
+usercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_up
+date_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"versi
+on":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0}
+,{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version"
+:0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg
+_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_
+university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"Un sistema
+ grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,
+"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visu
+alizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+
+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":
+false},"answered_question":{"answers":[{"answer_number":0,"text":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1
+"},{"answer_number":4,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start
+_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_
+questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":10,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:20.229]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 21:17:20.229]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 4.055
+[Tue Dec 29 2020 21:17:20.259]  LOG      23
+[Tue Dec 29 2020 21:17:21.570]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-29T13:17:20.726Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","besto
+f_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"start_date":"2020-12-29T14:
+16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"
+","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:
+16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date
+":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2
+_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.5420
+00+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a564
+0a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"i
+s_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_h
+as_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legac
+y_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.4770
+00+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:
+00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","
+user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_nickname":"jinnahrae","user1_profi
+le_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"
+user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8
+a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a18
+0dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3
+c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f5
+26ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3n
+gZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"an
+swer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basat
+a su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_num
+ber":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_d
+ate":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_co
+unt":4,"is_start":false,"is_end":false},"answered_question":null,"current_question_number":2,"remaining_time":5,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:21.762]  LOG      jinnahrae this.startQuestionPolling() 2020-12-29T13:17:20.921Z
+[Tue Dec 29 2020 21:17:21.763]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-29T13:17:20.922Z
+[Tue Dec 29 2020 21:17:25.922]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-29T13:17:24.243Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","best
+of_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:14.612000+01:00","ongoing":true,"start_date":"2020-12-29T14
+:16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":
+"","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14
+:16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_dat
+e":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user
+2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542
+000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a56
+40a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"
+is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_
+has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","lega
+cy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477
+000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01
+:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed",
+"user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_nickname":"jinnahrae","user1_prof
+ile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,
+"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c
+8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a1
+80dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc
+3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f
+526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3
+ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"a
+nswer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basa
+ta su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_nu
+mber":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_
+date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_c
+ount":4,"is_start":false,"is_end":false},"answered_question":null,"current_question_number":2,"remaining_time":10,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:26.132]  LOG      jeannahrae this.startQuestionPolling() 2020-12-29T13:17:24.462Z
+[Tue Dec 29 2020 21:17:26.137]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-29T13:17:24.465Z
+[Tue Dec 29 2020 21:17:28.894]  LOG      jeannahrae onSelectAnswer 2020-12-29T13:17:27.222Z
+[Tue Dec 29 2020 21:17:29.849]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_up
+date_date":"2020-12-29T14:17:28.791000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c58
+0f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tr
+ue,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-2
+9T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T1
+4:17:14.506000+01:00","user1_has_answered":true,"user1_score":28,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","user2_has_answered":true,"user2_score":17}
+,{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati
+","user1_has_answered":false,"user2_answer_date":"2020-12-29T14:17:28.718000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":3,"subject_id":"
+5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-29T1
+4:16:37.167000+01:00","user1_avg_score":23,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura dell
+e reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"B
+asi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"use
+r1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/A
+Oh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_u
+pdate_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0
+},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version
+":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_
+nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b
+4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":6},"correct_answer":0,"question":{"answers":[{"answer_number":0,"is_correct_answe
+r":true,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"is_correct_answer":false,"text":"Una modalit▒▒ di apprendimento della costruzion
+e delle query basata su esempi"},{"answer_number":2,"is_correct_answer":false,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"is_correct_answ
+er":false,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"is_correct_answer":false,"text":"Un sistema di visualizzazione dei dati"}],"question
+":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a56
+40a180dfe493","subject_image_url":null,"subject_name":"Basi di dati","timeout":50}}
+[Tue Dec 29 2020 21:17:30.150]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a
+","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:28.791000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions"
+:[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costi
+tuzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answ
+er_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+0
+1:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered"
+:true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count"
+:0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url
+":"","subject_name":"Basi di dati","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12-29T14:17:28.718000+01:00","al
+l_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di d
+ati","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"
+2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"las
+t_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_upda
+te_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_
+faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"
+user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university
+_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle re
+ti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi
+di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto cost
+ituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_fac
+ulty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleuser
+content.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano",
+"version":6},"question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendim
+ento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria
+di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By
+ Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi
+ di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di co
+struzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una mo
+dalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione de
+i dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subjec
+t_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"curren
+t_question_number":2,"remaining_time":10,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:30.180]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:31.500]  LOG      jeannahrae BestOf.saveRemainingTime 41
+[Tue Dec 29 2020 21:17:31.189]  LOG      23
+[Tue Dec 29 2020 21:17:31.239]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a","facul
+ty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:28.791000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"ques
+tion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzional
+e","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date"
+:"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","s
+ubject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":true,"u
+ser2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_s
+tart":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","su
+bject_name":"Basi di dati","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questi
+ons_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","us
+er1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-
+15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update
+_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date"
+:"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_
+id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23,"user1_ni
+ckname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":nul
+l,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Int
+ernet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati"
+,"subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituziona
+le","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_nam
+e":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.
+com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version
+":6},"question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento del
+la costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esemp
+i di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example
+)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati
+","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzion
+e delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ t
+utorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}
+],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5
+dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_questi
+on_number":2,"remaining_time":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:31.242]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 21:17:31.244]  LOG      jeannahrae startQuestionPolling
+[Tue Dec 29 2020 21:17:31.288]  LOG      23
+[Tue Dec 29 2020 21:17:32.350]  LOG      jinnahrae onSelectAnswer 2020-12-29T13:17:31.163Z
+[Tue Dec 29 2020 21:17:34.820]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tru
+e,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-29
+T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14
+:17:14.506000+01:00","user1_has_answered":true,"user1_score":28,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","user2_has_answered":true,"user2_score":17},
+{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati"
+,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user1_has_answered":true,"user1_score":30,"user2_answer_date":"2020-12-29T14:17:28.718000+01:00","user2_ha
+s_answered":true,"user2_score":17},{"question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url"
+:null,"subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":25.33
+3333333333332,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_i
+d":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5d
+be08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":
+"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica
+","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4M
+DsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43
+:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"
+2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-1
+1-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d5
+2a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2
+_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user
+2_university_name":"Politecnico di Milano","version":7},"correct_answer":0,"question":{"answers":[{"answer_number":0,"is_correct_answer":false,"text":"Per rimuover
+e i blocchi in scrittura"},{"answer_number":1,"is_correct_answer":false,"text":"Per semplificare la struttura del database"},{"answer_number":2,"is_correct_answer"
+:false,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"is_correct_answer":true,"text":"Per aumentare le performance di ricerca"},{"answe
+r_number":4,"is_correct_answer":false,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indic
+i su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":n
+ull,"subject_name":"Basi di dati","timeout":50}}
+[Tue Dec 29 2020 21:17:34.968]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a"
+,"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":
+[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costit
+uzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answe
+r_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01
+:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":
+true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":
+0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url"
+:"","subject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.31
+9000+01:00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020
+-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_an
+swered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id"
+:85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01
+:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","
+legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1
+_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":25.333333333333332,"user1_nickname":"jinnahrae","
+user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_n
+ame":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"
+5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08
+ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6
+c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","use
+r2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1
+pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"question":{"ans
+wers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2
+,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminui
+re lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"st
+art_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questio
+ns_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_num
+ber":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},
+{"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft A
+ccess, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","su
+bject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":2,"remaining_time
+":5,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:34.970]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:36.250]  LOG      jinnahrae BestOf.saveRemainingTime 35
+[Tue Dec 29 2020 21:17:36.940]  LOG      17
+[Tue Dec 29 2020 21:17:36.145]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","facult
+y_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"quest
+ion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale
+","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date":
+"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","su
+bject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":true,"us
+er2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_st
+art":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","sub
+ject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:
+00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-29T1
+4:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_answered":
+false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"nam
+e":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","le
+gacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_i
+d":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty
+_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":25.333333333333332,"user1_nickname":"jinnahrae","user1_pr
+ofile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":nul
+l,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a097
+9c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640
+a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808
+cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"
+5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAx
+d3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"question":{"answers":[{
+"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":
+"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo sp
+azio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date
+":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count
+":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"
+text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer
+_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, c
+osa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_im
+age_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":2,"remaining_time":35,"us
+er_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:36.148]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:36.149]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 2.984
+[Tue Dec 29 2020 21:17:36.188]  LOG      17
+[Tue Dec 29 2020 21:17:36.283]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 21:17:38.814]  LOG      jeannahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[
+{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costitu
+zionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer
+_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:
+00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":t
+rue,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0
+,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":
+"","subject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319
+000+01:00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-
+12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_has_answered":false,"user2_has_ans
+wered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":
+85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:
+00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","l
+egacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_
+faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":25.333333333333332,"user1_nickname":"jinnahrae","u
+ser1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_na
+me":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5
+d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08c
+e2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c
+580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user
+2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1p
+m-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"question":{"answ
+ers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,
+"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuir
+e lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"sta
+rt_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_question
+s_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_numb
+er":1,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{
+"answer_number":3,"text":"Una libreria di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Ac
+cess, cosa si intende con QBE (Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","sub
+ject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":2,"remaining_time"
+:41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:38.822]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 21:17:38.823]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 4.827
+[Tue Dec 29 2020 21:17:38.868]  LOG      25.333333333333332
+[Tue Dec 29 2020 21:17:39.781]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-29T13:17:38.937Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","besto
+f_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"start_date":"2020-12-29T14:
+16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"
+","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:
+16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date
+":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2
+_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.5420
+00+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a564
+0a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answ
+er_date":"2020-12-29T14:17:32.319000+01:00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"quest
+ion_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_h
+as_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16
+:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date
+":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"201
+9-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"
+5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":25.33333333333333
+2,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_univers
+ity_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle
+ reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Ba
+si di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto c
+ostituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_
+faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleu
+sercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milan
+o","version":7},"question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura d
+el database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answ
+er_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un da
+tabase?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di
+ dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":null,"current_question_number":3,"remaining_time":35,"user_name":"j
+innahrae"}
+[Tue Dec 29 2020 21:17:40.288]  LOG      jinnahrae this.startQuestionPolling() 2020-12-29T13:17:39.448Z
+[Tue Dec 29 2020 21:17:40.290]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-29T13:17:39.450Z
+[Tue Dec 29 2020 21:17:44.549]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-29T13:17:42.864Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","best
+of_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:32.444000+01:00","ongoing":true,"start_date":"2020-12-29T14
+:16:37.167000+01:00","questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":
+"","subject_name":"Diritto costituzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14
+:16:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_dat
+e":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user
+2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542
+000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a56
+40a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-29T14:17:32.319000+01:00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"ques
+tion_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_
+has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T1
+6:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_dat
+e":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"20
+19-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":
+"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":25.3333333333333
+32,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_univer
+sity_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura dell
+e reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"B
+asi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2
+_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.google
+usercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Mila
+no","version":7},"question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura
+del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"ans
+wer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un d
+atabase?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi d
+i dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":null,"current_question_number":3,"remaining_time":41,"user_name":"
+jeannahrae"}
+[Tue Dec 29 2020 21:17:44.714]  LOG      jeannahrae this.startQuestionPolling() 2020-12-29T13:17:43.040Z
+[Tue Dec 29 2020 21:17:44.716]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-29T13:17:43.041Z
+[Tue Dec 29 2020 21:17:46.685]  LOG      jinnahrae onSelectAnswer 2020-12-29T13:17:45.822Z
+[Tue Dec 29 2020 21:17:47.457]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"is_bot":false,"last_upd
+ate_date":"2020-12-29T14:17:46.400000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user1_has_answered":tru
+e,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,"start_date":"2020-12-29
+T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-29T14
+:17:14.506000+01:00","user1_has_answered":true,"user1_score":28,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","user2_has_answered":true,"user2_score":17},
+{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_name":"Basi di dati"
+,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user1_has_answered":true,"user1_score":30,"user2_answer_date":"2020-12-29T14:17:28.718000+01:00","user2_ha
+s_answered":true,"user2_score":17},{"question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url"
+:null,"subject_name":"Basi di dati","user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user1_has_answered":true,"user1_score":17,"user2_has_answered":false}],
+"start_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":23.25,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id"
+:85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01
+:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","
+legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1
+_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://l
+h3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"use
+r2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3e
+ea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180df
+e493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15
+981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f52
+6ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s1
+20","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":8},"correct_answer":3,"question":null}
+[Tue Dec 29 2020 21:17:47.613]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a"
+,"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:46.400000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":
+[{"question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costit
+uzionale","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answe
+r_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01
+:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":
+true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":
+0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url"
+:"","subject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.31
+9000+01:00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020
+-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_score":17,"user1_has_answered":tr
+ue,"user2_has_answered":false,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjec
+ts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","top
+ics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{
+},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics
+":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219
+df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvo
+uebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,
+"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00"
+,"legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","lega
+cy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_fac
+ulty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image
+_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_n
+ame":"Politecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per s
+emplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le perfo
+rmance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indi
+ci su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":
+"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Pe
+r rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazio
+ni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"
+question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.31900
+0+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end
+":false},"current_question_number":3,"remaining_time":35,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:47.614]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:48.643]  LOG      jinnahrae BestOf.saveRemainingTime 42
+[Tue Dec 29 2020 21:17:48.747]  LOG      17
+[Tue Dec 29 2020 21:17:48.792]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","facult
+y_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:46.400000+01:00","ongoing":true,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"quest
+ion_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale
+","user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017000+01:00","user2_answer_date":
+"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","su
+bject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":28,"user2_score":17,"user1_has_answered":true,"us
+er2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_st
+art":false,"is_end":false},{"question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","sub
+ject_name":"Basi di dati","user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:
+00","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-29T1
+4:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","user1_score":17,"user1_has_answered":true,"user
+2_has_answered":false,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"l
+ast_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},
+"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"versi
+on":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"ve
+rsion":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","use
+r1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96
+-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"
+Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy
+_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5
+,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_ima
+ge_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"h
+ttps://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Po
+litecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplific
+are la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance d
+i ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su un
+a tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subj
+ect_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuov
+ere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di in
+serimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question
+":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00"
+,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false}
+,"current_question_number":3,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:48.794]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 21:17:48.795]  LOG      jinnahrae startQuestionPolling
+[Tue Dec 29 2020 21:17:48.851]  LOG      17
+[Tue Dec 29 2020 21:17:51.655]  LOG      jeannahrae onSelectAnswer 2020-12-29T13:17:49.981Z
+[Tue Dec 29 2020 21:17:53.722]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5feb2c35836f41d5f1afc93a","faculty_id":null,"finish_date":"2020-12-
+29T14:17:51.376000+01:00","is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"questions":[{"answers":[{"answer_number":0,"is_corr
+ect_answer":true,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"is_correct_answer":false,"text":"Valle d'Aosta, Tr
+entino, Sicilia, Sardegna"},{"answer_number":2,"is_correct_answer":false,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number"
+:3,"is_correct_answer":false,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"is_correct_answer":false,"text":"Valle d'Aosta,
+Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.22
+2000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":35,"user1_answer_date":"2020-12-29T1
+4:16:54.017000+01:00","user1_answer_number":0,"user1_has_answered":true,"user1_score":18,"user2_answer_date":"2020-12-29T14:16:57.850000+01:00","user2_answer_numbe
+r":1,"user2_has_answered":true,"user2_score":17},{"answers":[{"answer_number":0,"is_correct_answer":false,"text":"55"},{"answer_number":1,"is_correct_answer":false
+,"text":"2"},{"answer_number":2,"is_correct_answer":false,"text":"138"},{"answer_number":3,"is_correct_answer":false,"text":"1"},{"answer_number":4,"is_correct_ans
+wer":true,"text":"139"}],"question":"In quale articolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020
+-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":20,"user1_answer_d
+ate":"2020-12-29T14:17:14.506000+01:00","user1_answer_number":4,"user1_has_answered":true,"user1_score":28,"user2_answer_date":"2020-12-29T14:17:11.542000+01:00","
+user2_answer_number":1,"user2_has_answered":true,"user2_score":17},{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"Un sistema grafico di costruzion
+e delle query"},{"answer_number":1,"is_correct_answer":false,"text":"Una modalit▒▒ di apprendimento della costruzione delle query basata su esempi"},{"answer_number
+":2,"is_correct_answer":false,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"is_correct_answer":false,"text":"Una libreria di esempi di quer
+y in SQL"},{"answer_number":4,"is_correct_answer":false,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE
+(Query By Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":null,"subject_
+name":"Basi di dati","timeout":50,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user1_answer_number":0,"user1_has_answered":true,"user1_score":30,"user2_
+answer_date":"2020-12-29T14:17:28.718000+01:00","user2_answer_number":1,"user2_has_answered":true,"user2_score":17},{"answers":[{"answer_number":0,"is_correct_answ
+er":false,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"is_correct_answer":false,"text":"Per semplificare la struttura del database"},{"answer
+_number":2,"is_correct_answer":false,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"is_correct_answer":true,"text":"Per aumentare le pe
+rformance di ricerca"},{"answer_number":4,"is_correct_answer":false,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ra
+gione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a18
+0dfe493","subject_image_url":null,"subject_name":"Basi di dati","timeout":50,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user1_answer_number":1,"user1_
+has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-29T14:17:51.376000+01:00","user2_answer_number":3,"user2_has_answered":true,"user2_score":29}],"st
+art_date":"2020-12-29T14:16:37.167000+01:00","user1_avg_score":23.25,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85
+,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00
+","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","leg
+acy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_fa
+culty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.
+googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":20,"user2_
+bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5
+cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe49
+3","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981
+e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea
+4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120"
+,"user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":9,"winner_name":"user1"},"correct_answer":3,"question":
+null}
+[Tue Dec 29 2020 21:17:53.804]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 21:17:53.915]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a
+","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"start_date":"2020-12-29T14:16:37.167000+01:00","questions
+":[{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, S
+icilia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino,
+ Sicilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a
+ statuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_nam
+e":"Diritto costituzionale","timeout":35,"user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:1
+6:54.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"t
+ext":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale ar
+ticolo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c
+580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":28,"user2_score":17,"user1_has_answered":true,"user
+2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_star
+t":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendi
+mento della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria
+ di esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query B
+y Example)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Bas
+i di dati","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00
+","user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Per rimuov
+ere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di in
+serimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question
+":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00"
+,"subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":29,"user1_has_answered":t
+rue,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user2_answer_date":"2020-12-29T14:17:51.376000+01:00","all_questions_count":0
+,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti -
+ Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di d
+ati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituz
+ionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty
+_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleuserco
+ntent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_d
+ate":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0}
+,{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"las
+t_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"
+user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score
+":20,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_univer
+sity_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"t
+ext":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le
+operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su di
+sco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:
+39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false
+,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la st
+ruttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca
+"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella
+ in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name"
+:"Basi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:53.918]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 21:17:54.932]  LOG      jeannahrae BestOf.saveRemainingTime 36
+[Tue Dec 29 2020 21:17:54.985]  LOG      jinnahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[
+{"answers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sici
+lia, Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Si
+cilia, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a st
+atuto speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":
+"Diritto costituzionale","timeout":35,"user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:5
+4.017000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text
+":"55"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale artic
+olo trova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":28,"user2_score":17,"user1_has_answered":true,"user2_h
+as_answered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":
+false,"is_end":false},{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimen
+to della costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di
+ esempi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By E
+xample)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi d
+i dati","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","
+user2_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Per rimuovere
+ i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inser
+imento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"
+Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","s
+ubject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":29,"user1_has_answered":true
+,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user2_answer_date":"2020-12-29T14:17:51.376000+01:00","all_questions_count":0,"i
+s_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - In
+ternet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati
+","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzion
+ale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_na
+me":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleuserconte
+nt.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date
+":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"
+last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_u
+pdate_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"use
+r2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":2
+0,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_universit
+y_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text
+":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le ope
+razioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco
+"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.
+319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"i
+s_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la strut
+tura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},
+{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in
+ un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"B
+asi di dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:54.988]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 21:17:55.150]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 2.772
+[Tue Dec 29 2020 21:17:55.300]  LOG      20
+[Tue Dec 29 2020 21:17:55.800]  LOG      25.333333333333332
+[Tue Dec 29 2020 21:17:55.131]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a","facul
+ty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"ans
+wers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia,
+Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia
+, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto
+ speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diri
+tto costituzionale","timeout":35,"user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017
+000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"55
+"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo t
+rova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808c
+c3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":28,"user2_score":17,"user1_has_answered":true,"user2_has_an
+swered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":false
+,"is_end":false},{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento de
+lla costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esem
+pi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Exampl
+e)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dat
+i","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user2
+_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Per rimuovere i bl
+occhi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inseriment
+o"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale
+ delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subjec
+t_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":29,"user1_has_answered":true,"use
+r2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user2_answer_date":"2020-12-29T14:17:51.376000+01:00","all_questions_count":0,"is_sta
+rt":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Interne
+t","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","su
+bject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale",
+"subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"
+Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.co
+m/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"20
+19-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_
+update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update
+_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_fa
+culty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":20,"us
+er2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id"
+:"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text":"Pe
+r rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazio
+ni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"
+question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.31900
+0+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end
+":true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura
+del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"ans
+wer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un d
+atabase?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi d
+i dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":36,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:55.134]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:55.136]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 2.088
+[Tue Dec 29 2020 21:17:55.187]  LOG      23.25
+[Tue Dec 29 2020 21:17:58.683]  LOG      20
+[Tue Dec 29 2020 21:17:58.724]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5feb2c35836f41d5f1afc93a","facult
+y_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"answ
+ers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia, S
+ardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia,
+ Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto
+speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dirit
+to costituzionale","timeout":35,"user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.0170
+00+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"55"
+},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo tr
+ova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808cc
+3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":28,"user2_score":17,"user1_has_answered":true,"user2_has_ans
+wered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":false,
+"is_end":false},{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento del
+la costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esemp
+i di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Example
+)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati
+","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user2_
+answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Per rimuovere i blo
+cchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento
+"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale
+delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject
+_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":29,"user1_has_answered":true,"user
+2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user2_answer_date":"2020-12-29T14:17:51.376000+01:00","all_questions_count":0,"is_star
+t":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet
+","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","sub
+ject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","
+subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"I
+nformatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com
+/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"201
+9-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_u
+pdate_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_
+date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_fac
+ulty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":20,"use
+r2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":
+"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text":"Per
+ rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazion
+i di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"q
+uestion":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000
++01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end"
+:true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura d
+el database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answ
+er_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un da
+tabase?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di
+ dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 21:17:58.726]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:58.730]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 21:17:58.800]  LOG      20
+[Tue Dec 29 2020 21:17:58.869]  LOG      23.25
+[Tue Dec 29 2020 21:17:58.896]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5feb2c35836f41d5f1afc93a","facul
+ty_id":null,"is_bot":false,"last_update_date":"2020-12-29T14:17:51.541000+01:00","ongoing":false,"start_date":"2020-12-29T14:16:37.167000+01:00","questions":[{"ans
+wers":[{"answer_number":0,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Sardegna"},{"answer_number":1,"text":"Valle d'Aosta, Trentino, Sicilia,
+Sardegna"},{"answer_number":2,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Marche"},{"answer_number":3,"text":"Valle d'Aosta, Trentino, Sicilia
+, Friuli Venezia-Giulia"},{"answer_number":4,"text":"Valle d'Aosta, Trentino, Sicilia, Friuli Venezia-Giulia, Umbria"}],"question":"Quali sono le Regioni a statuto
+ speciale?","question_number":0,"start_date":"2020-12-29T14:16:48.222000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diri
+tto costituzionale","timeout":35,"user1_score":18,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:16:54.017
+000+01:00","user2_answer_date":"2020-12-29T14:16:57.850000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"answers":[{"answer_number":0,"text":"55
+"},{"answer_number":1,"text":"2"},{"answer_number":2,"text":"138"},{"answer_number":3,"text":"1"},{"answer_number":4,"text":"139"}],"question":"In quale articolo t
+rova formulazione un limite espresso alla revisione costituzionale?","question_number":1,"start_date":"2020-12-29T14:17:01.850000+01:00","subject_id":"5b6c580f808c
+c3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":28,"user2_score":17,"user1_has_answered":true,"user2_has_an
+swered":true,"user1_answer_date":"2020-12-29T14:17:14.506000+01:00","user2_answer_date":"2020-12-29T14:17:11.542000+01:00","all_questions_count":0,"is_start":false
+,"is_end":false},{"answers":[{"answer_number":0,"text":"Un sistema grafico di costruzione delle query"},{"answer_number":1,"text":"Una modalit▒▒ di apprendimento de
+lla costruzione delle query basata su esempi"},{"answer_number":2,"text":"Una modalit▒▒ tutorial dell▒pplicazione"},{"answer_number":3,"text":"Una libreria di esem
+pi di query in SQL"},{"answer_number":4,"text":"Un sistema di visualizzazione dei dati"}],"question":"In Microsoft Access, cosa si intende con QBE (Query By Exampl
+e)?","question_number":2,"start_date":"2020-12-29T14:17:20.506000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dat
+i","timeout":50,"user1_score":30,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:32.319000+01:00","user2
+_answer_date":"2020-12-29T14:17:28.718000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"Per rimuovere i bl
+occhi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inseriment
+o"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale
+ delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subjec
+t_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"user1_score":17,"user2_score":29,"user1_has_answered":true,"use
+r2_has_answered":true,"user1_answer_date":"2020-12-29T14:17:46.328000+01:00","user2_answer_date":"2020-12-29T14:17:51.376000+01:00","all_questions_count":0,"is_sta
+rt":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Interne
+t","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","su
+bject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale",
+"subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"
+Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":23.25,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.co
+m/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"20
+19-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_
+update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update
+_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_fa
+culty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":20,"us
+er2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id"
+:"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text":"Pe
+r rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura del database"},{"answer_number":2,"text":"Per velocizzare le operazio
+ni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"answer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"
+question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un database?","question_number":3,"start_date":"2020-12-29T14:17:39.31900
+0+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi di dati","timeout":50,"all_questions_count":4,"is_start":false,"is_end
+":true},"answered_question":{"answers":[{"answer_number":0,"text":"Per rimuovere i blocchi in scrittura"},{"answer_number":1,"text":"Per semplificare la struttura
+del database"},{"answer_number":2,"text":"Per velocizzare le operazioni di inserimento"},{"answer_number":3,"text":"Per aumentare le performance di ricerca"},{"ans
+wer_number":4,"text":"Per diminuire lo spazio richiesto su disco"}],"question":"Quale delle seguenti 癡 una ragione per utilizzare gli indici su una tabella in un d
+atabase?","question_number":3,"start_date":"2020-12-29T14:17:39.319000+01:00","subject_id":"5dbe08ce2a5640a180dfe493","subject_image_url":"","subject_name":"Basi d
+i dati","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":36,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 21:17:58.898]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 21:17:58.901]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 21:17:58.931]  LOG      23.25
+[Tue Dec 29 2020 21:18:03.370]  LOG      23.25

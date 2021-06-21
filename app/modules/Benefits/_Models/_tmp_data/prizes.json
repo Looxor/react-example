@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "category": "Travel",
+      "denominations": [
+        {
+          "is_highlighted": true,
+          "name": "5€",
+          "payments": [
+            {
+              "allow_non_students": true,
+              "coins_requirement": 50000,
+              "conditions": [
+                {
+                  "message": "Generabile fino al 06/02/2019",
+                  "name": "any_left",
+                  "satisfied": true
+                },
+                {
+                  "action": "APP#BESTOF#GENERAL",
+                  "action_title": "Gioca ora",
+                  "description": "Continua a giocare per accumulare abbastanza gettoni per sbloccare questo premio",
+                  "message": "10 gettoni",
+                  "name": "coins_requirement",
+                  "satisfied": false,
+                  "title": "Ti mancano 5 gettoni",
+                  "transient": true
+                }
+              ],
+              "finish_date": "2019-02-06T00:00:00.000Z",
+              "is_valid": false,
+              "priority": 0,
+              "start_date": "2019-01-27T00:00:00.000Z",
+              "title": "50000 gettoni"
+            },
+            {
+              "allow_non_students": false,
+              "coins_requirement": 1000,
+              "conditions": [
+                {
+                  "message": "Generabile fino al 06/02/2019",
+                  "name": "any_left",
+                  "satisfied": true
+                },
+                {
+                  "message": "Studente universitario",
+                  "name": "is_student",
+                  "satisfied": true
+                },
+                {
+                  "action": "APP#BESTOF#GENERAL",
+                  "action_title": "Gioca ora",
+                  "description": "Continua a giocare per accumulare abbastanza gettoni per sbloccare questo premio",
+                  "message": "50 gettoni",
+                  "name": "coins_requirement",
+                  "satisfied": false,
+                  "title": "Ti mancano 10 gettoni",
+                  "transient": true
+                }
+              ],
+              "currencies": {
+                "eur": {
+                  "price": 475
+                }
+              },
+              "finish_date": "2019-02-06T00:00:00.000Z",
+              "is_valid": false,
+              "priority": 1,
+              "start_date": "2019-01-27T00:00:00.000Z",
+              "title": "4,75€ + 10 gettoni"
+            }
+          ],
+          "priority": 0
+        }
+      ],
+      "description": "rfrfed",
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/partners%2FFlixBus.png?alt=media&token=5fde2321-d367-45bb-b279-ac0f7cea8c3d",
+      "partner_id": "5bbba09d4c8cf668154a7108",
+      "partner_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FNew%20FlixBus-1560787460.png?alt=media&token=5454b355-fd31-465e-bdcf-cf5bdf34934e",
+      "partner_name": "FlixBus",
+      "priority": 0,
+      "prize_id": "5f63969b5dfa2515df267a7e",
+      "text": "rfrfed",
+      "title": "Giftcard Carrefour"
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,1 @@
+keytool -exportcert -list -v -alias androiddebugkey -keystore ..\..\..\android\app\debug.keystore

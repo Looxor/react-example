@@ -1,0 +1,386 @@
+[
+  {
+    "bestof_data": {
+      "bestof_id": "5fcce04d0ab75a6ebd0e5e8b",
+      "faculty_id": null,
+      "finish_date": "2020-12-06T14:48:34.158Z",
+      "is_bot": true,
+      "last_update_date": "2020-12-06T14:48:34.542Z",
+      "ongoing": false,
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Dal presidente del Senato"
+            },
+            {
+              "answer_number": 1,
+              "text": "Dal presidente della camera dei deputati"
+            },
+            {
+              "answer_number": 2,
+              "text": "Dai presidenti delle due camere"
+            },
+            {
+              "answer_number": 3,
+              "text": "Dal capo provvisorio dello Stato"
+            },
+            {
+              "answer_number": 4,
+              "text": "Dalla presidente della corte costituzionale"
+            }
+          ],
+          "question": "Da chi è stata promulgata la Costituzione della Repubblica italiana?",
+          "question_number": 0,
+          "start_date": "2020-12-06T14:45:00.548Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "timeout": 40,
+          "user1_answer_date": "2020-12-06T14:45:49.513Z",
+          "user1_answer_number": null,
+          "user1_auto_answered": true,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-06T14:45:49.513Z",
+          "user2_answer_number": null,
+          "user2_has_answered": true,
+          "user2_score": 17
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "All'ultimo censimento generale della popolazione prima dell'assemblea costituente"
+            },
+            {
+              "answer_number": 1,
+              "text": "All'ultimo censimento generale della popolazione dopo la fine dei lavori dell'assemblea costituente"
+            },
+            {
+              "answer_number": 2,
+              "text": "Al penultimo censimento generale della popolazione prima delle elezioni"
+            },
+            {
+              "answer_number": 3,
+              "text": "A nessun censimento generale della popolazione"
+            },
+            {
+              "answer_number": 4,
+              "text": "All'ultimo censimento generale della popolazione prima delle elezioni"
+            }
+          ],
+          "question": "A quale censimento si fa riferimento ai fini della ripartizione dei seggi, nella camera dei deputati, tra le circoscrizioni?",
+          "question_number": 1,
+          "start_date": "2020-12-06T14:45:52.513Z",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "timeout": 40,
+          "user1_answer_date": "2020-12-06T14:46:37.723Z",
+          "user1_answer_number": null,
+          "user1_auto_answered": true,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-06T14:46:37.723Z",
+          "user2_answer_number": null,
+          "user2_has_answered": true,
+          "user2_score": 17
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "obbligatoria su un lato e multipla sull’altro"
+            },
+            {
+              "answer_number": 1,
+              "text": "opzionale su entrambe i lati"
+            },
+            {
+              "answer_number": 2,
+              "text": "obbligatoria e multipla"
+            },
+            {
+              "answer_number": 3,
+              "text": "opzionale su un lato e multipla sull’altro"
+            },
+            {
+              "answer_number": 4,
+              "text": "opzionale e può essere multipla"
+            }
+          ],
+          "question": "Nei database, una relazione indicata come (0,n) significa che è:",
+          "question_number": 2,
+          "start_date": "2020-12-06T14:46:40.723Z",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-06T14:47:35.937Z",
+          "user1_answer_number": null,
+          "user1_auto_answered": true,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-06T14:47:35.937Z",
+          "user2_answer_number": null,
+          "user2_has_answered": true,
+          "user2_score": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "contenente solo testo"
+            },
+            {
+              "answer_number": 1,
+              "text": "che si può aprire solo con un sistema operativo per PC"
+            },
+            {
+              "answer_number": 2,
+              "text": "modificabile esclusivamente tramite l'accesso autorizzato dell'autore del file"
+            },
+            {
+              "answer_number": 3,
+              "text": "che si può aprire con il programma Acrobat Reader "
+            },
+            {
+              "answer_number": 4,
+              "text": "che si può aprire solo con il sistema operativo Linux"
+            }
+          ],
+          "question": "In informatica, l'estensione '.pdf' indica un documento:",
+          "question_number": 3,
+          "start_date": "2020-12-06T14:47:38.937Z",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-06T14:48:34.158Z",
+          "user1_answer_number": null,
+          "user1_auto_answered": true,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-06T14:48:34.158Z",
+          "user2_answer_number": null,
+          "user2_has_answered": true,
+          "user2_score": 30
+        }
+      ],
+      "start_date": "2020-12-06T14:44:45.644Z",
+      "user1_avg_score": 17,
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5f7662ef55d62082dca2fb6d",
+      "user1_nickname": "federico",
+      "user1_profile_image_url": null,
+      "user1_university_id": "5b4c6d1d29957d53aa863c93",
+      "user1_university_name": "Politecnico di Milano",
+      "user2_avg_score": 23.5,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f58f24e39adc40624ca15ca",
+      "user2_nickname": "itsChriGoogle",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gh11n86DryvHCIW1kEPbHk2QRtxFEqXjuxQwZ0e6A=s120",
+      "user2_university_id": "5bb8f32f1c9d44000022b211",
+      "user2_university_name": "SmartCreative Srl",
+      "version": 5,
+      "winner_name": "user2"
+    },
+    "question": null
+  },
+  {
+    "bestof_data": {
+      "bestof_id": "5fcfca51daedac5dcadf357d",
+      "faculty_id": null,
+      "last_update_date": "2020-12-08T19:47:45.993Z",
+      "ongoing": true,
+      "start_date": "2020-12-08T19:47:45.989Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5f526ea4dda24f825fbefbc9",
+      "user1_nickname": "jeannahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user1_university_id": "5b4c6d1d29957d53aa863c93",
+      "user1_university_name": "Politecnico di Milano",
+      "user2_id": null,
+      "version": 0
+    },
+    "question": null
+  },
+  {
+    "bestof_data": {
+      "bestof_id": "5fcf4508daedac5dcadf3579",
+      "faculty_id": null,
+      "last_update_date": "2020-12-08T10:19:04.748Z",
+      "ongoing": true,
+      "start_date": "2020-12-08T10:19:04.742Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_id": null,
+      "version": 0
+    },
+    "question": null
+  },
+  {
+    "bestof_data": {
+      "bestof_id": "5fcfa7c4daedac5dcadf357a",
+      "faculty_id": null,
+      "last_update_date": "2020-12-08T17:20:20.509Z",
+      "ongoing": true,
+      "start_date": "2020-12-08T17:20:20.505Z",
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477Z",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475Z",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_id": null,
+      "version": 0
+    },
+    "question": null
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "next_data": {
+      "bottom": {
+        "faculty_id": "5b53441c3cb6d44f9d87a683",
+        "skip": 100,
+        "stars": 1
+      }
+    },
+    "scoreboard": []
+  },
+  "success": true
+}

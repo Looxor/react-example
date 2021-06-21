@@ -1,0 +1,442 @@
+https://testing-it-thefaculty-backend.appspot.com/bestof/start_round
+{"firebase_idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODA0NjIwNywidXNlcl9pZCI6IlJXYUk4WlZwbHZjcW16c3lGRkM1cWVPRHdhNTMiLCJzdWIiOiJSV2FJOFpWcGx2Y3FtenN5RkZDNXFlT0R3YTUzIiwiaWF0IjoxNTc4MTA1MjAyLCJleHAiOjE1NzgxMDg4MDIsImVtYWlsIjoiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.IsLy_hQDi0lrkDpIzHnaAc_3n99xcnAH_ugloX6XYeqMnfzeZsaAsZ64fK7p44EKd_rSZDLW8ksGK-aGW-rnaR1mm4OSwkGxKDTC1j0tll2RppySZptjSX7e2ru20yD2e0h2-8zNK5PzrimeNqdyTMflNkNJNzNCT9ICVsGCOcTbxGbXGQWJbuzJ9S5tL-16e04SPJLcgOH5xhjli8AwG_CggNMGfkkazzTBQhgg4nHSz9Pj4axT2QmQ_g7TmQTbC9VRTtZKVdW9yTIyR98Rs1e9CAawLXPbdkwMMLtKHsZgbjmvY5vRfKsA2-WG-rHJeKEv8oTBkyOKcuGpM2XXiA", 
+	"bestof_id": "5e100114982145125aed861c"
+}
+
+{
+    "data": {
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$f(x)=o(g(x))$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "le funzioni non sono confrontabili"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "Nessuna alternativa è corretta"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$g(x)=o(f(x))$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$g(x)\\sim f(x)$"
+                    }
+                ],
+                "question": "Sia $f(x)=2-2\\cos(x)$ e $g(x)= x^2$. Allora per $x\\to 0$",
+                "question_number": 0,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 30
+            },
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$3\\cos((x) - 4\\sin(x)$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$-3\\sin(x) + 4\\cos((x)$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$3\\sin(x) - 4\\cos((x)$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$-3\\sin(x) - 4\\cos((x)$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$-3\\cos((x) + 4\\sin(x)$"
+                    }
+                ],
+                "question": "Data la funzione $y = 3\\sin(x) - 4\\cos(x)$, la sua derivata seconda è",
+                "question_number": 1,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 60
+            }
+        ],
+        "round": "round1",
+        "user1_id": "5c881bab3b7750001c04c9ec",
+        "user2_id": ""
+    },
+    "success": true
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "data": {
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$-\\frac 1{x^2}$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$ x^2 $"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$\\frac 2 x$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$-\\frac 2 x$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$-\\frac 2{x^2}$"
+                    }
+                ],
+                "question": "Data la funzione $f(x) = \\ln(x^2)$, $f^{''}(x)$ è uguale a",
+                "question_number": 0,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 15
+            },
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "${\\tan {\\ln \\left|\\frac{x}{2}\\right|}}+k$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "${\\ln \\left|7{\\cos x}\\right|}+k$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "${\\ln \\left|{\\cos x}\\right|}+k$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$7{\\ln \\left|{\\tan \\frac{x}{2}}\\right|}+k$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "${\\tan \\left(7{\\ln \\left|\\frac{x}{2}\\right|}\\right)}+k$"
+                    }
+                ],
+                "question": "Data $f\\left(x\\right)=\\frac{7}{{\\sin x}}$ il valore di $\\int{f\\left(x\\right)dx}$ è",
+                "question_number": 1,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 60
+            }
+        ],
+        "round": "round1",
+        "user1_id": "5c881bab3b7750001c04c9ec",
+        "user2_id": ""
+    },
+    "success": true
+}
+
+
+
+
+
+
+{
+    "data": {
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "infinite funzioni"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "un numero finito di funzioni"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "nessuna funzione"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "una sola funzione"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "Nessuna alternativa è corretta"
+                    }
+                ],
+                "question": "Data la funzione $2x$, essa può rappresentare la derivata di",
+                "question_number": 0,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 10
+            },
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$y=-\\frac{1}{2}x^2$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$y=x^2-1$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$y=1-\\frac{1}{2}x^2$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$y=\\frac{1}{2}x^2$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$y=1-x^2$"
+                    }
+                ],
+                "question": "Tutti i vertici delle parabole di fascio $f\\left(x\\right)=x^2-kx+1$ per $k\\in \\mathbb{R}$ giacciono sulla curva",
+                "question_number": 1,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 60
+            }
+        ],
+        "round": "round1",
+        "user1_id": "5c881bab3b7750001c04c9ec",
+        "user2_id": ""
+    },
+    "success": true
+}
+
+
+
+
+
+
+
+
+
+
+{
+    "data": {
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$2$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$e$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$-\\infty $"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$1$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$+\\infty $"
+                    }
+                ],
+                "question": "Data la funzione $f(x) = e^{2x}$, la derivata nel punto $x = 0$ vale",
+                "question_number": 0,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 20
+            },
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$- \\infty$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$0$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$- \\infty$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$4$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$-4$"
+                    }
+                ],
+                "question": "Se $\\lim\\limits_{x\\to+\\infty} f(x) = 4$ e $f(x)$ è una funzione dispari, allora $\\lim\\limits_{x\\to -\\infty} f(x) =$",
+                "question_number": 1,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 30
+            }
+        ],
+        "round": "round1",
+        "user1_id": "5c881bab3b7750001c04c9ec",
+        "user2_id": ""
+    },
+    "success": true
+}
+
+
+
+
+{
+    "code": 111,
+    "error": "wait for opponent to finish",
+    "success": false
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"firebase_idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODA0NjIwNywidXNlcl9pZCI6IlJXYUk4WlZwbHZjcW16c3lGRkM1cWVPRHdhNTMiLCJzdWIiOiJSV2FJOFpWcGx2Y3FtenN5RkZDNXFlT0R3YTUzIiwiaWF0IjoxNTc4MTExMTYwLCJleHAiOjE1NzgxMTQ3NjAsImVtYWlsIjoiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiY2hyaXN0aWFuLmxvY2F0ZWxsaS5kZXZAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.I_ewWDIyMPDZ8fDeF-1rtMKJWaldTAD4WZYcs-aO_Mx7QhtOB3jWJJmnjf6BxJ-elJmuJl73hgJnsBMaA42L_VsrZcXdvocE-6f_G49IsakQbxt3FAg7PNZOx5Z5yu2JRddyw0xtlw2X7GCOx3LtNl7RmbADWQ1A9K_0hyhvw6h5Ed9nA5p4z6WnSy8DB4LHTEVKp3gZQx5f3QPmN-vnnZbiXM6xjeC4qE_A8BJ9_b-axWXsO_YkCHz4Bft3nipFu5enfZwc6ltJ8AMgz6hnc-W0-CcLw7uvSrwMITmwv8Zce8_zi4_-8rQBGShrhe-z0uEOanmh_mdKJm32P2NBBw","bestof_id": "5e1012e80bab43a4639db848"
+}
+{
+    "data": {
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "Nessuna alternativa è corretta"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "dispari"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "né pari né dispari"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "pari"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "non pari"
+                    }
+                ],
+                "question": "La somma di una funzione pari e di una dispari è, in generale",
+                "question_number": 0,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 60
+            },
+            {
+                "answers": [
+                    {
+                        "answer_number": 0,
+                        "text": "$i$"
+                    },
+                    {
+                        "answer_number": 1,
+                        "text": "$0$"
+                    },
+                    {
+                        "answer_number": 2,
+                        "text": "$\\pi$"
+                    },
+                    {
+                        "answer_number": 3,
+                        "text": "$1$"
+                    },
+                    {
+                        "answer_number": 4,
+                        "text": "$-1$"
+                    }
+                ],
+                "question": "Sia il numero complesso $z=e^{i\\pi}$. Esso equivale a",
+                "question_number": 1,
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "subject_name": "Matematica di base",
+                "timeout": 30
+            }
+        ],
+        "round": "round1",
+        "user1_id": "5c881bab3b7750001c04c9ec",
+        "user2_id": "5c898a123b7750001a74863d"
+    },
+    "success": true
+}
+
+
+
+
+
+{"questions": [{"answers": [Array], "question": "Data $f\\left(x\\right)=\\frac{\\sqrt{1+x}}{\\sqrt{1-x}}+\\frac{\\sqrt{1-x}}{\\sqrt{1+x}}$ il valore di $\\int{f\\left(x\\right)dx}$ è", "question_number": 0, "subject_id": "5b6cacfa808cc3c159834931", "subject_name": "Matematica di base", "timeout": 60}, {"answers": [Array], "question": "La somma $2^{10}+2^{10}$ è uguale a", "question_number": 1, "subject_id": "5b6cacfa808cc3c159834931", "subject_name": "Matematica di base", "timeout": 60}], "round": "round1", "user1_id": "5c881bab3b7750001c04c9ec", "user2_id": "5dd2b65500107e15753acc37"}
+
+

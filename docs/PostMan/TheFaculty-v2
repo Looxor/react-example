@@ -1,0 +1,1458 @@
+{
+	"info": {
+		"_postman_id": "20398b8c-6c02-4cf7-a3f1-235a3024a611",
+		"name": "TheFaculty-v2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "BestOf",
+			"item": [
+				{
+					"name": "Start",
+					"item": [
+						{
+							"name": "bestof/start_bestof",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"value": "application/json",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"friend_id\": \"{{friend_id}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/start_bestof",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"start_bestof"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "bestof/start_bestof-without-friend_id",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/start_bestof",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"start_bestof"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "Round1",
+					"item": [
+						{
+							"name": "/bestof/start_round",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/start_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"start_round"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q0",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": -1, \"question_number\": 0, \"round_string\": \"round1\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q1",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": 2, \"question_number\": 1, \"round_string\": \"round1\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/finish_round",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"round_string\": \"round1\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/finish_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"finish_round"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "Round2",
+					"item": [
+						{
+							"name": "/bestof/start_round Copy",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/start_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"start_round"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q0",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": 1, \"question_number\": 0, \"round_string\": \"round2\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q1",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": 2, \"question_number\": 1, \"round_string\": \"round2\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/finish_round Copy",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"round_string\": \"round2\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/finish_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"finish_round"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "Round3",
+					"item": [
+						{
+							"name": "/bestof/start_round Copy",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/start_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"start_round"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q0",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": 1, \"question_number\": 0, \"round_string\": \"round3\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/send_bestof_answer_and_get_correct_answer-q1",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"answer_number\": 2, \"question_number\": 1, \"round_string\": \"round3\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/send_bestof_answer_and_get_correct_answer",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"send_bestof_answer_and_get_correct_answer"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "/bestof/finish_round Copy",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"type": "text",
+										"value": "application/json"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\", \"round_string\": \"round3\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/finish_round",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"finish_round"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "Reject",
+					"item": [
+						{
+							"name": "bestof/reject_bestof",
+							"request": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"value": "application/json",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\",\"bestof_id\": \"{{bestof_id}}\"\n}"
+								},
+								"url": {
+									"raw": "https://api.it.testing.thefacultyapp.com/bestof/reject_bestof",
+									"protocol": "https",
+									"host": [
+										"api",
+										"it",
+										"testing",
+										"thefacultyapp",
+										"com"
+									],
+									"path": [
+										"bestof",
+										"reject_bestof"
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"_postman_isSubFolder": true
+				},
+				{
+					"name": "bestof/get_bestof_data",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"bestof_id\": \"{{bestof_id}}\"\n}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_bestof_data",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_bestof_data"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "bestof/get_available_bestofs_data",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"\n}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_available_bestofs_data",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_available_bestofs_data"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "bestof/get_finished_bestofs_limited",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"\n}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_finished_bestofs_limited",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_finished_bestofs_limited"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "bestof/get_ongoing_bestofs_count",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_ongoing_bestofs_count",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_ongoing_bestofs_count"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "bestof/get_ongoing_bestofs",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_ongoing_bestofs",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_ongoing_bestofs"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "bestof/get_bestofs_won_or_lost_count",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/bestof/get_bestofs_won_or_lost_count",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"bestof",
+								"get_bestofs_won_or_lost_count"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "ScontiHome",
+			"item": [
+				{
+					"name": "profile/update_firebase_notificationtoken",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"firebase_notificationToken\": \"f4SB9qLlEUk:APA91bFpRB-FsW3cS4PiRYVaEQ7YBvnZMk42QNQeZcGwghqAMnawaQVqHOC2dLh7WxcCa04gSmMtJzBq-GzyyFxeQMfIESdNm8xVjuYNPPHjca86psdvreeLRhDlf5ZV7cGpzSayV53C\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/profile/update_firebase_notificationtoken",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"profile",
+								"update_firebase_notificationtoken"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "profile/refresh_firebase_idtoken",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/profile/refresh_firebase_idtoken",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"profile",
+								"refresh_firebase_idtoken"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "profile/get_user_data",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/profile/get_user_data",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"profile",
+								"get_user_data"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "profile/update_student_account",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"faculty_id\": \"5b53441c3cb6d44f9d87a683\" }"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/profile/update_student_account",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"profile",
+								"update_student_account"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "profile/get_all_faculties",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/profile/get_all_faculties",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"profile",
+								"get_all_faculties"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Server",
+			"item": [
+				{
+					"name": "server/get_static_variable - faq_text",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"name\": \"faq_text\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/server/get_static_variable",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"server",
+								"get_static_variable"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "server/get_api_versions",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"names\": [\n        \"ios_application_version_start\",\n        \"ios_application_version_end\",\n        \"android_application_version_start\",\n        \"android_application_version_end\"\n    ]\n}"
+						},
+						"url": {
+							"raw": "https://api.it.thefacultyapp.com/server/get_many_static_variables",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"server",
+								"get_many_static_variables"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "server/get_date_string",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/server/get_date_string",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"server",
+								"get_date_string"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Coins",
+			"item": [
+				{
+					"name": "coins/get_coins_transactions",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/coins/get_coins_transactions",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"coins",
+								"get_coins_transactions"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "coins/get_coins_packets",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/coins/get_coins_packets",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"coins",
+								"get_coins_packets"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Coupons",
+			"item": [
+				{
+					"name": "coupons/get_coupons",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://it.api.testing.thefacultyweb.com/coupons/get_coupons",
+							"protocol": "https",
+							"host": [
+								"it",
+								"api",
+								"testing",
+								"thefacultyweb",
+								"com"
+							],
+							"path": [
+								"coupons",
+								"get_coupons"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "coupons/get_used_coupons",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://it.api.testing.thefacultyweb.com/coupons/get_used_coupons",
+							"protocol": "https",
+							"host": [
+								"it",
+								"api",
+								"testing",
+								"thefacultyweb",
+								"com"
+							],
+							"path": [
+								"coupons",
+								"get_used_coupons"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Test",
+			"item": [
+				{
+					"name": "test/get_bought_test_instances",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_bought_test_instances",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_bought_test_instances"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "test/get_all_majors",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_all_majors",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_all_majors"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "test/get_active_simulation",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_active_simulation",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_active_simulation"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "test/get_major_tests",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"major_id\": \"5dc038c4637b54b14b35d57a\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_major_tests",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_major_tests"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "tests/search_major",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"pattern\": \"ing\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/search_major",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"search_major"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "tests/get_test",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\", \"pattern\": \"ing\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_test",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_test"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "tests/get_simulations_filtered",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"firebase_idToken\": \"{{firebase_idToken}}\"}"
+						},
+						"url": {
+							"raw": "https://api.it.testing.thefacultyapp.com/tests/get_simulations_filtered",
+							"protocol": "https",
+							"host": [
+								"api",
+								"it",
+								"testing",
+								"thefacultyapp",
+								"com"
+							],
+							"path": [
+								"tests",
+								"get_simulations_filtered"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "3118579d-ee41-4718-b94e-ce1f6fd4c72e",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "6f6d3b78-4b98-48af-88c1-b94f916e77dd",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"id": "e7bbdf5c-d8e2-47a9-a651-c24dacf2de13",
+			"key": "bestof_id",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

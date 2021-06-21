@@ -1,0 +1,2 @@
+There is a lag on textboxs in the SignUp and Login pages
+When I scroll back from the Login to the First Screen (Login/Register page) it lags (video 1)

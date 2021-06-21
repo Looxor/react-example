@@ -1,0 +1,12 @@
+[
+  {
+    "id": "5b6c587a808cc3c15981f41f",
+    "wrongLatexString": "$\tfrac{n+1}{2}$",
+    "index": 830
+  },
+  {
+    "id": "5b6c587a808cc3c15981f41f",
+    "wrongLatexString": "$\tfrac n 2$",
+    "index": 831
+  }
+]

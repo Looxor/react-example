@@ -1,0 +1,1312 @@
+[Tue Dec 29 2020 00:45:06.310]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-28T16:45:04.035Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9"
+,"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:44:58.647000+01:00","ongoing":true,"start_date":"2
+020-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","s
+ubject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"i
+s_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered
+":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","sub
+ject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_star
+t":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_h
+as_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11
+-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last
+_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":
+0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user
+1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_universi
+ty_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura
+delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95
+,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,
+"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_facult
+y_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3
+.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Polite
+cnico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art.
+ 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica pro
+muove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c58
+0f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"all_questions_count":4,"is_start":true,"is_end":false},"answ
+ered_question":null,"current_question_number":0,"remaining_time":0,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:07.703]  LOG      jeannahrae this.startQuestionPolling() 2020-12-28T16:45:05.708Z
+[Tue Dec 29 2020 00:45:07.705]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-28T16:45:05.709Z
+[Tue Dec 29 2020 00:45:08.240]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-28T16:45:07.654Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df",
+"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:44:58.647000+01:00","ongoing":true,"start_date":"20
+20-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","su
+bject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":true,"is
+_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered"
+:false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subj
+ect_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start
+":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_ha
+s_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-
+15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_
+update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_
+update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0
+}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1
+_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_universit
+y_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura d
+elle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,
+"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"
+name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty
+_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.
+googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politec
+nico di Milano","version":1},"question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art.
+14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica prom
+uove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580
+f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"all_questions_count":4,"is_start":true,"is_end":false},"answe
+red_question":null,"current_question_number":0,"remaining_time":0,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:08.235]  LOG      jinnahrae this.startQuestionPolling() 2020-12-28T16:45:07.866Z
+[Tue Dec 29 2020 00:45:08.237]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-28T16:45:07.868Z
+[Tue Dec 29 2020 00:45:11.930]  LOG      jinnahrae onSelectAnswer 2020-12-28T16:45:10.719Z
+[Tue Dec 29 2020 00:45:12.503]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"la
+st_update_date":"2020-12-28T17:45:11.071000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_
+id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user1
+_has_answered":true,"user1_score":19,"user2_has_answered":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subje
+ct_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subjec
+t_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id
+":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false}],"start_
+date":"2020-12-28T17:44:53.664000+01:00","user1_avg_score":19,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,
+"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+
+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+
+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad
+3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_i
+mage_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null
+,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d7
+2a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5db
+e08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject
+_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"
+Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZ
+M1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"correct
+_answer":1,"question":null}
+[Tue Dec 29 2020 00:45:12.673]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46
+149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:11.071000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00",
+"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_nam
+e":"Diritto costituzionale","user1_score":19,"user1_has_answered":true,"user2_has_answered":false,"user1_answer_date":"2020-12-28T17:45:11.025000+01:00","all
+_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dirit
+to costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subje
+ct_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":
+false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_n
+ame":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_s
+ubjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb
+30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180d
+fe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f80
+8cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user
+1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkV
+OGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T
+16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_upd
+ate_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_upd
+ate_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],
+"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_ni
+ckname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id"
+:"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer
+_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale
+articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_da
+te":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"a
+ll_questions_count":4,"is_start":true,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"
+},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzion
+e statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.6
+47000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"all_questions_count":0,"is_
+start":true,"is_end":false},"current_question_number":0,"remaining_time":0,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:12.675]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:13.698]  LOG      jinnahrae BestOf.saveRemainingTime 22
+[Tue Dec 29 2020 00:45:13.785]  LOG      17.25
+[Tue Dec 29 2020 00:45:13.876]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46149e8","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:11.071000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questio
+ns":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diri
+tto costituzionale","user1_score":19,"user1_has_answered":true,"user2_has_answered":false,"user1_answer_date":"2020-12-28T17:45:11.025000+01:00","all_questio
+ns_count":0,"is_start":true,"is_end":false},{"question_number":1,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costi
+tuzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"
+5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"a
+ll_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Di
+ritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects"
+:[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","
+topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","
+topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c159
+81e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5
+fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yT
+X7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56
+.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date
+":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date
+":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_f
+aculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":
+"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d
+1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":2},"question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number"
+:1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo
+ della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"202
+0-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"all_quest
+ions_count":4,"is_start":true,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answ
+er_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statui
+sce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01
+:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"all_questions_count":0,"is_start":t
+rue,"is_end":false},"current_question_number":0,"remaining_time":22,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:13.878]  LOG      jinnahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 00:45:13.879]  LOG      jinnahrae startQuestionPolling
+[Tue Dec 29 2020 00:45:13.914]  LOG
+[Tue Dec 29 2020 00:45:13.988]  LOG      jeannahrae onSelectAnswer 2020-12-28T16:45:11.985Z
+[Tue Dec 29 2020 00:45:14.931]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"l
+ast_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject
+_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user
+1_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1
+,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","us
+er1_has_answered":false,"user2_has_answered":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Arc
+hitettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject
+_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-28T17:44:53.664000+01:
+00","user1_avg_score":19,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Int
+ernet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di
+ dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto
+costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":nul
+l,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercont
+ent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_s
+ubjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb
+30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180d
+fe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f80
+8cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","us
+er2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZY
+bPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"correct_answer":1,"ques
+tion":{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"139"},{"answer_number":1,"is_correct_answer":false,"text":"137"},{"answer_number":2,"is
+_correct_answer":false,"text":"140"},{"answer_number":3,"is_correct_answer":false,"text":"138"},{"answer_number":4,"is_correct_answer":false,"text":"100"}],"
+question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subje
+ct_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":20}}
+[Tue Dec 29 2020 00:45:15.123]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a4
+6149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00"
+,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_na
+me":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.0
+25000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date"
+:"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answere
+d":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","su
+bject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_sta
+rt":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_
+has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-1
+1-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"las
+t_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"las
+t_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version"
+:0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","use
+r1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=
+s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85
+,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000
++01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000
++01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3a
+d3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannah
+rae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d
+53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"1
+37"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzi
+one della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_ur
+l":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_
+number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"
+text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tec
+nica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dir
+itto costituzionale","timeout":30,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":0,"user_name":"jeannah
+rae"}
+[Tue Dec 29 2020 00:45:15.126]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:16.153]  LOG      jeannahrae BestOf.saveRemainingTime 25
+[Tue Dec 29 2020 00:45:16.296]  LOG      20.25
+[Tue Dec 29 2020 00:45:16.345]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a46149e8",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dir
+itto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01
+:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-1
+2-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false
+,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_im
+age_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":fals
+e,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answ
+ered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:
+43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update
+_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update
+_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"us
+er1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_s
+core":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","
+user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":
+"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00",
+"legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00",
+"legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed"
+,"user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","us
+er2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c
+93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"a
+nswer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione dell
+a Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","s
+ubject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":
+0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"text":"A
+rt. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","
+question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto cos
+tituzionale","timeout":30,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":25,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:16.347]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:45:16.348]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 1.028
+[Tue Dec 29 2020 00:45:16.375]  LOG      19
+[Tue Dec 29 2020 00:45:18.889]  LOG      jinnahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 00:45:19.370]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-28T16:45:17.043Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9"
+,"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"start_date":"2
+020-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","s
+ubject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{
+"question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto co
+stituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id
+":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false
+,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":
+"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjec
+ts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c
+15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id"
+:"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq
+8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43
+:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_d
+ate":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_d
+ate":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user
+2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_sco
+re":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user
+2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"13
+9"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti s
+ono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808
+cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered
+_question":null,"current_question_number":1,"remaining_time":25,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:20.320]  LOG      jinnahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a4614
+9e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","q
+uestions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name"
+:"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.0250
+00+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2
+020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":
+false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subje
+ct_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start"
+:false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has
+_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-1
+5T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_u
+pdate_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_u
+pdate_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}
+],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_
+avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96
+-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"n
+ame":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01
+:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01
+:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad38
+40ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae
+","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53a
+a863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"
+},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione
+ della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":
+"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_num
+ber":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Art. 2"},{"answer_number":4,"tex
+t":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnic
+a?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritt
+o costituzionale","timeout":30,"all_questions_count":0,"is_start":true,"is_end":false},"current_question_number":0,"remaining_time":22,"user_name":"jinnahrae
+"}
+[Tue Dec 29 2020 00:45:20.323]  LOG      jinnahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 00:45:20.323]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 6.607
+[Tue Dec 29 2020 00:45:20.335]  LOG      17
+[Tue Dec 29 2020 00:45:21.402]  LOG      jeannahrae this.startQuestionPolling() 2020-12-28T16:45:19.405Z
+[Tue Dec 29 2020 00:45:21.403]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-28T16:45:19.406Z
+[Tue Dec 29 2020 00:45:25.273]  LOG      jeannahrae onSelectAnswer 2020-12-28T16:45:23.277Z
+[Tue Dec 29 2020 00:45:26.278]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"l
+ast_update_date":"2020-12-28T17:45:24.789000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject
+_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user
+1_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1
+,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","us
+er1_has_answered":false,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":2,"subject_id":
+"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false
+},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"u
+ser2_has_answered":false}],"start_date":"2020-12-28T17:44:53.664000+01:00","user1_avg_score":19,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:4
+3:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_
+date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_
+date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"use
+r1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nick
+name":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id"
+:null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name"
+:"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00"
+,"legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00"
+,"legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed
+","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_
+url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_univers
+ity_name":"Politecnico di Milano","version":4},"correct_answer":0,"question":{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"139"},{"answer_n
+umber":1,"is_correct_answer":false,"text":"137"},{"answer_number":2,"is_correct_answer":false,"text":"140"},{"answer_number":3,"is_correct_answer":false,"tex
+t":"138"},{"answer_number":4,"is_correct_answer":false,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","qu
+estion_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto cos
+tituzionale","timeout":20}}
+[Tue Dec 29 2020 00:45:26.429]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a4
+6149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:24.789000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00"
+,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_na
+me":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.0
+25000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date"
+:"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user2_score":17,"
+user1_has_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":
+false},{"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_ans
+wered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383"
+,"subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":fals
+e,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet"
+,"subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati"
+,"subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costit
+uzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1
+_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.g
+oogleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects"
+:[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","
+topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","
+topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c159
+81e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5
+f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-
+u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":4},"question":{"
+answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number
+":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.
+326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is
+_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"14
+0"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","q
+uestion_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto cost
+ituzionale","timeout":20,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":25,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:26.437]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:27.462]  LOG      jeannahrae BestOf.saveRemainingTime 14
+[Tue Dec 29 2020 00:45:27.571]  LOG      19
+[Tue Dec 29 2020 00:45:27.614]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a46149e8",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:24.789000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dir
+itto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01
+:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-1
+2-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user2_score":17,"user1_ha
+s_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{
+"question_number":2,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":f
+alse,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subjec
+t_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_en
+d":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subjec
+t_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subjec
+t_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale
+","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty
+_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleuse
+rcontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":
+{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":
+{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383",
+"topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4d
+da24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3n
+gZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":4},"question":{"answers"
+:[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"tex
+t":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+0
+1:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":
+false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"an
+swer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_
+number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituziona
+le","timeout":20,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":14,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:27.616]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 00:45:27.619]  LOG      jeannahrae startQuestionPolling
+[Tue Dec 29 2020 00:45:27.661]  LOG      19
+[Tue Dec 29 2020 00:45:27.923]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-28T16:45:27.551Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df",
+"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:13.417000+01:00","ongoing":true,"start_date":"20
+20-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","su
+bject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answ
+er_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"
+question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto cos
+tituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"subject_id"
+:"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,
+"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"
+Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subject
+s":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c1
+5981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":
+"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":19,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8
+yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:
+56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_da
+te":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_da
+te":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2
+_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_scor
+e":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2
+_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":3},"question":{"answers":[{"answer_number":0,"text":"139
+"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_number":4,"text":"100"}],"question":"Quanti so
+no gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808c
+c3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_count":4,"is_start":false,"is_end":false},"answered_
+question":null,"current_question_number":1,"remaining_time":22,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:28.100]  LOG      jinnahrae this.startQuestionPolling() 2020-12-28T16:45:27.731Z
+[Tue Dec 29 2020 00:45:28.102]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-28T16:45:27.731Z
+[Tue Dec 29 2020 00:45:30.778]  LOG      jinnahrae onSelectAnswer 2020-12-28T16:45:30.385Z
+[Tue Dec 29 2020 00:45:32.641]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"la
+st_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_
+id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user1
+_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,
+"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","use
+r1_answer_date":"2020-12-28T17:45:30.064000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_h
+as_answered":true,"user2_score":17},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_ima
+ge_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false},{"question_number":3,"subject_id":"5b
+6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false}],"start_date"
+:"2020-12-28T17:44:53.664000+01:00","user1_avg_score":18,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name
+":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00
+","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00
+","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840e
+d","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_
+url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"use
+r2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","
+subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","
+subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituz
+ionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2
+_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com
+/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","vers
+ion":5},"correct_answer":0,"question":{"answers":[{"answer_number":0,"is_correct_answer":false,"text":"I record A sono utilizzati per risolvere gli indirizzi
+ IPV4"},{"answer_number":1,"is_correct_answer":false,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"is_cor
+rect_answer":false,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"is_correct_answer":true,"text":"I record
+ CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"is_correct_answer":false,"text":"I record AAAA sono utilizzati per risolvere
+ gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:4
+5:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50}}
+[Tue Dec 29 2020 00:45:32.647]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 00:45:32.786]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46
+149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00",
+"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_nam
+e":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.02
+5000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":
+"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"u
+ser2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:
+45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id
+":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false
+,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":
+"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjec
+ts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c
+15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id"
+:"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq
+8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43
+:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_d
+ate":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_d
+ate":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user
+2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_sco
+re":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user
+2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"I
+record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},
+{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati pe
+r identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seg
+uenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5c
+b30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"ans
+wered_question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138
+"},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"20
+20-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_ques
+tions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":22,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:32.788]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:33.823]  LOG      jinnahrae BestOf.saveRemainingTime 55
+[Tue Dec 29 2020 00:45:33.918]  LOG      17
+[Tue Dec 29 2020 00:45:33.968]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46149e8","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questio
+ns":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diri
+tto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01:
+00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12
+-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"user2_sco
+re":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.60
+7000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a
+0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,"all_qu
+estions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto
+ costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"l
+ast_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e38
+3","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d
+0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7Tye
+vnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.4770
+00+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"20
+19-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"20
+19-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_facult
+y_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"
+user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_univer
+sity_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"I record A
+ sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer
+_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identi
+ficare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti af
+fermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78",
+"subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"answered_qu
+estion":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"ans
+wer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28
+T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_questions_co
+unt":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":55,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:33.970]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:45:33.971]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3.534
+[Tue Dec 29 2020 00:45:34.400]  LOG      17
+[Tue Dec 29 2020 00:45:35.352]  LOG      jeannahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a461
+49e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","
+questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name
+":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025
+000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"
+2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"us
+er2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:4
+5:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id"
+:"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_has_answered":false,
+"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"
+Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subject
+s":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c1
+5981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":
+"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8
+yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:
+56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_da
+te":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_da
+te":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2
+_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_scor
+e":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2
+_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers":[{"answer_number":0,"text":"I r
+ecord A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{
+"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per
+ identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le segu
+enti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb
+30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"answ
+ered_question":{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"
+},{"answer_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"202
+0-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"all_quest
+ions_count":0,"is_start":false,"is_end":false},"current_question_number":1,"remaining_time":14,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:35.354]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 00:45:35.355]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3.302
+[Tue Dec 29 2020 00:45:35.408]  LOG      18
+[Tue Dec 29 2020 00:45:38.655]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-28T16:45:38.280Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df",
+"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"start_date":"20
+20-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","su
+bject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answ
+er_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"
+question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto cos
+tituzionale","user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","us
+er2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17
+:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered":
+false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subje
+ct_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_e
+nd":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subje
+ct_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subje
+ct_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzional
+e","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_facult
+y_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleus
+ercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"las
+t_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics"
+:{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics"
+:{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383"
+,"topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4
+dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3
+ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answers
+":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati
+ per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I
+ record CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6
+"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00",
+"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_s
+tart":false,"is_end":false},"answered_question":null,"current_question_number":2,"remaining_time":55,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:38.814]  LOG      jinnahrae this.startQuestionPolling() 2020-12-28T16:45:38.446Z
+[Tue Dec 29 2020 00:45:38.817]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-28T16:45:38.448Z
+[Tue Dec 29 2020 00:45:40.460]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-28T16:45:38.049Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9"
+,"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:30.150000+01:00","ongoing":true,"start_date":"2
+020-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","s
+ubject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{
+"question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto co
+stituzionale","user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","u
+ser2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T1
+7:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_has_answered"
+:false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subj
+ect_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_
+end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subj
+ect_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subj
+ect_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituziona
+le","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_facul
+ty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleu
+sercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"la
+st_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics
+":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics
+":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383
+","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea
+4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd
+3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":5},"question":{"answer
+s":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzat
+i per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"
+I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV
+6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00"
+,"subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":4,"is_
+start":false,"is_end":false},"answered_question":null,"current_question_number":2,"remaining_time":14,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:40.212]  LOG      jeannahrae this.startQuestionPolling() 2020-12-28T16:45:38.221Z
+[Tue Dec 29 2020 00:45:40.213]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-28T16:45:38.222Z
+[Tue Dec 29 2020 00:45:44.619]  LOG      jeannahrae onSelectAnswer 2020-12-28T16:45:42.626Z
+[Tue Dec 29 2020 00:45:47.517]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"l
+ast_update_date":"2020-12-28T17:45:46.111000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject
+_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user
+1_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1
+,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","us
+er1_answer_date":"2020-12-28T17:45:30.064000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_
+has_answered":true,"user2_score":17},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_im
+age_url":null,"subject_name":"Architettura delle reti - Internet","user1_has_answered":false,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","user2_ha
+s_answered":true,"user2_score":17},{"question_number":3,"subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituziona
+le","user1_has_answered":false,"user2_has_answered":false}],"start_date":"2020-12-28T17:44:53.664000+01:00","user1_avg_score":18,"user1_bestof_subjects":[{"l
+ast_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topic
+s":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e38
+3","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf
+1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvo
+uebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47
+7000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"
+2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"
+2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_facu
+lty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"
+jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1
+d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":6},"correct_answer":3,"question":{"answers":[{"answer_number":0,"is_correct_answ
+er":false,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"is_correct_answer":false,"text":"I record TXT possono ess
+ere utilizzati per campi di testo arbitrari"},{"answer_number":2,"is_correct_answer":false,"text":"I record MX sono utilizzati per la consegna della posta el
+ettronica"},{"answer_number":3,"is_correct_answer":true,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"is_c
+orrect_answer":false,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al pro
+tocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":null,"
+subject_name":"Architettura delle reti - Internet","timeout":50}}
+[Tue Dec 29 2020 00:45:47.672]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a4
+6149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:46.111000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00"
+,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_na
+me":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.0
+25000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date"
+:"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"
+user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17
+:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_i
+d":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user2_score":17,"user1_has_answered":false,"user2_h
+as_answered":true,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subje
+ct_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_q
+uestions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Ar
+chitettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","le
+gacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","le
+gacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","u
+ser1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_
+profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_n
+ame":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject
+_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject
+_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale"
+,"subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_
+name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleuse
+rcontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di M
+ilano","version":6},"question":{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text"
+:"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta el
+ettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono uti
+lizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_d
+ate":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","t
+imeout":50,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per
+ risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I
+ record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name ser
+ver\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative
+al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":
+"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":2,"rem
+aining_time":14,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:47.674]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:48.697]  LOG      jeannahrae BestOf.saveRemainingTime 41
+[Tue Dec 29 2020 00:45:48.825]  LOG      18
+[Tue Dec 29 2020 00:45:48.870]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a46149e8",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:46.111000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dir
+itto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01
+:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-1
+2-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"user2_sc
+ore":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.6
+07000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72
+a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user2_score":17,"user1_has_answered":false,"user2_has_answe
+red":true,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"subject_id":"
+5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions
+_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettu
+ra delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id"
+:95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id"
+:5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_fac
+ulty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":18,"user1_nickname":"jinnahrae","user1_profile_
+image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":nul
+l,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d
+72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5d
+be08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subjec
+t_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"I
+nformatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent
+.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","
+version":6},"question":{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I reco
+rd TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronic
+a"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati
+per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"20
+20-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":
+50,"all_questions_count":4,"is_start":false,"is_end":false},"answered_question":{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolve
+re gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record
+MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},
+{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al proto
+collo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subj
+ect_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":2,"remaining_t
+ime":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:48.874]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 00:45:48.874]  LOG      jeannahrae startQuestionPolling
+[Tue Dec 29 2020 00:45:48.913]  LOG      18
+[Tue Dec 29 2020 00:45:49.517]  LOG      jinnahrae onSelectAnswer 2020-12-28T16:45:49.117Z
+[Tue Dec 29 2020 00:45:53.732]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"la
+st_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_
+id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user1
+_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1,
+"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","use
+r1_answer_date":"2020-12-28T17:45:30.064000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_h
+as_answered":true,"user2_score":17},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_ima
+ge_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user1_has_answered":true,"user1_scor
+e":17,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":3,"start_date":"2020-12-28T17:45:
+56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_h
+as_answered":false}],"start_date":"2020-12-28T17:44:53.664000+01:00","user1_avg_score":17.666666666666668,"user1_bestof_subjects":[{"last_update_date":"2019-
+11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"la
+st_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"la
+st_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version
+":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","
+user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_univ
+ersity_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id"
+:85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477
+000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475
+000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1
+c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_prof
+ile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","use
+r2_university_name":"Politecnico di Milano","version":7},"correct_answer":3,"question":{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"dodici
+ dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"is_correct_answer":false,"text":"venti dei quali eletti nella circoscrizione Estero "},{"
+answer_number":2,"is_correct_answer":false,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"is_correct_answer":false,"text
+":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"is_correct_answer":false,"text":"quindici dei quali eletti nella circoscrizione
+Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808
+cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":40}}
+[Tue Dec 29 2020 00:45:53.897]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 00:45:53.901]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46
+149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00",
+"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_nam
+e":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.02
+5000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":
+"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"u
+ser2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:
+45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id
+":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":17,"user1_has_answered
+":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions
+_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subj
+ect_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_
+end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subj
+ect_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subj
+ect_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituziona
+le","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_facul
+ty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666666666666668,"user1_nickname":"jinnahrae","user1_profile_image_url":"htt
+ps://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof
+_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5
+cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a18
+0dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f
+808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","us
+er2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj
+1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"qu
+estion":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella
+circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti
+ nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 sei
+centotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name
+":"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"I
+record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},
+{"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati pe
+r identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seg
+uenti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5c
+b30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"cur
+rent_question_number":2,"remaining_time":55,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:53.902]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:45:54.777]  LOG      jeannahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a461
+49e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","
+questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name
+":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025
+000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"
+2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"us
+er2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:4
+5:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id"
+:"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":17,"user1_has_answered"
+:true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_
+count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subje
+ct_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_e
+nd":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subje
+ct_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subje
+ct_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzional
+e","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_facult
+y_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666666666666668,"user1_nickname":"jinnahrae","user1_profile_image_url":"http
+s://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_
+subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5c
+b30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180
+dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f8
+08cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","use
+r2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1
+BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"que
+stion":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella c
+ircoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti
+nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seic
+entotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name"
+:"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"I r
+ecord A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{
+"answer_number":2,"text":"I record MX sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per
+ identificare il \"name server\""},{"answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le segu
+enti affermazioni relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb
+30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","timeout":50,"all_questions_count":0,"is_start":false,"is_end":false},"curr
+ent_question_number":2,"remaining_time":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:54.779]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 00:45:54.780]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3.371
+[Tue Dec 29 2020 00:45:54.826]  LOG      17.666666666666668
+[Tue Dec 29 2020 00:45:54.926]  LOG      jinnahrae BestOf.saveRemainingTime 42
+[Tue Dec 29 2020 00:45:55.200]  LOG      17
+[Tue Dec 29 2020 00:45:55.510]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46149e8","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questio
+ns":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diri
+tto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01:
+00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-12
+-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"user2_sco
+re":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.60
+7000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a
+0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":17,"user1_has_answered":true,"
+user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":
+0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_imag
+e_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questions_count":0,"is_start":false,"is_end":fal
+se}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":
+"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":
+"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","sub
+ject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name"
+:"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666666666666668,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3
+.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subject
+s":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493"
+,"topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c1
+5981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":
+"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1p
+m-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":7},"question":
+{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscr
+izione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella c
+ircoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotre
+nta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dirit
+to costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei
+ quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredi
+ci dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text"
+:"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28
+T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_co
+unt":0,"is_start":false,"is_end":false},"current_question_number":2,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:45:55.530]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:45:55.530]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 5.259
+[Tue Dec 29 2020 00:45:55.950]  LOG      17
+[Tue Dec 29 2020 00:45:59.489]  LOG      jeannahrae this.waitWhilePreviewTime() 2020-12-28T16:45:57.479Z {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9"
+,"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"start_date":"2
+020-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","s
+ubject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{
+"question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto co
+stituzionale","user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","u
+ser2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T1
+7:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"us
+er2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:4
+5:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id"
+:"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_questio
+ns_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architet
+tura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_i
+d":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_i
+d":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_f
+aculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666666666666668,"user1_nickname":"jinnahra
+e","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_un
+iversity_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet
+","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati
+","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costi
+tuzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user
+2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3
+.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Polite
+cnico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"tex
+t":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number"
+:3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"questi
+on":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","su
+bject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":null,"cu
+rrent_question_number":3,"remaining_time":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:45:59.639]  LOG      jeannahrae this.startQuestionPolling() 2020-12-28T16:45:57.649Z
+[Tue Dec 29 2020 00:45:59.640]  LOG      jeannahrae this.waitWhileGameTimeout() 2020-12-28T16:45:57.650Z
+[Tue Dec 29 2020 00:46:01.721]  LOG      jinnahrae this.waitWhilePreviewTime() 2020-12-28T16:46:01.350Z {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df",
+"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:45:49.496000+01:00","ongoing":true,"start_date":"20
+20-12-28T17:44:53.664000+01:00","questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","su
+bject_image_url":"","subject_name":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answ
+er_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"
+question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto cos
+tituzionale","user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","us
+er2_answer_date":"2020-12-28T17:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17
+:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"use
+r2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45
+:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":
+"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_has_answered":false,"all_question
+s_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architett
+ura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id
+":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id
+":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_fa
+culty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666666666666668,"user1_nickname":"jinnahrae
+","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_uni
+versity_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet"
+,"subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati"
+,"subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costit
+uzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2
+_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.
+googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politec
+nico di Milano","version":7},"question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text
+":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":
+3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"questio
+n":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","sub
+ject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":null,"cur
+rent_question_number":3,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:46:01.958]  LOG      jinnahrae this.startQuestionPolling() 2020-12-28T16:46:01.589Z
+[Tue Dec 29 2020 00:46:01.959]  LOG      jinnahrae this.waitWhileGameTimeout() 2020-12-28T16:46:01.590Z
+[Tue Dec 29 2020 00:46:04.989]  LOG      jeannahrae onSelectAnswer 2020-12-28T16:46:02.992Z
+[Tue Dec 29 2020 00:46:05.786]  LOG      jeannahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"is_bot":false,"l
+ast_update_date":"2020-12-28T17:46:04.423000+01:00","ongoing":true,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject
+_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user
+1_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17:45:13.326000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":1
+,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","us
+er1_answer_date":"2020-12-28T17:45:30.064000+01:00","user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_
+has_answered":true,"user2_score":17},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_im
+age_url":null,"subject_name":"Architettura delle reti - Internet","user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user1_has_answered":true,"user1_sco
+re":17,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","user2_has_answered":true,"user2_score":17},{"question_number":3,"start_date":"2020-12-28T17:45
+:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","user1_has_answered":false,"user2_
+answer_date":"2020-12-28T17:46:04.342000+01:00","user2_has_answered":true,"user2_score":17}],"start_date":"2020-12-28T17:44:53.664000+01:00","user1_avg_score
+":17.666666666666668,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Interne
+t","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dat
+i","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto cost
+ituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"u
+ser1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.
+com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subje
+cts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a7
+8","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe49
+3","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3
+c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_
+id":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZ
+Vt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":8},"correct_answer":0,"question
+":{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"is_correct_answer
+":false,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"is_correct_answer":false,"text":"tredici dei quali eletti nella cir
+coscrizione Estero "},{"answer_number":3,"is_correct_answer":false,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"is_corre
+ct_answer":false,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"
+start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","time
+out":40}}
+[Tue Dec 29 2020 00:46:05.949]  LOG      jeannahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a4
+6149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:04.423000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00"
+,"questions":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_na
+me":"Diritto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.0
+25000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date"
+:"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"
+user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17
+:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_i
+d":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":17,"user1_has_answere
+d":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_question
+s_count":0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","sub
+ject_image_url":"","subject_name":"Diritto costituzionale","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12
+-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000
++01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_
+id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.666
+666666666668,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-
+c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"na
+me":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:
+00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:
+00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad384
+0ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae"
+,"user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa
+863c93","user2_university_name":"Politecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscr
+izione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella ci
+rcoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti
+nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","sub
+ject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_
+end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti
+dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":
+"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il nu
+mero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_imag
+e_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remainin
+g_time":41,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:46:05.952]  LOG      jeannahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:46:06.990]  LOG      jeannahrae BestOf.saveRemainingTime 31
+[Tue Dec 29 2020 00:46:07.940]  LOG      17.666666666666668
+[Tue Dec 29 2020 00:46:07.147]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a46149e8",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:04.423000+01:00","ongoing":true,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Dir
+itto costituzionale","user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:11.025000+01
+:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{"question_number":1,"start_date":"2020-1
+2-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","user1_score":17,"user2_sc
+ore":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.6
+07000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72
+a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":"Architettura delle reti - Internet","user1_score":17,"user2_score":17,"user1_has_answered":true,
+"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count"
+:0,"is_start":false,"is_end":false},{"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_ima
+ge_url":"","subject_name":"Diritto costituzionale","user2_score":17,"user1_has_answered":false,"user2_has_answered":true,"user2_answer_date":"2020-12-28T17:4
+6:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00",
+"legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T1
+6:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T1
+6:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d5
+2a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_avg_score":17.66666666666
+6668,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user
+1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Arc
+hitettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","leg
+acy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","leg
+acy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","us
+er2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nickname":"jeannahrae","user2_
+profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93",
+"user2_university_name":"Politecnico di Milano","version":8},"question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione E
+stero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscriz
+ione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella ci
+rcoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id"
+:"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":4,"is_start":false,"is_end":tru
+e},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei qual
+i eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci d
+ei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei
+ deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"
+","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_end":false},"current_question_number":3,"remaining_time":
+31,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:46:07.150]  LOG      jeannahrae BestOf.isBothPlayersAnswered false
+[Tue Dec 29 2020 00:46:07.150]  LOG      jeannahrae startQuestionPolling
+[Tue Dec 29 2020 00:46:07.200]  LOG      17.666666666666668
+[Tue Dec 29 2020 00:46:07.967]  LOG      jinnahrae onSelectAnswer 2020-12-28T16:46:07.569Z
+[Tue Dec 29 2020 00:46:11.437]  LOG      jinnahrae onSelectAnswer {"bestof_data":{"bestof_id":"5fea0b8506b1b678a46149e8","faculty_id":null,"finish_date":"202
+0-12-28T17:46:07.887000+01:00","is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"questions":[{"answers":[{"answer_number"
+:0,"is_correct_answer":false,"text":"Art. 12"},{"answer_number":1,"is_correct_answer":true,"text":"Art. 9"},{"answer_number":2,"is_correct_answer":false,"tex
+t":"Art. 14"},{"answer_number":3,"is_correct_answer":false,"text":"Art. 2"},{"answer_number":4,"is_correct_answer":false,"text":"Art. 11"}],"question":"Quale
+ articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecnica?","question_number":0,"start_d
+ate":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituzionale","timeout":30
+,"user1_answer_date":"2020-12-28T17:45:11.025000+01:00","user1_answer_number":1,"user1_has_answered":true,"user1_score":19,"user2_answer_date":"2020-12-28T17
+:45:13.326000+01:00","user2_answer_number":2,"user2_has_answered":true,"user2_score":17},{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"139"
+},{"answer_number":1,"is_correct_answer":false,"text":"137"},{"answer_number":2,"is_correct_answer":false,"text":"140"},{"answer_number":3,"is_correct_answer
+":false,"text":"138"},{"answer_number":4,"is_correct_answer":false,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica It
+aliana?","question_number":1,"start_date":"2020-12-28T17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":
+"Diritto costituzionale","timeout":20,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user1_answer_number":2,"user1_has_answered":true,"user1_score":
+17,"user2_answer_date":"2020-12-28T17:45:24.607000+01:00","user2_answer_number":1,"user2_has_answered":true,"user2_score":17},{"answers":[{"answer_number":0,
+"is_correct_answer":false,"text":"I record A sono utilizzati per risolvere gli indirizzi IPV4"},{"answer_number":1,"is_correct_answer":false,"text":"I record
+ TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"is_correct_answer":false,"text":"I record MX sono utilizzati per la consegn
+a della posta elettronica"},{"answer_number":3,"is_correct_answer":true,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer
+_number":4,"is_correct_answer":false,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni
+ relative al protocollo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_i
+mage_url":null,"subject_name":"Architettura delle reti - Internet","timeout":50,"user1_answer_date":"2020-12-28T17:45:49.419000+01:00","user1_answer_number":
+1,"user1_has_answered":true,"user1_score":17,"user2_answer_date":"2020-12-28T17:45:46.044000+01:00","user2_answer_number":2,"user2_has_answered":true,"user2_
+score":17},{"answers":[{"answer_number":0,"is_correct_answer":true,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"is_corre
+ct_answer":false,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"is_correct_answer":false,"text":"tredici dei quali eletti
+nella circoscrizione Estero "},{"answer_number":3,"is_correct_answer":false,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,
+"is_correct_answer":false,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_nu
+mber":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":null,"subject_name":"Diritto costituziona
+le","timeout":40,"user1_answer_date":"2020-12-28T17:46:07.887000+01:00","user1_answer_number":2,"user1_has_answered":true,"user1_score":17,"user2_answer_date
+":"2020-12-28T17:46:04.342000+01:00","user2_answer_number":1,"user2_has_answered":true,"user2_score":17}],"start_date":"2020-12-28T17:44:53.664000+01:00","us
+er1_avg_score":17.5,"user1_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet
+","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati
+","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costi
+tuzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":null,"us
+er1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a0d219df","user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.c
+om/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_avg_score":17,"user2_bestof_subjec
+ts":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493
+","topics":{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c
+15981e383","topics":{},"version":0}],"user2_faculty_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":null,"user2_faculty_name":"Informatica","user2_i
+d":"5f526ea4dda24f825fbefbc9","user2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZV
+t_3sCFf90X-=s120","user2_university_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","version":9,"winner_name":"user1"},"correc
+t_answer":0,"question":null}
+[Tue Dec 29 2020 00:46:11.586]  LOG      jinnahrae this.onAnswerSuccess {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46
+149e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"start_date":"2020-12-28T17:44:53.664000+01:00"
+,"questions":[{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"t
+ext":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cul
+tura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subjec
+t_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"u
+ser1_answer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":
+false},{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answ
+er_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T
+17:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":17,"
+user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17
+:45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere
+ gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX
+ sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"
+answer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protoco
+llo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subjec
+t_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer
+_date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"a
+nswers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizi
+one Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circ
+oscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta
+","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto
+costituzionale","timeout":40,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:46:07.8
+87000+01:00","user2_answer_date":"2020-12-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last
+_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":
+{},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":
+{},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383",
+"topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7
+e9bdb33a0d219df","user1_avg_score":17.5,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7Tyev
+nK2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.47700
+0+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"201
+9-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"201
+9-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty
+_id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"u
+ser2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_univers
+ity_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number"
+:0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_nu
+mber":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"an
+swer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"st
+art_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout"
+:40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscr
+izione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella ci
+rcoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti
+nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","sub
+ject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_
+end":false},"current_question_number":3,"remaining_time":42,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:46:11.589]  LOG      jinnahrae this.breakWaitingWhileGameTimeout
+[Tue Dec 29 2020 00:46:12.173]  LOG      jeannahrae startQuestionPolling get_bestof_data_v2
+[Tue Dec 29 2020 00:46:12.623]  LOG      jinnahrae BestOf.saveRemainingTime 24
+[Tue Dec 29 2020 00:46:12.737]  LOG      17
+[Tue Dec 29 2020 00:46:12.794]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46149e8","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Ar
+t. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e l
+a ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_
+url":"","subject_name":"Diritto costituzionale","timeout":30,"user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{
+"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_numbe
+r":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19
+.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":17,"user2_sc
+ore":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.6
+07000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli ind
+irizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono ut
+ilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_n
+umber":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS
+癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":
+"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"
+2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":
+[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Este
+ro "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizio
+ne Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","quest
+ion_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituz
+ionale","timeout":40,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:46:07.887000+01
+:00","user2_answer_date":"2020-12-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_
+date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics"
+:{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a
+0d219df","user1_avg_score":17.5,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDs
+SfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00"
+,"legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d
+52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nic
+kname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":
+"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text
+":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,
+"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_num
+ber":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date
+":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all
+_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione E
+stero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscriz
+ione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella ci
+rcoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id"
+:"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_end":fal
+se},"current_question_number":3,"remaining_time":24,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:46:12.796]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:46:12.800]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 00:46:12.874]  LOG      17
+[Tue Dec 29 2020 00:46:13.960]  LOG      jeannahrae get_bestof_data_v2 {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a461
+49e8","faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"start_date":"2020-12-28T17:44:53.664000+01:00",
+"questions":[{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"te
+xt":"Art. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cult
+ura e la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject
+_image_url":"","subject_name":"Diritto costituzionale","timeout":30,"user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"us
+er1_answer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":f
+alse},{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answe
+r_number":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T1
+7:45:19.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":17,"u
+ser2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:
+45:24.607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere
+gli indirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX
+sono utilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"a
+nswer_number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocol
+lo DNS 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject
+_name":"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_
+date":"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"an
+swers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizio
+ne Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circo
+scrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta"
+,"question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto c
+ostituzionale","timeout":40,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:46:07.88
+7000+01:00","user2_answer_date":"2020-12-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_
+update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{
+},"version":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{
+},"version":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","
+topics":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e
+9bdb33a0d219df","user1_avg_score":17.5,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7Tyevn
+K2Q4MDsSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000
++01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019
+-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_
+id":"5d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"us
+er2_nickname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_universi
+ty_id":"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":
+0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_num
+ber":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"ans
+wer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"sta
+rt_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":
+40,"all_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscri
+zione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella cir
+coscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti n
+ella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subj
+ect_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_e
+nd":false},"current_question_number":3,"remaining_time":31,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:46:13.100]  LOG      jeannahrae startQuestionPolling BestOf.isBothPlayersAnswered() true
+[Tue Dec 29 2020 00:46:13.133]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 00:46:13.134]  LOG      17.5
+[Tue Dec 29 2020 00:46:16.473]  LOG      17
+[Tue Dec 29 2020 00:46:16.526]  LOG      jinnahrae ResultScreen {"bestof_data":{"user_id":"5fcf1d0a7e9bdb33a0d219df","bestof_id":"5fea0b8506b1b678a46149e8","
+faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"start_date":"2020-12-28T17:44:53.664000+01:00","questi
+ons":[{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"Ar
+t. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e l
+a ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_
+url":"","subject_name":"Diritto costituzionale","timeout":30,"user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_ans
+wer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},{
+"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_numbe
+r":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:19
+.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":17,"user2_sc
+ore":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.6
+07000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli ind
+irizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono ut
+ilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_n
+umber":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS
+癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name":
+"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"
+2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":
+[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Este
+ro "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizio
+ne Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","quest
+ion_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituz
+ionale","timeout":40,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:46:07.887000+01
+:00","user2_answer_date":"2020-12-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update_
+date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"vers
+ion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics"
+:{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33a
+0d219df","user1_avg_score":17.5,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDs
+SfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00"
+,"legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15T
+16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5d
+52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_nic
+kname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id":
+"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"text
+":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,
+"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_num
+ber":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date
+":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all
+_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione E
+stero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscriz
+ione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella ci
+rcoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id"
+:"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_end":fal
+se},"current_question_number":3,"remaining_time":24,"user_name":"jinnahrae"}
+[Tue Dec 29 2020 00:46:16.529]  LOG      jinnahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:46:16.533]  LOG      jinnahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 00:46:16.568]  LOG      17
+[Tue Dec 29 2020 00:46:16.818]  LOG      17.5
+[Tue Dec 29 2020 00:46:16.851]  LOG      jeannahrae ResultScreen {"bestof_data":{"user_id":"5f526ea4dda24f825fbefbc9","bestof_id":"5fea0b8506b1b678a46149e8",
+"faculty_id":null,"is_bot":false,"last_update_date":"2020-12-28T17:46:08.045000+01:00","ongoing":false,"start_date":"2020-12-28T17:44:53.664000+01:00","quest
+ions":[{"answers":[{"answer_number":0,"text":"Art. 12"},{"answer_number":1,"text":"Art. 9"},{"answer_number":2,"text":"Art. 14"},{"answer_number":3,"text":"A
+rt. 2"},{"answer_number":4,"text":"Art. 11"}],"question":"Quale articolo della Costituzione statuisce che la Repubblica promuove lo sviluppo della cultura e
+la ricerca scientifica e tecnica?","question_number":0,"start_date":"2020-12-28T17:45:05.647000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image
+_url":"","subject_name":"Diritto costituzionale","timeout":30,"user1_score":19,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_an
+swer_date":"2020-12-28T17:45:11.025000+01:00","user2_answer_date":"2020-12-28T17:45:13.326000+01:00","all_questions_count":0,"is_start":true,"is_end":false},
+{"answers":[{"answer_number":0,"text":"139"},{"answer_number":1,"text":"137"},{"answer_number":2,"text":"140"},{"answer_number":3,"text":"138"},{"answer_numb
+er":4,"text":"100"}],"question":"Quanti sono gli articoli della Costituzione della Repubblica Italiana?","question_number":1,"start_date":"2020-12-28T17:45:1
+9.326000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":20,"user1_score":17,"user2_s
+core":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:45:30.064000+01:00","user2_answer_date":"2020-12-28T17:45:24.
+607000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers":[{"answer_number":0,"text":"I record A sono utilizzati per risolvere gli in
+dirizzi IPV4"},{"answer_number":1,"text":"I record TXT possono essere utilizzati per campi di testo arbitrari"},{"answer_number":2,"text":"I record MX sono u
+tilizzati per la consegna della posta elettronica"},{"answer_number":3,"text":"I record CNAME sono utilizzati per identificare il \"name server\""},{"answer_
+number":4,"text":"I record AAAA sono utilizzati per risolvere gli indirizzi IPV6"}],"question":"Quale tra le seguenti affermazioni relative al protocollo DNS
+ 癡 ERRATA?","question_number":2,"start_date":"2020-12-28T17:45:38.064000+01:00","subject_id":"5d72a0979c8a3eea5cb30a78","subject_image_url":"","subject_name"
+:"Architettura delle reti - Internet","timeout":50,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":
+"2020-12-28T17:45:49.419000+01:00","user2_answer_date":"2020-12-28T17:45:46.044000+01:00","all_questions_count":0,"is_start":false,"is_end":false},{"answers"
+:[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Est
+ero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizi
+one Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","ques
+tion_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costitu
+zionale","timeout":40,"user1_score":17,"user2_score":17,"user1_has_answered":true,"user2_has_answered":true,"user1_answer_date":"2020-12-28T17:46:07.887000+0
+1:00","user2_answer_date":"2020-12-28T17:46:04.342000+01:00","all_questions_count":0,"is_start":false,"is_end":false}],"user1_bestof_subjects":[{"last_update
+_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"ver
+sion":0},{"last_update_date":"2019-11-15T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"ver
+sion":0},{"last_update_date":"2019-11-15T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics
+":{},"version":0}],"user1_faculty_id":"5d52a89c1a27d1c3ad3840ed","user1_faculty_image_url":"","user1_faculty_name":"Informatica","user1_id":"5fcf1d0a7e9bdb33
+a0d219df","user1_avg_score":17.5,"user1_nickname":"jinnahrae","user1_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MD
+sSfmSh9JXvouebA=s96-c","user1_university_id":null,"user1_university_name":null,"user2_bestof_subjects":[{"last_update_date":"2019-11-15T16:43:56.477000+01:00
+","legacy_id":85,"name":"Architettura delle reti - Internet","subject_id":"5d72a0979c8a3eea5cb30a78","topics":{},"version":0},{"last_update_date":"2019-11-15
+T16:43:56.477000+01:00","legacy_id":95,"name":"Basi di dati","subject_id":"5dbe08ce2a5640a180dfe493","topics":{},"version":0},{"last_update_date":"2019-11-15
+T16:43:56.475000+01:00","legacy_id":5,"name":"Diritto costituzionale","subject_id":"5b6c580f808cc3c15981e383","topics":{},"version":0}],"user2_faculty_id":"5
+d52a89c1a27d1c3ad3840ed","user2_faculty_image_url":"","user2_faculty_name":"Informatica","user2_id":"5f526ea4dda24f825fbefbc9","user2_avg_score":17,"user2_ni
+ckname":"jeannahrae","user2_profile_image_url":"https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120","user2_university_id"
+:"5b4c6d1d29957d53aa863c93","user2_university_name":"Politecnico di Milano","winner_name":"user1","version":9},"question":{"answers":[{"answer_number":0,"tex
+t":"dodici dei quali eletti nella circoscrizione Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2
+,"text":"tredici dei quali eletti nella circoscrizione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_nu
+mber":4,"text":"quindici dei quali eletti nella circoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_dat
+e":"2020-12-28T17:45:56.419000+01:00","subject_id":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"al
+l_questions_count":4,"is_start":false,"is_end":true},"answered_question":{"answers":[{"answer_number":0,"text":"dodici dei quali eletti nella circoscrizione
+Estero"},{"answer_number":1,"text":"venti dei quali eletti nella circoscrizione Estero "},{"answer_number":2,"text":"tredici dei quali eletti nella circoscri
+zione Estero "},{"answer_number":3,"text":"dieci dei quali eletti nella circoscrizione Estero "},{"answer_number":4,"text":"quindici dei quali eletti nella c
+ircoscrizione Estero "}],"question":"Il numero dei deputati 癡 seicentotrenta","question_number":3,"start_date":"2020-12-28T17:45:56.419000+01:00","subject_id
+":"5b6c580f808cc3c15981e383","subject_image_url":"","subject_name":"Diritto costituzionale","timeout":40,"all_questions_count":0,"is_start":false,"is_end":fa
+lse},"current_question_number":3,"remaining_time":31,"user_name":"jeannahrae"}
+[Tue Dec 29 2020 00:46:16.855]  LOG      jeannahrae BestOf.isBothPlayersAnswered true
+[Tue Dec 29 2020 00:46:16.858]  LOG      jeannahrae MatchResult -> onBothPlayersAnswered -> this.timeout 3
+[Tue Dec 29 2020 00:46:16.884]  LOG      17.5

@@ -1,0 +1,10 @@
+
+
+UserData.getUserData().profile_image_url
+
+In Email Verify Screen, we usted "state.email". Isn't there any problem on getting studydown?
+
+In BestOf screen, if you select "Gioca Ora", it starts a game.
+In some case, server may sends error response.
+But it keeps showing error message even after you go back.
+

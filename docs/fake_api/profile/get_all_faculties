@@ -1,0 +1,1478 @@
+{
+  "data": [
+    {
+      "active": true,
+      "faculty_id": "5d52a8351a27d1c3ad37db2e",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FAgraria%20Icon-1567002549.png?alt=media&token=2c87a312-1bba-44a3-9842-0a83b84e33b0",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FAgraria%20Icon-1567002549.png?alt=media&token=2c87a312-1bba-44a3-9842-0a83b84e33b0",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Agraria",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 53,
+          "name": "Agronomia",
+          "subject_id": "5d729fce9c8a3eea5cb2514c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 54,
+          "name": "Botanica",
+          "subject_id": "5d729fd39c8a3eea5cb255c8",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 41,
+          "name": "Statistica di base",
+          "subject_id": "5bfc622e8595bb7e738db884",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c159833215",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FArchitettura%20Icon-1550428822.png?alt=media&token=e44d3ec9-4916-47fa-b9e1-07f1623ca132",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-progettazione-125.png?alt=media&token=dce07676-4d94-4c2c-999e-78c6b8be16f9",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Architettura",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 29,
+          "name": "Storia dell'arte",
+          "subject_id": "5b6c5810808cc3c15981e3cc",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 44,
+          "name": "Storia dell'architettura",
+          "subject_id": "5d729f9f9c8a3eea5cb22130",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 45,
+          "name": "Trigonometria",
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 28,
+          "name": "Disegno",
+          "subject_id": "5b6c5810808cc3c15981e3c9",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 46,
+          "name": "Design e storia del design",
+          "subject_id": "5d729faa9c8a3eea5cb22fff",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8491a27d1c3ad37ed6f",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBeni%20Culturali%20Icon-1567002602.png?alt=media&token=1b5f07be-60ca-453b-aabe-1649173b1400",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBeni%20Culturali%20Icon-1567002602.png?alt=media&token=1b5f07be-60ca-453b-aabe-1649173b1400",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Beni culturali",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 10,
+          "name": "Letteratura italiana",
+          "subject_id": "5b6c580f808cc3c15981e392",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 29,
+          "name": "Storia dell'arte",
+          "subject_id": "5b6c5810808cc3c15981e3cc",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 44,
+          "name": "Storia dell'architettura",
+          "subject_id": "5d729f9f9c8a3eea5cb22130",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 57,
+          "name": "Storia del teatro e dello spettacolo",
+          "subject_id": "5d729fe09c8a3eea5cb26045",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 58,
+          "name": "Archivistica",
+          "subject_id": "5d729fe49c8a3eea5cb263a1",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 13,
+          "name": "Filosofia contemporanea",
+          "subject_id": "5b6c580f808cc3c15981e39c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8561a27d1c3ad37fc24",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBiotecnologie%20Icon-1567002643.png?alt=media&token=32c7d3fb-35c0-4e26-879a-b3a591d0995d",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FBiotecnologie%20Icon-1567002643.png?alt=media&token=32c7d3fb-35c0-4e26-879a-b3a591d0995d",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Biotecnologie",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 66,
+          "name": "Biologia",
+          "subject_id": "5d72a00a9c8a3eea5cb286ea",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8411a27d1c3ad37e573",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FDesign-1567002670.png?alt=media&token=1137df0d-863f-4756-9790-7c8707339534",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FDesign-1567002670.png?alt=media&token=1137df0d-863f-4756-9790-7c8707339534",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Design",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 29,
+          "name": "Storia dell'arte",
+          "subject_id": "5b6c5810808cc3c15981e3cc",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 44,
+          "name": "Storia dell'architettura",
+          "subject_id": "5d729f9f9c8a3eea5cb22130",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 28,
+          "name": "Disegno",
+          "subject_id": "5b6c5810808cc3c15981e3c9",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 46,
+          "name": "Design e storia del design",
+          "subject_id": "5d729faa9c8a3eea5cb22fff",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b53441c3cb6d44f9d87a681",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FEconomia%20Icon-1550428939.png?alt=media&token=6e4c1de9-3269-4fda-9aee-04ccffb4045a",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-monete-125.png?alt=media&token=7b539224-3aab-4270-bd5e-145ec557529d",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Economia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 7,
+          "name": "Economia aziendale",
+          "subject_id": "5b6c580f808cc3c15981e389",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 8,
+          "name": "Microeconomia",
+          "subject_id": "5b6c580f808cc3c15981e38c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 62,
+          "name": "Macroeconomia",
+          "subject_id": "5d729ff99c8a3eea5cb275c3",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 63,
+          "name": "Finanza aziendale",
+          "subject_id": "5d729ffd9c8a3eea5cb278bf",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 90,
+          "name": "Organizzazione aziendale",
+          "subject_id": "5d76c2789c8a3eea5c97f6cf",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 64,
+          "name": "Marketing",
+          "subject_id": "5d72a0029c8a3eea5cb27d53",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 41,
+          "name": "Statistica di base",
+          "subject_id": "5bfc622e8595bb7e738db884",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 65,
+          "name": "Economia internazionale",
+          "subject_id": "5d72a0069c8a3eea5cb2802c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 4,
+          "name": "Diritto privato",
+          "subject_id": "5b6c580f808cc3c15981e380",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 49,
+          "name": "Diritto commerciale",
+          "subject_id": "5d729fb99c8a3eea5cb23caa",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a85d1a27d1c3ad3803e9",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FFarmacia%20Icon-1567002701.png?alt=media&token=2750b12b-8cfb-419d-a89e-44898be17a01",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FFarmacia%20Icon-1567002701.png?alt=media&token=2750b12b-8cfb-419d-a89e-44898be17a01",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Farmacia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 66,
+          "name": "Biologia",
+          "subject_id": "5d72a00a9c8a3eea5cb286ea",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 19,
+          "name": "Anatomia e fisiologia umana",
+          "subject_id": "5b6c5810808cc3c15981e3ae",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c15983320b",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FFilosofia+Icon-1550428961.png?alt=media&token=0135206f-6c31-409b-8149-432dd390e468",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-stato-mentale-125.png?alt=media&token=aaac0ad9-ff2c-468a-9f69-1eebd8dd2103",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Filosofia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 86,
+          "name": "Filologia medievale",
+          "subject_id": "5d72a09b9c8a3eea5cb30de2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 12,
+          "name": "Filosofia antica",
+          "subject_id": "5b6c580f808cc3c15981e398",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 87,
+          "name": "Filosofia moderna",
+          "subject_id": "5d72a0a09c8a3eea5cb311c4",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 13,
+          "name": "Filosofia contemporanea",
+          "subject_id": "5b6c580f808cc3c15981e39c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        }
+      ],
+      "version": 2
+    },
+    {
+      "active": true,
+      "faculty_id": "5b53441c3cb6d44f9d87a67f",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FGiurisprudenza%20Icon-1550428991.png?alt=media&token=49cdb22e-beac-4014-9861-eb353c13faa9",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-legge-125.png?alt=media&token=7858a36f-7439-432e-ac8e-e155902629f1",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Giurisprudenza",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 4,
+          "name": "Diritto privato",
+          "subject_id": "5b6c580f808cc3c15981e380",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 6,
+          "name": "Diritto romano",
+          "subject_id": "5b6c580f808cc3c15981e386",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 27,
+          "name": "Diritto amministrativo",
+          "subject_id": "5b6c5810808cc3c15981e3c6",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 47,
+          "name": "Diritto penale",
+          "subject_id": "5d729fb19c8a3eea5cb235ed",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 48,
+          "name": "Diritto di famiglia",
+          "subject_id": "5d729fb59c8a3eea5cb2391e",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 49,
+          "name": "Diritto commerciale",
+          "subject_id": "5d729fb99c8a3eea5cb23caa",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 50,
+          "name": "Diritto del lavoro",
+          "subject_id": "5d729fbd9c8a3eea5cb24087",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 51,
+          "name": "Procedura civile",
+          "subject_id": "5d729fc39c8a3eea5cb24507",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 52,
+          "name": "Procedura penale",
+          "subject_id": "5d729fc99c8a3eea5cb249c9",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FInformatica-1567002728.png?alt=media&token=098f6bdd-25d2-45b8-9ffa-6901e3a49554",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FInformatica-1567002728.png?alt=media&token=098f6bdd-25d2-45b8-9ffa-6901e3a49554",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Informatica",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 45,
+          "name": "Trigonometria",
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 61,
+          "name": "Elettrotecnica",
+          "subject_id": "5d729ff59c8a3eea5cb2720c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 15,
+          "name": "Fisica avanzata",
+          "subject_id": "5b6c5810808cc3c15981e3a8",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b53441c3cb6d44f9d87a683",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FIngegneria%20Icon-1550429019.png?alt=media&token=514c0313-ab97-450a-8d12-dd327f9bb059",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-manutenzione-125.png?alt=media&token=318eb120-e216-47b7-9a8d-f2245a6beff0",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Ingegneria, Matematica e Fisica",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 45,
+          "name": "Trigonometria",
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 41,
+          "name": "Statistica di base",
+          "subject_id": "5bfc622e8595bb7e738db884",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 61,
+          "name": "Elettrotecnica",
+          "subject_id": "5d729ff59c8a3eea5cb2720c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 15,
+          "name": "Fisica avanzata",
+          "subject_id": "5b6c5810808cc3c15981e3a8",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c15983320d",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FLettere%20Icon-1550429042.png?alt=media&token=dfd13194-cc2c-4286-9c38-7ef291b2b517",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-letteratura-125.png?alt=media&token=f1ff51f6-19fd-4566-b577-8be28245c924",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Lettere",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 10,
+          "name": "Letteratura italiana",
+          "subject_id": "5b6c580f808cc3c15981e392",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 11,
+          "name": "Letteratura latina",
+          "subject_id": "5b6c580f808cc3c15981e395",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 69,
+          "name": "Letteratura greca",
+          "subject_id": "5d72a0189c8a3eea5cb29291",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 70,
+          "name": "Geografia",
+          "subject_id": "5d72a01b9c8a3eea5cb29523",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 71,
+          "name": "Leetteratura internazionale varia",
+          "subject_id": "5d72a01f9c8a3eea5cb298f4",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 92,
+          "name": "Grammatica italiana",
+          "subject_id": "5d8890d79c8a3eea5c96c9ba",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5cbc7d188fae6fc644fa3505",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FLingue-1556104876.png?alt=media&token=4dd287fd-ea20-4881-8bf5-0db5242feb7e",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-letteratura-125.png?alt=media&token=f1ff51f6-19fd-4566-b577-8be28245c924",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Lingue",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 10,
+          "name": "Letteratura italiana",
+          "subject_id": "5b6c580f808cc3c15981e392",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 42,
+          "name": "Letteratura inglese",
+          "subject_id": "5cbb34988fae6fc644bececc",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5cc75c7367f867b686b6f02a",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FLingue-1556104876.png?alt=media&token=4dd287fd-ea20-4881-8bf5-0db5242feb7e",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-letteratura-125.png?alt=media&token=f1ff51f6-19fd-4566-b577-8be28245c924",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Lingue e letterature straniere",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 42,
+          "name": "Letteratura inglese",
+          "subject_id": "5cbb34988fae6fc644bececc",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 73,
+          "name": "Letteratura francese",
+          "subject_id": "5d72a0319c8a3eea5cb2a797",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 74,
+          "name": "Letteratura tedesca",
+          "subject_id": "5d72a0369c8a3eea5cb2ab81",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 75,
+          "name": "Letteratura spagnola",
+          "subject_id": "5d72a03b9c8a3eea5cb2af73",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 76,
+          "name": "Letteratura cinese",
+          "subject_id": "5d72a03e9c8a3eea5cb2b280",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b53441c3cb6d44f9d87a685",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FMedicina%20Icon-1550429336.png?alt=media&token=9bec4552-dc4b-4a10-b6d3-61770b718bdf",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-microscopio-125.png?alt=media&token=858a4747-65a7-4e01-bf38-0e27fac1186b",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Medicina e chirurgia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 19,
+          "name": "Anatomia e fisiologia umana",
+          "subject_id": "5b6c5810808cc3c15981e3ae",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 66,
+          "name": "Biologia",
+          "subject_id": "5d72a00a9c8a3eea5cb286ea",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 77,
+          "name": "Materia scientifiche - Medicina",
+          "subject_id": "5d72a0689c8a3eea5cb2d748",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 78,
+          "name": "Patologia clinica",
+          "subject_id": "5d72a0759c8a3eea5cb2e314",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a88b1a27d1c3ad382cc4",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FMusicologia-1567002762.png?alt=media&token=d30253aa-064b-4347-b362-f052f5156f42",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FMusicologia-1567002762.png?alt=media&token=d30253aa-064b-4347-b362-f052f5156f42",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Musicologia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 83,
+          "name": "Storia della musica",
+          "subject_id": "5d72a08c9c8a3eea5cb30180",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 57,
+          "name": "Storia del teatro e dello spettacolo",
+          "subject_id": "5d729fe09c8a3eea5cb26045",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 10,
+          "name": "Letteratura italiana",
+          "subject_id": "5b6c580f808cc3c15981e392",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 84,
+          "name": "Antropologia",
+          "subject_id": "5d72a0929c8a3eea5cb3068a",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8731a27d1c3ad3818d0",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FProfessioni%20Sanitarie%20Icon-1567002797.png?alt=media&token=4eb99ca0-b795-4812-bc9f-e4496066bab7",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FProfessioni%20Sanitarie%20Icon-1567002797.png?alt=media&token=4eb99ca0-b795-4812-bc9f-e4496066bab7",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Professioni sanitarie",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 19,
+          "name": "Anatomia e fisiologia umana",
+          "subject_id": "5b6c5810808cc3c15981e3ae",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 66,
+          "name": "Biologia",
+          "subject_id": "5d72a00a9c8a3eea5cb286ea",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8821a27d1c3ad382538",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FPsicologia%20Icon-1567002825.png?alt=media&token=4f7e3614-3487-4513-a1fb-88b9d30c0190",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FPsicologia%20Icon-1567002825.png?alt=media&token=4f7e3614-3487-4513-a1fb-88b9d30c0190",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Psicologia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 79,
+          "name": "Psicologia clinica",
+          "subject_id": "5d72a07c9c8a3eea5cb2e871",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 22,
+          "name": "Psicologia dello sviluppo",
+          "subject_id": "5b6c5810808cc3c15981e3b7",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 80,
+          "name": "Psicologia sociale",
+          "subject_id": "5d72a0809c8a3eea5cb2eb16",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 81,
+          "name": "Psicologia generale",
+          "subject_id": "5d72a0859c8a3eea5cb2f838",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c159833213",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FPsicologia%20Icon-1567002825.png?alt=media&token=4f7e3614-3487-4513-a1fb-88b9d30c0190",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FPsicologia%20Icon-1567002825.png?alt=media&token=4f7e3614-3487-4513-a1fb-88b9d30c0190",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Psicologia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 79,
+          "name": "Psicologia clinica",
+          "subject_id": "5d72a07c9c8a3eea5cb2e871",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 22,
+          "name": "Psicologia dello sviluppo",
+          "subject_id": "5b6c5810808cc3c15981e3b7",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 80,
+          "name": "Psicologia sociale",
+          "subject_id": "5d72a0809c8a3eea5cb2eb16",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 81,
+          "name": "Psicologia generale",
+          "subject_id": "5d72a0859c8a3eea5cb2f838",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8691a27d1c3ad38103e",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20deella%20Comunicazione%20Icon-1567002856.png?alt=media&token=7f163827-80a8-4df5-a541-af301c37d2b9",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20deella%20Comunicazione%20Icon-1567002856.png?alt=media&token=7f163827-80a8-4df5-a541-af301c37d2b9",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Scienze della comunicazione",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 67,
+          "name": "Semiotica",
+          "subject_id": "5d72a00e9c8a3eea5cb28a41",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 26,
+          "name": "Sociologia",
+          "subject_id": "5b6c5810808cc3c15981e3c3",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 64,
+          "name": "Marketing",
+          "subject_id": "5d72a0029c8a3eea5cb27d53",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 68,
+          "name": "Comunicazione",
+          "subject_id": "5d72a0129c8a3eea5cb28e4d",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8821a27d1c3ad382539",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FPsicologia%20Icon-1550429401.png?alt=media&token=2b4cb8f3-f913-4c4b-aafd-601b914a6110",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-formazione-125.png?alt=media&token=68b0bee5-7a79-47d6-b8a5-75ddbc1de71c",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Scienze della formazione",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 26,
+          "name": "Sociologia",
+          "subject_id": "5b6c5810808cc3c15981e3c3",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 23,
+          "name": "Pedagogia",
+          "subject_id": "5b6c5810808cc3c15981e3ba",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 22,
+          "name": "Psicologia dello sviluppo",
+          "subject_id": "5b6c5810808cc3c15981e3b7",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 81,
+          "name": "Psicologia generale",
+          "subject_id": "5d72a0859c8a3eea5cb2f838",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 84,
+          "name": "Antropologia",
+          "subject_id": "5d72a0929c8a3eea5cb3068a",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8921a27d1c3ad383413",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20Motorie-1567002881.png?alt=media&token=7388530f-7a09-49b0-951b-2cc7cbcdb1c6",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20Motorie-1567002881.png?alt=media&token=7388530f-7a09-49b0-951b-2cc7cbcdb1c6",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Scienze motorie",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 94,
+          "name": "Anatomia per le scienze motorie e movimenti",
+          "subject_id": "5daf1a6b06f54b6a74206857",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 93,
+          "name": "Regole sportive",
+          "subject_id": "5daf18ec06f54b6a741f0cdd",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c15983320f",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20Naturali%20Icon-1550429426.png?alt=media&token=3d248429-297d-43fc-89cc-fee5842ca041",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-matematica-125.png?alt=media&token=1f69ec59-0611-4a9b-80f6-e7311011992a",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Scienze naturali",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 54,
+          "name": "Botanica",
+          "subject_id": "5d729fd39c8a3eea5cb255c8",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 82,
+          "name": "Scienze della Terra",
+          "subject_id": "5d72a0899c8a3eea5cb2fed9",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 70,
+          "name": "Geografia",
+          "subject_id": "5d72a01b9c8a3eea5cb29523",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5b6c837b808cc3c159833211",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FScienze%20Politiche%20Icon-1550429492.png?alt=media&token=6104c4c4-3ec6-4359-98b6-fb5cfc7885a2",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/faculties%2Fpng%2Ficons8-mappamondo-125.png?alt=media&token=24563641-c7b3-432c-b16d-3c8f9e390d4f",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Scienze politiche",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 26,
+          "name": "Sociologia",
+          "subject_id": "5b6c5810808cc3c15981e3c3",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 4,
+          "name": "Diritto privato",
+          "subject_id": "5b6c580f808cc3c15981e380",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 41,
+          "name": "Statistica di base",
+          "subject_id": "5bfc622e8595bb7e738db884",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 8,
+          "name": "Microeconomia",
+          "subject_id": "5b6c580f808cc3c15981e38c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 62,
+          "name": "Macroeconomia",
+          "subject_id": "5d729ff99c8a3eea5cb275c3",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8a61a27d1c3ad384c1d",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FSociologia%20Icon-1567002913.png?alt=media&token=6213fd4d-81de-4c86-aff2-9aa98f2854b5",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FSociologia%20Icon-1567002913.png?alt=media&token=6213fd4d-81de-4c86-aff2-9aa98f2854b5",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Sociologia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 26,
+          "name": "Sociologia",
+          "subject_id": "5b6c5810808cc3c15981e3c3",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 41,
+          "name": "Statistica di base",
+          "subject_id": "5bfc622e8595bb7e738db884",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 80,
+          "name": "Psicologia sociale",
+          "subject_id": "5d72a0809c8a3eea5cb2eb16",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 23,
+          "name": "Pedagogia",
+          "subject_id": "5b6c5810808cc3c15981e3ba",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a8ab1a27d1c3ad384fc1",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FStoria%20Icon-1567002943.png?alt=media&token=3e6cc2ca-0a54-4346-b248-758506305dcf",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FStoria%20Icon-1567002943.png?alt=media&token=3e6cc2ca-0a54-4346-b248-758506305dcf",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Storia",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 13,
+          "name": "Filosofia contemporanea",
+          "subject_id": "5b6c580f808cc3c15981e39c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 88,
+          "name": "Storia antica",
+          "subject_id": "5d72a0a39c8a3eea5cb314f2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 89,
+          "name": "Storia medievale",
+          "subject_id": "5d72a0a89c8a3eea5cb31838",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 72,
+          "name": "Storia moderna",
+          "subject_id": "5d72a0299c8a3eea5cb2a0cd",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 10,
+          "name": "Letteratura italiana",
+          "subject_id": "5b6c580f808cc3c15981e392",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 84,
+          "name": "Antropologia",
+          "subject_id": "5d72a0929c8a3eea5cb3068a",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 70,
+          "name": "Geografia",
+          "subject_id": "5d72a01b9c8a3eea5cb29523",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 60,
+          "name": "Storia contemporanea",
+          "subject_id": "5d729ff09c8a3eea5cb26e5d",
+          "version": 0
+        }
+      ],
+      "version": 0
+    },
+    {
+      "active": true,
+      "faculty_id": "5d52a87a1a27d1c3ad381f5a",
+      "faculty_image": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FVeeterinaria%20Icon-1567002966.png?alt=media&token=66471184-a0f7-4771-b5b6-7d20e200b90b",
+      "faculty_image_pdf": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/admin_panel%2Fimages%2FVeeterinaria%20Icon-1567002966.png?alt=media&token=66471184-a0f7-4771-b5b6-7d20e200b90b",
+      "last_update_date": "Fri, 15 Nov 2019 15:43:53 GMT",
+      "name": "Veterinaria",
+      "subjects": [
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 9,
+          "name": "Matematica di base",
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 17,
+          "name": "Fisica di base",
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 91,
+          "name": "Zoologia",
+          "subject_id": "5d7eabf59c8a3eea5c7669ae",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 55,
+          "name": "Chimica inorganica",
+          "subject_id": "5d729fd89c8a3eea5cb25a5c",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 56,
+          "name": "Chimica organica",
+          "subject_id": "5d729fdc9c8a3eea5cb25d5b",
+          "version": 0
+        },
+        {
+          "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+          "legacy_id": 18,
+          "name": "Chimica generale",
+          "subject_id": "5b6c5810808cc3c15981e3ab",
+          "version": 0
+        }
+      ],
+      "version": 0
+    }
+  ],
+  "success": true
+}

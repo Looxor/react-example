@@ -1,0 +1,1379 @@
+[
+  {
+    "data": {
+      "contest_id": "5de6399801fedb32211f8de3",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "il rapporto fra la massa del liquido e il suo volume "
+            },
+            {
+              "answer_number": 1,
+              "text": "la resistenza del liquido allo scorrimento"
+            },
+            {
+              "answer_number": 2,
+              "text": "il rapporto tra il volume del liquido e la sua massa"
+            },
+            {
+              "answer_number": 3,
+              "text": "il prodotto massa per volume "
+            },
+            {
+              "answer_number": 4,
+              "text": "uguale in tutti i sistemi di unità di misura"
+            }
+          ],
+          "question": "La densità di un liquido è:",
+          "question_number": 0,
+          "subject_id": "5b6c580f808cc3c15981e3a2",
+          "subject_name": "Fisica di base",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 1,
+              "text": "è sempre negativa"
+            },
+            {
+              "answer_number": 2,
+              "text": "ha derivata nulla nel suo dominio naturale"
+            },
+            {
+              "answer_number": 3,
+              "text": "è costante nel suo dominio naturale"
+            },
+            {
+              "answer_number": 4,
+              "text": "è sempre positiva"
+            }
+          ],
+          "question": "La funzione $f(x) = \\arctan x + \\arctan \\frac 1 x$",
+          "question_number": 1,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 15
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Vengono selezionate solo le righe in b che non hanno un corrispondente in a"
+            },
+            {
+              "answer_number": 1,
+              "text": "Vengono selezionate solo le righe che non hanno un corrispondente nell’altra tabella"
+            },
+            {
+              "answer_number": 2,
+              "text": "Vengono selezionate tutte le righe in a, indipendentemente dai corrispondenti in b"
+            },
+            {
+              "answer_number": 3,
+              "text": "Vengono selezionate solo le righe in a che non hanno un corrispondente in b"
+            },
+            {
+              "answer_number": 4,
+              "text": "Vengono selezionate tutte le righe in b, indipendentemente dai corrispondenti in a"
+            }
+          ],
+          "question": "In SQL, cosa si intende con la clausola “a LEFT OUTER JOIN b”?",
+          "question_number": 2,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_name": "Basi di dati",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "√3"
+            },
+            {
+              "answer_number": 1,
+              "text": "(√2)/2"
+            },
+            {
+              "answer_number": 2,
+              "text": "(√3)/2"
+            },
+            {
+              "answer_number": 3,
+              "text": "1/2"
+            },
+            {
+              "answer_number": 4,
+              "text": "(√3)/3"
+            }
+          ],
+          "question": "Quanto misura la tangente di π/3?",
+          "question_number": 3,
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "subject_name": "Trigonometria",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "crea una tabella temporanea con i dati selezionati"
+            },
+            {
+              "answer_number": 1,
+              "text": "copia i dati tra tabelle esistenti"
+            },
+            {
+              "answer_number": 2,
+              "text": "estrae i dati da una select e li copia in una nuova tabella"
+            },
+            {
+              "answer_number": 3,
+              "text": "estrae i dati da una select e li visualizza"
+            },
+            {
+              "answer_number": 4,
+              "text": "crea una \"View\" con i dati selezionati"
+            }
+          ],
+          "question": "In SQL, l’operatore SELECT INTO:",
+          "question_number": 4,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_name": "Basi di dati",
+          "timeout": 50
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de63886ca8347b5bf3a2a32",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "sen(45°) = 1/2"
+            },
+            {
+              "answer_number": 1,
+              "text": "$sen^2(x)$ = 1 + $cos^2(x)$"
+            },
+            {
+              "answer_number": 2,
+              "text": "cos(2x) = $sen^2(x)$ – $cos^2(x)$"
+            },
+            {
+              "answer_number": 3,
+              "text": "sen(2x) = $cos^2(x)$ – $sen^2(x)$"
+            },
+            {
+              "answer_number": 4,
+              "text": "tg(x) = sen(x)/cos(x) "
+            }
+          ],
+          "question": "Quale delle seguenti espressioni è corretta?",
+          "question_number": 0,
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "subject_name": "Trigonometria",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Fenici"
+            },
+            {
+              "answer_number": 1,
+              "text": "Anubi"
+            },
+            {
+              "answer_number": 2,
+              "text": "Isis"
+            },
+            {
+              "answer_number": 3,
+              "text": "Sfingi"
+            },
+            {
+              "answer_number": 4,
+              "text": "Sekmet"
+            }
+          ],
+          "question": "Qual è il nome delle figure rappresentate nelle statue egiziane a difesa di tombe e templi?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37d",
+          "subject_name": "Cultura generale",
+          "timeout": 15
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "I contadini sono poveri"
+            },
+            {
+              "answer_number": 1,
+              "text": "Tutti i ricchi sono contadini"
+            },
+            {
+              "answer_number": 2,
+              "text": "I contadini sono ricchi"
+            },
+            {
+              "answer_number": 3,
+              "text": "I ricchi amano i tulipani"
+            },
+            {
+              "answer_number": 4,
+              "text": "I contadini aborrono i tulipani"
+            }
+          ],
+          "question": "\"I contadini amano i tulipani. Chi ama i tulipani è ricco\". Cosa può essere necessariamente dedotto da questa premessa?",
+          "question_number": 2,
+          "subject_id": "5b6c580f808cc3c15981e377",
+          "subject_name": "Logica verbale",
+          "timeout": 40
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "3/2"
+            },
+            {
+              "answer_number": 1,
+              "text": "1/5"
+            },
+            {
+              "answer_number": 2,
+              "text": "1"
+            },
+            {
+              "answer_number": 3,
+              "text": "3/5"
+            },
+            {
+              "answer_number": 4,
+              "text": "2"
+            }
+          ],
+          "question": "Carlo acquista una chitarra a 95 € e la rivende a 285 €. Quanto ha ricaricato in percentuale sul costo iniziale?",
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "almeno il 50%"
+            },
+            {
+              "answer_number": 1,
+              "text": "2/5"
+            },
+            {
+              "answer_number": 2,
+              "text": "almeno il 20%"
+            },
+            {
+              "answer_number": 3,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 4,
+              "text": "al più il 30%"
+            }
+          ],
+          "question": "Ad un evento, il 40% dei partecipanti ha una prevendita, mentre il 10% ha scarpe di cuoio. Quanti partecipanti non hanno né una prevendita né scarpe di cuoio?",
+          "question_number": 4,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64b1266eb953c6419e620",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$f(x)$ non è continua in $x=b$"
+            },
+            {
+              "answer_number": 1,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 2,
+              "text": "$f(x)$ non ammette limite in $x=b$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f(x)$ non è definita in $x=b$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$f(x)$ non è integrabile in $x=b$"
+            }
+          ],
+          "question": "Sia $f(x): \\mathbb{R}\\to\\mathbb{R}$ non derivabile nel punto $x=b$. Allora",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "18%"
+            },
+            {
+              "answer_number": 1,
+              "text": "40%"
+            },
+            {
+              "answer_number": 2,
+              "text": "24%"
+            },
+            {
+              "answer_number": 3,
+              "text": "9%"
+            },
+            {
+              "answer_number": 4,
+              "text": "60%"
+            }
+          ],
+          "question": "In una classe di 30 alunni, 18 non portano gli occhiali. Qual è la percentuali di alunni che portano gli occhiali in quella classe?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$f$ e $g$ sono derivabili $n$ volte in $x_0$ e $f^{\\left(n\\right)}\\left(x\\right)=g^{\\left(n\\right)}\\left({x}_0\\right)$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$f$ e $g$ sono derivabili con continuità $n$ volte in $x_0$ e $f^{\\left(i\\right)}\\left(x_0\\right)=g^{\\left(i\\right)}\\left(x_0\\right)\\ \\forall i=0,\\dots ,n$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$f$ e $g$ sono derivabili $n$ volte in $x_0$ e $f^{\\left(i\\right)}\\left(x_0\\right)=g^{\\left(i\\right)}\\left(x_0\\right)\\ \\forall i=0,\\dots ,n$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f$ e $g$ sono derivabili $n$ volte in $x_0$ $f^{\\left(i\\right)}\\left(x\\right)=g^{\\left(i\\right)}\\left(x_0\\right)\\ \\forall i=0,\\dots ,n$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$f$ e $g$ sono derivabili $n$ volte in $x_0$ e $f^{\\left(n\\right)}\\left(x\\right)=g^{\\left(n\\right)}\\left(x\\right)$"
+            }
+          ],
+          "question": "Due funzioni $f,g:\\left(a,b\\right)\\to \\mathbb{R}$ hanno un contatto di ordine $n$ in $x_0\\in \\left(a,b\\right)$ se",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "negativo"
+            },
+            {
+              "answer_number": 1,
+              "text": "divergente"
+            },
+            {
+              "answer_number": 2,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 3,
+              "text": "indeterminato"
+            },
+            {
+              "answer_number": 4,
+              "text": "convergente"
+            }
+          ],
+          "question": "L'integrale improprio $\\int_1^\\infty \\frac 1 {x^2} \\text{d}x$ è",
+          "question_number": 3,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "8"
+            },
+            {
+              "answer_number": 1,
+              "text": "9"
+            },
+            {
+              "answer_number": 2,
+              "text": "10"
+            },
+            {
+              "answer_number": 3,
+              "text": "15"
+            },
+            {
+              "answer_number": 4,
+              "text": "12"
+            }
+          ],
+          "question": "Quanti sono gli anagrammi, anche senza senso, della parola RAPA?",
+          "question_number": 4,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64b2b66eb953c6419e621",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 1,
+              "text": "le funzioni non sono confrontabili"
+            },
+            {
+              "answer_number": 2,
+              "text": "$g(x)=o(f(x))$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f(x)=o(g(x))$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$g(x)\\sim f(x)$"
+            }
+          ],
+          "question": "Sia $f(x)=e^x$ e $g(x)=x$. Allora per $x\\to \\infty$",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$\\int^b_a{f\\left(x\\right)dx}\\le M\\left(a-b\\right)$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$\\left|\\int^b_a{f\\left(x\\right)dx}\\right|=M\\left(a-b\\right)$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$\\left|\\int^b_a{f\\left(x\\right)dx}\\right|\\le M\\left(b-a\\right)$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$\\left|\\int^b_a{f\\left(x\\right)dx}\\right|=M\\left(b-a\\right)$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$\\int^b_a{f\\left(x\\right)dx}=M\\left(b-a\\right)$"
+            }
+          ],
+          "question": "Data la funzione $f\\left(x\\right)$ integrabile su $\\left[a,b\\right]$ e posto $M={sup \\left|f\\left(x\\right)\\right|}$ per $x\\in \\left[a,b\\right]$, allora",
+          "question_number": 1,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$x\\ge 1$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$x\\le -2\\vee x\\ge 1$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$x>2$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$x<-2\\vee 1\\le x<2$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$-2<x\\le 1\\vee x>2$"
+            }
+          ],
+          "question": "La soluzione di $\\frac{x-1}{4-x^2}\\le 0$ è",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "si intersecano in un punto"
+            },
+            {
+              "answer_number": 1,
+              "text": "non si intersecano mai"
+            },
+            {
+              "answer_number": 2,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 3,
+              "text": "si intersecano in infiniti punti"
+            },
+            {
+              "answer_number": 4,
+              "text": "si intersecano in due punti"
+            }
+          ],
+          "question": "Le funzioni $f\\left(x\\right)={\\sin x}$ e $g\\left(x\\right)={\\cos x}$ in $x\\in \\left[0,2\\pi \\right]$",
+          "question_number": 3,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$ax^2+by+c=0$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$ax+by=0$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$ax+b=0$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$ax^2+by^2+c=0$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$ax+by+c=0$"
+            }
+          ],
+          "question": "L'espressione di una generica retta in forma implicita è",
+          "question_number": 4,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64ce066eb953c6419e623",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "è sen(2a) "
+            },
+            {
+              "answer_number": 1,
+              "text": "è sempre uguale a 1 "
+            },
+            {
+              "answer_number": 2,
+              "text": "dipende dal valore di a "
+            },
+            {
+              "answer_number": 3,
+              "text": "è sempre nullo "
+            },
+            {
+              "answer_number": 4,
+              "text": "è cos(2a)"
+            }
+          ],
+          "question": "Il valore dell'espressione sen(2a) – cos(2a): ",
+          "question_number": 0,
+          "subject_id": "5d729fa49c8a3eea5cb22695",
+          "subject_name": "Trigonometria",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "italiano"
+            },
+            {
+              "answer_number": 1,
+              "text": "francese"
+            },
+            {
+              "answer_number": 2,
+              "text": "inglese"
+            },
+            {
+              "answer_number": 3,
+              "text": "spagnolo"
+            },
+            {
+              "answer_number": 4,
+              "text": "tedesco"
+            }
+          ],
+          "question": "I Kartoffeln sono un piatto",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37d",
+          "subject_name": "Cultura generale",
+          "timeout": 10
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$\\sum^{\\infty }_{n=1}{n^2}$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$\\sum^{\\infty }_{n=1}{\\frac{1}{n}}$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$\\sum^{\\infty }_{n=1}{\\frac{1}{\\sqrt{n}}}$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$\\sum^{\\infty }_{n=1}{n}$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$\\sum^{\\infty }_{n=1}{\\frac{1}{n^2}}$"
+            }
+          ],
+          "question": "Si dice serie armonica la serie",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "spagnolo"
+            },
+            {
+              "answer_number": 1,
+              "text": "italiano"
+            },
+            {
+              "answer_number": 2,
+              "text": "francese"
+            },
+            {
+              "answer_number": 3,
+              "text": "tedesco"
+            },
+            {
+              "answer_number": 4,
+              "text": "inglese"
+            }
+          ],
+          "question": "Il Galette Bretonne è un piatto",
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e37d",
+          "subject_name": "Cultura generale",
+          "timeout": 15
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$3$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$4$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$1$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$2$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$5$"
+            }
+          ],
+          "question": "Quante sono le leggi di Keplero?",
+          "question_number": 4,
+          "subject_id": "5b6c5810808cc3c15981e3a8",
+          "subject_name": "Fisica avanzata",
+          "timeout": 30
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64d0266eb953c6419e624",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Pavido"
+            },
+            {
+              "answer_number": 1,
+              "text": "Ardito"
+            },
+            {
+              "answer_number": 2,
+              "text": "Regale"
+            },
+            {
+              "answer_number": 3,
+              "text": "Montuoso"
+            },
+            {
+              "answer_number": 4,
+              "text": "Prode"
+            }
+          ],
+          "question": "Quale dei seguenti termini è il contrario di \"coraggioso\"?",
+          "question_number": 0,
+          "subject_id": "5b6c580f808cc3c15981e377",
+          "subject_name": "Logica verbale",
+          "timeout": 25
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Conoscere"
+            },
+            {
+              "answer_number": 1,
+              "text": "Rivedere"
+            },
+            {
+              "answer_number": 2,
+              "text": "Provvedere"
+            },
+            {
+              "answer_number": 3,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 4,
+              "text": "Prevenire"
+            }
+          ],
+          "question": "\"Credere : Credente = X : Previdente\". Qual è il termine X che completa correttamente la proporzione verbale?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e377",
+          "subject_name": "Logica verbale",
+          "timeout": 35
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "se e solo se è suriettiva nell’intervallo"
+            },
+            {
+              "answer_number": 1,
+              "text": "in ogni caso"
+            },
+            {
+              "answer_number": 2,
+              "text": "se e solo se non è né iniettiva né suriettiva nell’intervallo"
+            },
+            {
+              "answer_number": 3,
+              "text": "in nessun caso"
+            },
+            {
+              "answer_number": 4,
+              "text": "se e solo se è iniettiva nell’intervallo"
+            }
+          ],
+          "question": "Una funzione è invertibile in un intervallo",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 15
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Le relazioni tra tabelle devono essere create dopo maschere, query e report"
+            },
+            {
+              "answer_number": 1,
+              "text": "Le relazioni tra tabelle suddividono le informazioni in diverse tabelle"
+            },
+            {
+              "answer_number": 2,
+              "text": "Le relazioni tra tabelle determinano le strutture delle query"
+            },
+            {
+              "answer_number": 3,
+              "text": "Le relazioni tra tabelle costituiscono le basi su cui è possibile applicare l'integrità referenziale"
+            },
+            {
+              "answer_number": 4,
+              "text": "Le relazioni tra tabelle determinano la progettazione delle maschere e dei report"
+            }
+          ],
+          "question": "In Microsoft Access, quale di queste NON è una proprietà delle relazioni tra tabelle?",
+          "question_number": 3,
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_name": "Basi di dati",
+          "timeout": 50
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "7/25"
+            },
+            {
+              "answer_number": 1,
+              "text": "0.43"
+            },
+            {
+              "answer_number": 2,
+              "text": "0.32"
+            },
+            {
+              "answer_number": 3,
+              "text": "27/50"
+            },
+            {
+              "answer_number": 4,
+              "text": "9/20"
+            }
+          ],
+          "question": "In un armadio vi sono 9 magliette, 7 pantaloni e 4 felpe. Scegliendo a caso un capo, quali sono le probabilità che esso sia una maglietta?",
+          "question_number": 4,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64dee66eb953c6419e625",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$g(f(x)) = \\frac{1}{1 + x}$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$f(g(y)) = \\frac{1}{1 + y}$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$g(f(x)) = x + 1$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f(g(y)) = y + 1$"
+            },
+            {
+              "answer_number": 4,
+              "text": "Nessuna alternativa è corretta"
+            }
+          ],
+          "question": "Siano $f(x) = \\frac 1 x$ e $g(y) = \\frac 1 y$, si ha che",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 25
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Diventa il quadruplo"
+            },
+            {
+              "answer_number": 1,
+              "text": "Diventa il doppio"
+            },
+            {
+              "answer_number": 2,
+              "text": "Diventa otto volte  l'originale"
+            },
+            {
+              "answer_number": 3,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 4,
+              "text": "Diventa il triplo"
+            }
+          ],
+          "question": "Gianluca ha un piatto di forma circolare che vuole sostituire con un altro avente il raggio pari al doppio dell'originale. Come varia la superficie del piatto?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$k=2$ e $f\\left(x\\right)=2x$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$k=-4$ e $f\\left(x\\right)=-\\frac{x}{2}$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$k=4$ e $f\\left(x\\right)=\\frac{x}{2}$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$k=\\frac{1}{2}$ e $f\\left(x\\right)=x$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$k=\\frac{1}{4}$ e $f\\left(x\\right)=\\frac{x}{2}$"
+            }
+          ],
+          "question": "Data $f\\left(x\\right)=\\frac{k}{x^2+4}$ con $k\\in \\mathbb{R}$ e $g\\left(x\\right)=2{arctan f\\left(x\\right)}+k$, l'uguaglianza $\\int{f\\left(x\\right)dx}=g\\left(x\\right)$ è vera per",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "è$ x^2$"
+            },
+            {
+              "answer_number": 1,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 2,
+              "text": "non esiste"
+            },
+            {
+              "answer_number": 3,
+              "text": "è $1-\\frac{x^2}{2}$"
+            },
+            {
+              "answer_number": 4,
+              "text": "è $1+\\frac{x^2}{2}$"
+            }
+          ],
+          "question": "Il polinomio di Taylor di secondo grado di $\\cos(x)$",
+          "question_number": 3,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$f^{'}$ si annulla almeno due volte"
+            },
+            {
+              "answer_number": 1,
+              "text": "$f$ cambia segno esattamente"
+            },
+            {
+              "answer_number": 2,
+              "text": "$f$ è un polinomio di terzo grado"
+            },
+            {
+              "answer_number": 3,
+              "text": "$f^{'}$ si annulla almeno tre volte"
+            },
+            {
+              "answer_number": 4,
+              "text": "$f^{'}$ può essere monotona crescente"
+            }
+          ],
+          "question": "Se una funzione $f:\\mathbb{R}\\to \\mathbb{R}$ è derivabile e si annulla solo in $x=0$, $x=2$ e $x=4$, allora",
+          "question_number": 4,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64dfc66eb953c6419e626",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Nessuna alternativa è corretta"
+            },
+            {
+              "answer_number": 1,
+              "text": "le sole rette verticali"
+            },
+            {
+              "answer_number": 2,
+              "text": "tutte le rette"
+            },
+            {
+              "answer_number": 3,
+              "text": "le sole rette orizzontali"
+            },
+            {
+              "answer_number": 4,
+              "text": "le sole rette oblique"
+            }
+          ],
+          "question": "Il fascio di rette $y=mx+q$ con $m,q\\in \\mathbb{R}$ descrive, nel piano,",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "Diventa il doppio di quella precedente"
+            },
+            {
+              "answer_number": 1,
+              "text": "Diventa un quarto di quella precedente"
+            },
+            {
+              "answer_number": 2,
+              "text": "Non varia"
+            },
+            {
+              "answer_number": 3,
+              "text": "Diventa la metà di quella precedente"
+            },
+            {
+              "answer_number": 4,
+              "text": "Diventa quattro volte quella precedente"
+            }
+          ],
+          "question": "Piergiorgio possiede un tavolino di vetro di forma circolare che vuole sostituire con un altro simile ma avente il raggio pari alla metà dell'originale. Come varia la superficie del tavolino?",
+          "question_number": 1,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$\\cos \\left(\\frac{\\pi}{2}+\\alpha \\right)=x$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$\\sin \\alpha =x$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$\\cos \\left(\\frac{\\pi}{2}-\\alpha \\right)=x$"
+            },
+            {
+              "answer_number": 3,
+              "text": "${\\cos \\left(2\\pi -\\alpha \\right)}=-x$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$\\sin \\left(\\frac{\\pi}{2}-\\alpha \\right)=x$"
+            }
+          ],
+          "question": "Se $\\cos \\alpha =x$ allora",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "2/3"
+            },
+            {
+              "answer_number": 1,
+              "text": "3/5"
+            },
+            {
+              "answer_number": 2,
+              "text": "1/4"
+            },
+            {
+              "answer_number": 3,
+              "text": "3/4"
+            },
+            {
+              "answer_number": 4,
+              "text": "5/8"
+            }
+          ],
+          "question": "Se si lanciano contemporaneamente tre monete, qual è la probabilità che non esca testa su due facce?",
+          "question_number": 3,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "10"
+            },
+            {
+              "answer_number": 1,
+              "text": "100"
+            },
+            {
+              "answer_number": 2,
+              "text": "Nessuno"
+            },
+            {
+              "answer_number": 3,
+              "text": "40"
+            },
+            {
+              "answer_number": 4,
+              "text": "50"
+            }
+          ],
+          "question": "In un cinema vi sono 200 spettatori, fra cui 40 italiani, 50 donne e 60 amanti dei film polizieschi. Quanti spettatori sono sicuramente allo stesso tempo italiani, donne e amanti dei film polizieschi?",
+          "question_number": 4,
+          "subject_id": "5b6c580f808cc3c15981e37a",
+          "subject_name": "Logica numerica",
+          "timeout": 60
+        }
+      ]
+    },
+    "success": true
+  },
+  {
+    "data": {
+      "contest_id": "5de64e0d66eb953c6419e627",
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$2$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$5+2i$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$2+5i$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$5-2i$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$2-5i$"
+            }
+          ],
+          "question": "Sia $z=5+2i$. Allora $\\bar{z}$ è",
+          "question_number": 0,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 20
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$|z|+|h|=2$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$|z|=|h|$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$|z|>|h|$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$|z|<|h|$"
+            },
+            {
+              "answer_number": 4,
+              "text": "Nessuna alternativa è corretta"
+            }
+          ],
+          "question": "Siano $h=\\sqrt{3}+2i$ e $z=\\sqrt{2}+5i$. Allora",
+          "question_number": 1,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 30
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$7{\\ln \\left|{\\tan \\frac{x}{2}}\\right|}+k$"
+            },
+            {
+              "answer_number": 1,
+              "text": "${\\ln \\left|7{\\cos x}\\right|}+k$"
+            },
+            {
+              "answer_number": 2,
+              "text": "${\\ln \\left|{\\cos x}\\right|}+k$"
+            },
+            {
+              "answer_number": 3,
+              "text": "${\\tan {\\ln \\left|\\frac{x}{2}\\right|}}+k$"
+            },
+            {
+              "answer_number": 4,
+              "text": "${\\tan \\left(7{\\ln \\left|\\frac{x}{2}\\right|}\\right)}+k$"
+            }
+          ],
+          "question": "Data $f\\left(x\\right)=\\frac{7}{{\\sin x}}$ il valore di $\\int{f\\left(x\\right)dx}$ è",
+          "question_number": 2,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "$x=\\frac{\\pi}{2} + k \\pi$"
+            },
+            {
+              "answer_number": 1,
+              "text": "$x=2k\\pi$"
+            },
+            {
+              "answer_number": 2,
+              "text": "$x=0$"
+            },
+            {
+              "answer_number": 3,
+              "text": "$x=k\\pi$"
+            },
+            {
+              "answer_number": 4,
+              "text": "$x=\\frac{\\pi}{2} + 2k \\pi$"
+            }
+          ],
+          "question": "La funzione $y={\\sin x}$ interseca l'asse delle ascisse in",
+          "question_number": 3,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 60
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "text": "è sempre negativa"
+            },
+            {
+              "answer_number": 1,
+              "text": "ha derivata nulla nel suo dominio naturale"
+            },
+            {
+              "answer_number": 2,
+              "text": "è costante nel suo dominio naturale"
+            },
+            {
+              "answer_number": 3,
+              "text": "è sempre positiva"
+            },
+            {
+              "answer_number": 4,
+              "text": "Nessuna alternativa è corretta"
+            }
+          ],
+          "question": "La funzione $f(x) = \\arctan x + \\arctan \\frac 1 x$",
+          "question_number": 4,
+          "subject_id": "5b6cacfa808cc3c159834931",
+          "subject_name": "Matematica di base",
+          "timeout": 15
+        }
+      ]
+    },
+    "success": true
+  }
+]

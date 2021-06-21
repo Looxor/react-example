@@ -1,0 +1,181 @@
+https://testing-it-thefaculty-backend.appspot.com/profile/get_user_data
+{
+"firebase_idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUxMjRjY2JhZDVkNWZiZjNiYTJhOGI1ZWE3MTE4NDVmOGNiMjZhMzYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vdGVzdGluZy1pdC10aGVmYWN1bHR5LWJhY2tlbmQiLCJhdWQiOiJ0ZXN0aW5nLWl0LXRoZWZhY3VsdHktYmFja2VuZCIsImF1dGhfdGltZSI6MTU3ODI2MTM4NSwidXNlcl9pZCI6IlFqWUJvQVp4VFlObEc4Z0VZMUxBenJ5S2ZyVTIiLCJzdWIiOiJRallCb0FaeFRZTmxHOGdFWTFMQXpyeUtmclUyIiwiaWF0IjoxNTc4MjYxMzk5LCJleHAiOjE1NzgyNjQ5OTksImVtYWlsIjoiamlubmFocmFlQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImppbm5haHJhZUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.US0bephnMV5td-taKWQEoJ-GSeYQBe3UH-92m1MmWB0yk48bVHtGx2oGogaTY-llyX4ogTmbI7i4quQTocN3ifWaTQMia6CANDRzTlu4eH6fMBCzFFayPN4K59Vis__ocQf21bLBxp3e4kdYbDj7AOPtx4otpHkIr5iG-uBB5u0ckpPqDZCcBoCME1FDJFA6zFoJJBKEdy6nMfCuowMGXKy-iG09rzRR5fyUncT3BtIty0iGigSb-IWiLBwyDQXzF2RynOYNlZtky8ZWoB3leqR1RVzb3pOzMiKA-cJkDzvMPljy5M2Vs4cYKsjGM8opAD3enyDAkmET0hDIGK-1Qw"}
+
+{
+    "data": {
+        "birth_place": "Cina",
+        "birthday": "2000-01-01T00:00:00.000Z",
+        "daily_mode": true,
+        "email": "jinnahrae@gmail.com",
+        "esselunga_verified_customer": false,
+        "faculty_id": "5d52a89c1a27d1c3ad3840ed",
+        "faculty_name": "Informatica",
+        "faculty_subjects": [
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 9,
+                "name": "Matematica di base",
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 17,
+                "name": "Fisica di base",
+                "subject_id": "5b6c580f808cc3c15981e3a2",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 9,
+                "name": "Matematica di base",
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 45,
+                "name": "Trigonometria",
+                "subject_id": "5d729fa49c8a3eea5cb22695",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 61,
+                "name": "Elettrotecnica",
+                "subject_id": "5d729ff59c8a3eea5cb2720c",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 15,
+                "name": "Fisica avanzata",
+                "subject_id": "5b6c5810808cc3c15981e3a8",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 85,
+                "name": "Architettura delle reti - Internet",
+                "subject_id": "5d72a0979c8a3eea5cb30a78",
+                "version": 0
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 95,
+                "name": "Basi di dati",
+                "subject_id": "5dbe08ce2a5640a180dfe493",
+                "version": 0
+            }
+        ],
+        "firstname": "Jin",
+        "gender": "M",
+        "graduation_year": "2025-12-31T00:00:00.000Z",
+        "is_student": true,
+        "lastname": "Nahrae",
+        "nickname": "jin_nahrae",
+        "notification_level": 3,
+        "profile_image_url": "https://firebasestorage.googleapis.com/v0/b/thefaculty-a498a.appspot.com/o/static_images%2Fico_profile_male.png?alt=media&token=3a6157dc-9d73-45dc-9313-54f1fa61f7a7",
+        "stars": 1,
+        "studytown": "Milano",
+        "subjects_weight": [
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 9,
+                "name": "Matematica di base",
+                "subject_id": "5b6cacfa808cc3c159834931",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 17,
+                "name": "Fisica di base",
+                "subject_id": "5b6c580f808cc3c15981e3a2",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 45,
+                "name": "Trigonometria",
+                "subject_id": "5d729fa49c8a3eea5cb22695",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 61,
+                "name": "Elettrotecnica",
+                "subject_id": "5d729ff59c8a3eea5cb2720c",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 15,
+                "name": "Fisica avanzata",
+                "subject_id": "5b6c5810808cc3c15981e3a8",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 85,
+                "name": "Architettura delle reti - Internet",
+                "subject_id": "5d72a0979c8a3eea5cb30a78",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 95,
+                "name": "Basi di dati",
+                "subject_id": "5dbe08ce2a5640a180dfe493",
+                "version": 0,
+                "weight": 0.0875
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 1,
+                "name": "Logica verbale",
+                "subject_id": "5b6c580f808cc3c15981e377",
+                "suggested": true,
+                "version": 0,
+                "weight": 0.075
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 3,
+                "name": "Cultura generale",
+                "subject_id": "5b6c580f808cc3c15981e37d",
+                "suggested": true,
+                "version": 0,
+                "weight": 0.075
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 2,
+                "name": "Logica numerica",
+                "subject_id": "5b6c580f808cc3c15981e37a",
+                "suggested": true,
+                "version": 0,
+                "weight": 0.075
+            },
+            {
+                "last_update_date": "Fri, 15 Nov 2019 15:43:56 GMT",
+                "legacy_id": 43,
+                "name": "Lingua inglese",
+                "subject_id": "5d726e329c8a3eea5c6be05c",
+                "suggested": true,
+                "version": 0,
+                "weight": 0.075
+            }
+        ],
+        "university_id": "5bb8f32f1c9d44000022b211",
+        "university_name": "SmartCreative Srl",
+        "user_id": "5dd2b65500107e15753acc37"
+    },
+    "success": true
+}

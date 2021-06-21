@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "active": true,
+      "iframe_url": "https://simulatore-faculty.ilmiotest.it/simulatore/login.php?user=6405b07ab929a7835bf37b52529d26b05546ae65",
+      "instance_id": "5ea6e5ff0297d296850d605f",
+      "instance_instructions": "<p>wayback 2018 html instructions</p>",
+      "instance_mappings": {
+        "references": [
+          {
+            "ranking": 2,
+            "score": 40.0
+          },
+          {
+            "ranking": 1,
+            "score": 60.0
+          }
+        ],
+        "score_cutoff": 50.0
+      },
+      "instance_name": "Test Medicina Statale 2018",
+      "instance_notes": "no notes",
+      "instance_type": "wayback",
+      "last_update_date": "2020-04-28T20:19:02.082Z",
+      "simulation_id": "5ea873958155fd11a7c89abe",
+      "simulator_qr_code": "Hello 123",
+      "start_date": "2020-04-28T20:19:02.082Z",
+      "test_id": "5e26efe7e93aa9935a331e88",
+      "test_major_id": "5dc038c5637b54b14b35d5a2",
+      "test_major_name": "Medicina e Chirurgia",
+      "test_name": "Test Medicina Statale",
+      "test_university_id": "5b4c6d2829957d53aa863cc1",
+      "test_university_name": "Università Vita-Salute San Raffaele",
+      "user_id": "5c881bab3b7750001c04c9ec",
+      "version": 0
+    },
+    {
+      "blocks": [
+        {
+          "block_number": 0,
+          "finish_date": "2020-04-23T01:00:00.000Z",
+          "name": "Blocco test",
+          "questions": [
+            {
+              "answer_number": 1,
+              "answers": [
+                {
+                  "answer_number": 0,
+                  "is_correct_answer": true,
+                  "text": "due catene α e due β"
+                },
+                {
+                  "answer_number": 1,
+                  "is_correct_answer": false,
+                  "text": "una catena α e una β"
+                },
+                {
+                  "answer_number": 2,
+                  "is_correct_answer": false,
+                  "text": "due catene α e una β"
+                },
+                {
+                  "answer_number": 3,
+                  "is_correct_answer": false,
+                  "text": "due catene α e due γ "
+                },
+                {
+                  "answer_number": 4,
+                  "is_correct_answer": false,
+                  "text": "due catene β e due γ"
+                }
+              ],
+              "date": "2020-04-23T00:00:00.000Z",
+              "question": "Nell'adulto normale la globina presente nell'emoglobina è composta da:",
+              "question_id": "5e4ab99bc9efdb7593cc7b67",
+              "question_number": 0,
+              "real_answer_number": 0,
+              "response": "correct",
+              "score": 1,
+              "selexi_id": "960269099543569692",
+              "subject_name": "Biologia",
+              "topic_name": "Anatomia e fisiologia umana"
+            }
+          ],
+          "score": 1,
+          "scoring": {
+            "correct": 1,
+            "exclude_questions": ["5e4ab99bc9efdb7593cc7b67"],
+            "exclude_subjects": ["5d72a00a9c8a3eea5cb286ea"],
+            "exclude_topics": [],
+            "no_answer": 0,
+            "wrong": 0
+          },
+          "start_date": "2020-04-23T00:00:00.000Z",
+          "timeout": 90
+        }
+      ],
+      "instance_mappings": {
+        "references": [
+          {
+            "ranking": 8,
+            "score": 25
+          }
+        ],
+        "score_cutoff": 20
+      },
+      "active": false,
+      "finish_date": "2020-04-28T18:27:46.691Z",
+      "iframe_url": "https://simulatore-faculty.ilmiotest.it/simulatore/login.php?user=0feb6844fba41c38ddfceaed72ce593a53fff841",
+      "instance_id": "5ea0c7e435a35ed937c6d651",
+      "instance_instructions": "test",
+      "instance_name": "Test ",
+      "instance_notes": "note",
+      "instance_type": "wayback",
+      "last_update_date": "2020-04-28T18:27:17.803Z",
+      "score": 1,
+      "simulation_id": "5ea85964e2c612f9f6c7c9f3",
+      "simulator_qr_code": "dsgergregre",
+      "start_date": "2020-04-28T18:27:17.803Z",
+      "status": "completed",
+      "test_id": "5e80fdb0bd409ec1735413ad",
+      "test_major_id": "5dc038c4637b54b14b35d57a",
+      "test_major_name": "Antropologia Culturale ed Etnologia",
+      "test_name": "Test 3",
+      "test_university_id": "5c9b86e3a5ca5bdfc79133fb",
+      "test_university_name": "100 Montaditos",
+      "user_id": "5c881bab3b7750001c04c9ec",
+      "version": 1
+    },
+    {
+      "active": false,
+      "blocks": [
+        {
+          "block_number": 0,
+          "finish_date": "2020-04-23T01:00:00.000Z",
+          "name": "Blocco test",
+          "questions": [
+            {
+              "answer_number": 0,
+              "answers": [
+                {
+                  "answer_number": 0,
+                  "is_correct_answer": true,
+                  "text": "due catene α e due β"
+                },
+                {
+                  "answer_number": 1,
+                  "is_correct_answer": false,
+                  "text": "una catena α e una β"
+                },
+                {
+                  "answer_number": 2,
+                  "is_correct_answer": false,
+                  "text": "due catene α e una β"
+                },
+                {
+                  "answer_number": 3,
+                  "is_correct_answer": false,
+                  "text": "due catene α e due γ "
+                },
+                {
+                  "answer_number": 4,
+                  "is_correct_answer": false,
+                  "text": "due catene β e due γ"
+                }
+              ],
+              "date": "2020-04-23T00:00:00.000Z",
+              "question": "Nell'adulto normale la globina presente nell'emoglobina è composta da:",
+              "question_id": "5e4ab99bc9efdb7593cc7b67",
+              "question_number": 0,
+              "real_answer_number": -1,
+              "response": "no_answer",
+              "score": 0,
+              "selexi_id": "960269099543569692",
+              "subject_name": "Biologia",
+              "topic_name": "Anatomia e fisiologia umana"
+            }
+          ],
+          "score": 0,
+          "scoring": {
+            "correct": 1,
+            "exclude_questions": ["5e4ab99bc9efdb7593cc7b67"],
+            "exclude_subjects": ["5d72a00a9c8a3eea5cb286ea"],
+            "exclude_topics": [],
+            "no_answer": 0,
+            "wrong": 0
+          },
+          "start_date": "2020-04-23T00:00:00.000Z",
+          "timeout": 90
+        }
+      ],
+      "finish_date": "2020-04-28T18:23:47.307Z",
+      "iframe_url": "test",
+      "instance_id": "5ea0c7e435a35ed937c6d651",
+      "instance_instructions": "test",
+      "instance_mappings": {
+        "references": [
+          {
+            "ranking": 8,
+            "score": 25
+          }
+        ],
+        "score_cutoff": 20
+      },
+      "instance_name": "Test ",
+      "instance_notes": "note",
+      "instance_type": "clone",
+      "score": 0,
+      "simulation_id": "5e4ec838bd427b6e9c725c66",
+      "simulator_qr_code": "test3",
+      "start_date": "2020-02-17T17:42:15.189Z",
+      "status": "completed",
+      "test_id": "5e26efe7e93aa9935a331e89",
+      "test_major_id": "5dc038c4637b54b14b35d57a",
+      "test_major_name": "Antropologia Culturale ed Etnologia",
+      "test_name": "Test 3",
+      "test_university_id": "5c9b86e3a5ca5bdfc79133fb",
+      "test_university_name": "100 Montaditos",
+      "user_id": "5c881bab3b7750001c04c9ec",
+      "version": 1
+    }
+  ],
+  "success": true
+}

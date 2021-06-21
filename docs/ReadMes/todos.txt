@@ -1,0 +1,6 @@
+/remind <me> <* to implement features of sending email / checking app version regarding the server api version (followed @Christian Locatelli) > <every monday>
+/remind <me> * to refer the bug list and fix it from MantisBT
+* to make a problem list in our app (in UX/UI, performance of the app)
+* to check and fix any problem in Animation of our app
+* to make a strategy to load fast home screen after signin
+* to figure out a better alternative for a library to draw mathmatics formula (edited)

@@ -1,0 +1,264 @@
+[
+  {
+    "bestof_data": {
+      "bestof_id": "5feb4fb93b490021c1cd08f0",
+      "faculty_id": null,
+      "finish_date": "2020-12-29T16:49:15.991000+01:00",
+      "is_bot": false,
+      "last_update_date": "2020-12-29T16:49:16.131000+01:00",
+      "ongoing": false,
+      "questions": [
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "is_correct_answer": false,
+              "text": "Un server che smista e instrada il traffico di rete"
+            },
+            {
+              "answer_number": 1,
+              "is_correct_answer": false,
+              "text": "Un protocollo TCP per comunicare con una rete LAN"
+            },
+            {
+              "answer_number": 2,
+              "is_correct_answer": false,
+              "text": "Un tipo di connessione a Internet"
+            },
+            {
+              "answer_number": 3,
+              "is_correct_answer": false,
+              "text": "Una parte del sistema DNS"
+            },
+            {
+              "answer_number": 4,
+              "is_correct_answer": true,
+              "text": "Un protocollo UDP per assegnare gli indirizzi IP in una rete"
+            }
+          ],
+          "question": "In informatica, che cosa si intende con DHCP?",
+          "question_number": 0,
+          "start_date": "2020-12-29T16:48:23.912000+01:00",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-29T16:48:28.006000+01:00",
+          "user1_answer_number": 3,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-29T16:48:31.406000+01:00",
+          "user2_answer_number": 2,
+          "user2_has_answered": true,
+          "user2_score": 25
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "is_correct_answer": false,
+              "text": "non consente di essere NULL"
+            },
+            {
+              "answer_number": 1,
+              "is_correct_answer": false,
+              "text": "consente di archiviare stringhe fino a 16’777’215 caratteri"
+            },
+            {
+              "answer_number": 2,
+              "is_correct_answer": false,
+              "text": "consente di archiviare immagini e video, ma non PDF"
+            },
+            {
+              "answer_number": 3,
+              "is_correct_answer": false,
+              "text": "consente di archiviare quantità illimitate di dati binari (finché non finisce lo spazio sul database)"
+            },
+            {
+              "answer_number": 4,
+              "is_correct_answer": true,
+              "text": "consente di archiviare dati binari fino a 65’535 byte"
+            }
+          ],
+          "question": "In SQL, la struttura dati BLOB:",
+          "question_number": 1,
+          "start_date": "2020-12-29T16:48:37.406000+01:00",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "subject_image_url": null,
+          "subject_name": "Basi di dati",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-29T16:48:47.795000+01:00",
+          "user1_answer_number": 4,
+          "user1_has_answered": true,
+          "user1_score": 30,
+          "user2_answer_date": "2020-12-29T16:48:39.795000+01:00",
+          "user2_answer_number": 1,
+          "user2_has_answered": true,
+          "user2_score": 17
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "is_correct_answer": false,
+              "text": "al Governo"
+            },
+            {
+              "answer_number": 1,
+              "is_correct_answer": true,
+              "text": "alle Camere congiuntamente"
+            },
+            {
+              "answer_number": 2,
+              "is_correct_answer": false,
+              "text": "al Presidente del Consiglio dei Ministri"
+            },
+            {
+              "answer_number": 3,
+              "is_correct_answer": false,
+              "text": "al Capo dello Stato"
+            },
+            {
+              "answer_number": 4,
+              "is_correct_answer": false,
+              "text": "alle Camere alternativamente"
+            }
+          ],
+          "question": "Nell'ordinamento italiano la funzione legislativa è attribuita:",
+          "question_number": 2,
+          "start_date": "2020-12-29T16:48:55.795000+01:00",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "subject_image_url": null,
+          "subject_name": "Diritto costituzionale",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-29T16:48:57.619000+01:00",
+          "user1_answer_number": 1,
+          "user1_has_answered": true,
+          "user1_score": 20,
+          "user2_answer_date": "2020-12-29T16:49:02.541000+01:00",
+          "user2_answer_number": 1,
+          "user2_has_answered": true,
+          "user2_score": 17
+        },
+        {
+          "answers": [
+            {
+              "answer_number": 0,
+              "is_correct_answer": true,
+              "text": "un programma che risponde a richieste formulate con il protocollo HTTP"
+            },
+            {
+              "answer_number": 1,
+              "is_correct_answer": false,
+              "text": "un programma per la costruzione di siti web"
+            },
+            {
+              "answer_number": 2,
+              "is_correct_answer": false,
+              "text": "un calcolatore in grado di inviare pagine web via posta elettronica"
+            },
+            {
+              "answer_number": 3,
+              "is_correct_answer": false,
+              "text": "un programma di contabilizzazione degli accessi a un sito web"
+            },
+            {
+              "answer_number": 4,
+              "is_correct_answer": false,
+              "text": "un qualunque calcolatore connesso a Internet"
+            }
+          ],
+          "question": "Un web server è:",
+          "question_number": 3,
+          "start_date": "2020-12-29T16:49:09.541000+01:00",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "subject_image_url": null,
+          "subject_name": "Architettura delle reti - Internet",
+          "timeout": 50,
+          "user1_answer_date": "2020-12-29T16:49:15.991000+01:00",
+          "user1_answer_number": 0,
+          "user1_has_answered": true,
+          "user1_score": 17,
+          "user2_answer_date": "2020-12-29T16:49:13.619000+01:00",
+          "user2_answer_number": 1,
+          "user2_has_answered": true,
+          "user2_score": 17
+        }
+      ],
+      "start_date": "2020-12-29T16:48:09.069000+01:00",
+      "user1_avg_score": 21.0,
+      "user1_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477000+01:00",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477000+01:00",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475000+01:00",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user1_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user1_faculty_image_url": null,
+      "user1_faculty_name": "Informatica",
+      "user1_id": "5fcf1d0a7e9bdb33a0d219df",
+      "user1_nickname": "jinnahrae",
+      "user1_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14GiDkVOGnBq8yTX7TyevnK2Q4MDsSfmSh9JXvouebA=s96-c",
+      "user1_university_id": null,
+      "user1_university_name": null,
+      "user2_avg_score": 20.25,
+      "user2_bestof_subjects": [
+        {
+          "last_update_date": "2019-11-15T16:43:56.477000+01:00",
+          "legacy_id": 85,
+          "name": "Architettura delle reti - Internet",
+          "subject_id": "5d72a0979c8a3eea5cb30a78",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.477000+01:00",
+          "legacy_id": 95,
+          "name": "Basi di dati",
+          "subject_id": "5dbe08ce2a5640a180dfe493",
+          "topics": {},
+          "version": 0
+        },
+        {
+          "last_update_date": "2019-11-15T16:43:56.475000+01:00",
+          "legacy_id": 5,
+          "name": "Diritto costituzionale",
+          "subject_id": "5b6c580f808cc3c15981e383",
+          "topics": {},
+          "version": 0
+        }
+      ],
+      "user2_faculty_id": "5d52a89c1a27d1c3ad3840ed",
+      "user2_faculty_image_url": null,
+      "user2_faculty_name": "Informatica",
+      "user2_id": "5f526ea4dda24f825fbefbc9",
+      "user2_nickname": "jeannahrae",
+      "user2_profile_image_url": "https://lh3.googleusercontent.com/a-/AOh14Gj1BEoZM1pm-u0HAxd3ngZYbPUZVt_3sCFf90X-=s120",
+      "user2_university_id": "5b4c6d1d29957d53aa863c93",
+      "user2_university_name": "Politecnico di Milano",
+      "version": 9,
+      "winner_name": "user1"
+    },
+    "question": null
+  }
+]

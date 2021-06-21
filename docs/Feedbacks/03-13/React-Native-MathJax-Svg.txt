@@ -1,0 +1,19 @@
+app\modules\BestOf\_Components\AnswerItem.tsx
+  3,8: import MathJax from 'react-native-mathjax-local';
+  69,16:               <MathJax
+  74,17:               </MathJax>
+
+app\modules\BestOf\_Components\QuestionItem.tsx
+  3,8: import MathJax from 'react-native-mathjax-local';
+  20,18:                 <MathJax
+  25,19:                 </MathJax>
+
+app\modules\Contest\Match\_Components\AnswerItem.tsx
+  4,8: import MathJax from 'react-native-mathjax-local';
+  70,16:               <MathJax containerStyle={styles.latex}>{answer_text}</MathJax>
+  70,69:               <MathJax containerStyle={styles.latex}>{answer_text}</MathJax>
+
+app\modules\Contest\Match\_Components\QuestionItem.tsx
+  3,8: import MathJax from 'react-native-mathjax-local';
+  19,23:               return <MathJax>{question}</MathJax>;
+  19,43:               return <MathJax>{question}</MathJax>;
